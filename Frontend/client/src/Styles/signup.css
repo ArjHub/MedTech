@@ -1,0 +1,45 @@
+.form-area {
+  background: linear-gradient(to right, #62488e,#7e69a2);
+  display: flex;
+  justify-content: center; /* Center the content horizontally */
+  align-items: center; /* Center the content vertically */
+  height: 100vh; /* Adjust the height as per your requirement */
+  font-family: 'tahoma', sans-serif;
+  color: white;
+  text-align: center;
+  margin: 0; /* Remove default margin */
+  line-height: 1.5; /* Adjust line height */
+  font-size: 19px;
+} 
+
+.signup-box {
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 20px;
+  padding: 40px;
+  width: 300px;
+}
+
+.button-container {
+  display: flex;
+  flex-direction: column;
+  gap : 10px;
+}
+
+.button-wrapper {
+  margin-bottom: 20px;
+}
+
+.button-login, .button-signup {
+  background: #871194;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: block; /* Change to block */
+  width: 100%; /* Occupy full width of the container */
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 15px;
+}
+

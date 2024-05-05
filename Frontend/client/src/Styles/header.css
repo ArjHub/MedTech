@@ -1,0 +1,34 @@
+/* header.css */
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 50px; /* Adjust padding as needed */
+    background-color: #f0f0f0; /* Adjust background color as needed */
+  }
+  
+  .left-section {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo {
+    margin-right: 20px; /* Adjust margin as needed */
+  }
+  
+  .nav-links {
+    display: flex;
+  }
+  
+  .nav-link {
+    margin-right: 20px; /* Adjust margin as needed */
+    text-decoration: none;
+    color: #000; /* Adjust color as needed */
+  }
+  
+  .right-section {
+    font-weight: bold;
+    font-size: 1.2em; /* Adjust font size as needed */
+  }
+  

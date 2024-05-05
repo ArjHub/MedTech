@@ -1,0 +1,5165 @@
+drug,effect
+azithromycin,ototoxicity
+dihydrotachysterol,increased calcium-release
+dihydrotachysterol,hypercalcemia
+naproxen,pseudoporphyria
+oxaprozin,pseudoporphyria
+naproxen,erythropoietic protoporphyria
+naproxen,cutaneous fragility
+oxaprozin,cutaneous fragility
+naproxen,tense bullae
+oxaprozin,tense bullae
+clozapine,granulocytopenia
+5-fluorouracil,neurotoxicity
+5-fu,neurologic toxicity
+5-fu,prolonged myelosuppression
+5-fu,severe mucositis
+bh-ac,encephalopathy syndrome
+idarubicin,encephalopathy syndrome
+riluzole,hepatitis
+5-aminosalicylic acid,lupus-like syndrome
+lidocaine,methemoglobinemia
+bupivacaine,methemoglobinemia
+aspirin,asthma
+methotrexate,encephalopathy
+mtx,neurotoxicity
+epoprostenol,pulmonary edema
+prednisone,pruritic bullous eruption
+hydroxyurea,acute interstitial pneumonitis
+hydroxyurea,interstitial pneumonitis
+calcipotriol,irritant contact dermatitis
+calcipotriol,allergic reactions
+calcipotriol,irritation of the skin
+calcipotriol,irritant type of reaction
+pravastatin,myotonia
+aspirin,angioedema
+aspirin,systemic anaphylactoid reaction
+aspirin,urticaria
+omeprazole,eruption
+salazosulfapyridine,diffuse erythema
+salazosulfapyridine,fever up to 39 degrees c
+salazosulfapyridine,malaise
+salazosulfapyridine,pustules
+salazosulfapyridine,acute generalized exanthematous pustulosis
+olanzapine,elevated serum ck concentration
+olanzapine,muscle injury with concomitant elevations of serum ck
+olanzapine,elevation of serum creatine kinase
+diclofenac,hepatitis
+2-cda,lymphocytopenia
+heparin,priapism
+heparin,abnormal platelet aggregation
+clozapine,agranulocytosis
+clozapine,neutropenia
+clozapine,diurnal variation of the white blood cells
+all-trans-retinoic acid,acute neutrophilic dermatosis
+paroxetine,hair loss
+insulin,protamine allergy
+insulin,angioedema
+insulin,severe urticaria
+insulin,wheezing
+insulin,allergic symptoms
+nph insulin,allergic symptoms
+neutral protamine hagedorn (nph) insulin,protamine hypersensitivity
+insulin,hives
+nph,angioedema
+insulin,urticaria
+nph,urticaria
+brimonidine,lethargic
+brimonidine,poorly responsive
+brimonidine,apneic
+brimonidine,central nervous system depression
+ceftriaxone,elevated hepato-biliary enzymes
+ceftriaxone,transient biliary stasis
+ceftriaxone,hepato-biliary abnormalities
+methotrexate,anterior lumbosacral radiculopathy
+methotrexate,progressive paraparesis
+arsenic trioxide,decrease in the d-dimers
+arsenic trioxide,slight decrease in peripheral blood leukocytes
+minocycline,chills
+minocycline,fatigue
+minocycline,fever
+minocycline,"generalized, pruritic, macular eruption"
+minocycline,night sweats
+ minocycline,mononucleosis-like syndrome
+5-fu,life-threatening toxicity
+5-fu,life-threatening complications
+venlafaxine,acute ischaemic event
+venlafaxine,ischaemic events
+venlafaxine,acute cardiovascular event
+venlafaxine,acute myocardial ischaemia
+cyclophosphamide,embryopathy
+cp,embryopathy
+cp,multiple congenital anomalies
+cyclosposphamide,blepharophimosis
+cyclosposphamide,craniosynostosis
+cyclosposphamide,developmental delay
+cyclosposphamide,distal limb defects
+cyclosposphamide,flat nasal bridge
+cyclosposphamide,hypoplastic thumbs
+cyclosposphamide,oligodactyly
+cyclophosphamide,human teratogen
+phenytoin,seizures
+losartan,angioedema
+danazol,hepatic adenomas
+heparin,thrombocytopenia
+heparin,hemorrhagic complications
+taxane,glaucoma
+doxetaxel,glaucoma
+sodium phosphate,hyperphosphatemia
+sodium biphosphate,hyperphosphatemia
+amiodarone,prolongation of the qt interval
+amiodarone,ventricular tachyarrhymias
+amiodarone,torsades de pointes
+diphenylhydantoin,gingival hyperplasia
+d-pen,anemia
+d-penicillamine,anemia
+d-pen,thrombocytopenia
+d-penicillamine,thrombocytopenia
+d-pen,bicytopenia
+d-penicillamine,inhibition of hematopoiesis
+methimazole,agranulocytosis
+alendronate sodium,hypocalcemic tetany
+fleet phospho-soda,hypocalcemic tetany
+alendronate,hypocalcemic tetany
+fosamax,hypocalcemic tetany
+alendronate,hypophosphatemia
+fleet phospho-soda,hypophosphatemia
+fosamax,hypophosphatemia
+gemcitabine,thrombotic microangiopathy
+gemcitabine,renal failure
+infliximab,b-cell non-hodgkin's lymphoma
+infliximab,lymphoma
+infliximab,nodular sclerosing hodgkin's lymphoma
+codeine,codeine intoxication
+hydroxyurea,increase fetal hemoglobin
+sodium phenylbutyrate,increase fetal hemoglobin
+hu,increase in total hb
+hu,hepatic toxicity
+hu,mild reversible hematologic
+hu,increasing hb f
+sodium phenylbutyrate,increasing hb f
+hu,increase total hb
+hu,increases in total hb
+spb,increases in total hb
+oolong tea,delirious
+oolong tea,delirium
+caffeine,caffeine intoxication
+oolong tea,caffeine intoxication
+caffeine,rhabdomyolysis
+oolong tea,rhabdomyolysis
+caffeine,delirium
+caffeine,hyponatremia
+caffeine,water intoxication
+caffeine,caffeine toxicity
+caffeine,coexisting hyponatremia
+caffeine,injured the muscle cells
+caffeine,potassium depletion
+citalopram,8-hydroacy-desmethylclomipramine plasma level decrease
+citalopram,desmethylclomipramine plasma level increase
+indinavir,angiolipomas
+clozapine,elevated serum triglycerides
+clozapine,serum triglyceride levels increased
+clozapine,elevated serum triglyceride levels
+valproate,hypotension
+pyridostigmine,rippling phenomena worsened
+theophylline,theophylline poisoning
+theophylline,intoxication
+theophylline,theophylline intoxication
+ifosfamide,ifosfamide-induced encephalopathy
+ifosfamide,encephalopathy
+f viii,portal vein thrombosis
+gliclazide,acute icteric hepatitis-like illness
+gliclazide,acute hepatitis
+gliclazide,acute icteric liver necro-inflammation
+tca,cushing's syndrome
+nitrofurantoin,abnormal computed tomographic scans
+nitrofurantoin,impaired lung function
+nitrofurantoin,bronchiolitis obliterans organising pneumonia
+nitrofurantoin,boop
+nitrofurantoin,lung disease
+nitrofurantoin,fatal outcome
+nitrofurantoin,nitrofurantoin induced boop
+nitrofurantoin,lung injury
+nitrofurantoin,respiratory symptoms
+nitrofurantoin,nitrofurantoin induced lung injury
+interferon-alpha,akathisia
+interferon-alpha,neurotoxicity
+cyclophosphamide,acute erythroid leukemia
+cyclophosphamide,carcinoma
+uft,scleroderma-like reaction
+uracil-tegafur,scleroderma-like reaction
+uft,uft-induced scleroderma-like reaction
+ibuprofen,central nervous system manifestations
+ibuprofen,dizziness
+ibuprofen,gi upset
+ibuprofen,mild sedation
+ibuprofen,ibuprofen intoxication
+ibuprofen,depressed level of consciousness
+flecainide,acute respiratory failure
+flecainide,pneumonitis
+flecainide,hypersensitivity pneumonitis
+flecainide,interstitial hypoxaemiant pneumonitis
+l-asparaginase,sagittal sinus thrombosis
+l-asparaginase,transient free protein s deficiency
+l-asparaginase,seizure
+l-asparaginase,transient ischemic attacks
+minocycline,benign intracranial hypertension
+vaccination against hepatitis b,polyarteritis nodosa
+methotrexate,lung cancer
+cocaine,refractory coronary vasospasm
+troglitazone,liver injury
+troglitazone,hepatotoxicity
+troglitazone,irreversible liver injury
+troglitazone,fulminant hepatic failure
+nitrofurantoin,distortion of the lung parenchyma
+nitrofurantoin,fibrosis
+nitrofurantoin,pulmonary toxicity
+nitrofurantoin,widespread reticular pattern
+fluoxetine,death
+fluoxetine,fluoxetine toxicity
+zolmitriptan,spinal cord lesion
+zolmitriptan,spinal cord infarction
+carboplatin,hypersensitivity
+nimesulide,renal insufficiency
+nimesulide,adverse effect of fetal renal circulation
+etoposide,t-aml
+etoposide,secondary leukemia
+cyanamide,hepatic lesion with ground-glass inclusion bodies
+cyanamide,general fatigue
+cyanamide,fatigue
+cyanamide,fever
+cyanamide,elevation of serum transaminases
+cyanamide,ground-glass hepatocytes
+cyanamide,septum-like liver fibrosis
+cyanamide,liver dysfunction
+cyanamide,inflammation
+tacrolimus,sudden cutaneous reaction
+morphine,nonconvulsive status epilepticus
+naloxone,generalized tonic-clonic seizure
+vasopressin,bacterial peritonitis
+risperidone,eps
+risperidone,extrapyramidal symptoms
+chop,multiple abscesses
+ethambutol,anti-native dna antibodies
+ethambutol,hepatitis
+ethambutol,polyarthritis
+ethambutol,rash
+rifampicin,anti-native dna antibodies
+rifampicin,hepatitis
+rifampicin,polyarthritis
+methylprednisolone,normotensive scleroderma renal crisis
+mitomycin c,hus
+carboplatin,severe hemolytic uremic syndrome
+gemcitabine,severe hemolytic uremic syndrome
+carboplatin,hus
+gemcitabine,hus
+valproate,menstrual cycle disturbances
+sodium valproate,hyperandrogenism
+sodium valproate,menstrual disorders
+sodium valproate,polycystic ovaries
+sodium valproate,reproductive endocrine disorders
+valproate,reproductive endocrine disorders
+valproate,reproductive endocrine disorder
+valproate,serum testosterone
+valproate,amenorrhea
+valproate,gained weight
+valproate,polycystic changes
+cya,staphylococcus aureus sepsis
+cyclosporine,lethal
+cyclosporine,septicemia
+colchicine,proximal muscle weakness
+colchicine,myopathy
+colchicine,vacuolated fibers
+colchicine,variation in muscle fiber size
+paclitaxel,disabling neurotoxicity
+paclitaxel,neurotoxicity
+paclitaxel,phantom limb pain
+paclitaxel,plp
+phenylbutazone,serum sickness-like reactions
+phenylbutazone,skin manifestations
+atenolol,atenolol toxicity
+gemfibrozil,eosinophilic gastroenteritis
+gemfibrozil,ege
+lamivudine,lactic acidosis
+stavudine,lactic acidosis
+propafenone,ataxia
+propafenone,adverse central nervous system effects
+propafenone,dizziness
+pilsicainide,loss of consciousness
+pilsicainide,life-threatening arrhythmias
+risperidone,dystonia
+tiagabine,non-convulsive status epilepticus
+lithium,organic brain syndromes
+lithium,intense anxiety
+lithium,neurotoxicity
+lithium,psychotic symptoms
+carbamazepine,carbamazepine toxicity
+ritonavir,carbamazepine toxicity
+saquinavir,carbamazepine toxicity
+carbamazepine,progressive ataxia
+ritonavir,progressive ataxia
+saquinavir,progressive ataxia
+ritonavir,clinical toxicity
+ritonavir,diminishing carbamazepine metabolism
+ritonavir,increase in serum levels
+calcitonin,anaphylaxis
+calcitonin,anaphylaxis 
+miacalcic,anaphylactic reaction
+calcitonin,conjunctivitis
+calsynar,conjunctivitis
+calcitonin,perspiration
+calsynar,perspiration
+calcitonin,rhinitis
+calsynar,rhinitis
+minocycline,autoimmune hepatitis
+l-asparaginase,central nervous toxicity
+l-asparaginase,seizures
+l-asparaginase,hemorrhagic
+l-asparaginase,thrombotic cerebrovascular events
+cilastatin,neutropenic fever
+imipenem,neutropenic fever
+cilastatin,seizures
+imipenem,seizures
+cilastatin,proconvulsive
+imipenem,proconvulsive
+cilastatin,convulsions
+imipenem,convulsions
+cilastatin,seizure
+imipenem,seizure
+gabapentin,hypomanic
+gabapentin,mood changes
+gabapentin,behavioural side effects
+gbp,behavioural side effects
+5-aminosalicylic acid,acute pancreatitis
+vigabatrin,visual field constriction
+vigabatrin,visual field loss
+vigabatrin,field defects
+interferon,depressive symptoms
+ifn-alpha,psychiatric side effects
+interferon alpha,psychiatric side effects
+ifn-alpha,changes in serotonergic or noradrenergic neurotransmission
+vancomycin,vancomycin toxicity
+hyperbaric oxygen,morbidity
+0.1% tretinoin cream,brown discolouration of the fingernails
+4% hydroquinone in sorbolene cream,brown discolouration of the fingernails
+hydroquinone,nail staining
+bleomycin,gangrene
+methotrexate,gangrene
+bleomycin,acral vascular toxicity
+bleomycin,acute digital ischemia
+methotrexate,acute digital ischemia
+warfarin,diarrhea-associated over-anticoagulation
+warfarin,diarrhea
+warfarin,over-anticoagulation
+pccs,mi
+prothrombin complex concentrate,myocardial infarction
+pcc,mi
+quinine,thrombocytopenia
+colchicine,colchicine intoxication
+colchicine,near fatal
+fludarabine,acute myeloid leukemia
+fludarabine,lung cancer
+fludarabine,aml
+lithium carbonate,incontinence
+paroxetine,incontinence
+sertraline,incontinence
+venlafaxine,incontinence
+heparin,hit
+lead,high blood lead level
+lead,hypertension
+lead,lead-induced hypertension
+lead,lead toxicity
+nevirapine,severe rash
+nevirapine,sjs
+nevirapine,stevens-johnson syndrome
+acarbose,ileus
+losartan,increases urate excretion
+etanercept,atrial fibrillation
+methotrexate,atrial fibrillation
+cyclophosphamide,hepatic angiosarcoma
+ara-c,dermatologic toxicity
+ara-c,toxic epidermal necrolysis
+ara-c,"bullous lesions on the hands and soles that disseminated, evolving to necrosis"
+ara-c,death
+ara-c,sepsis
+cytosine arabinoside,toxic epidermal necrolysis
+ara-c,ten
+cytosine arabinoside,ten
+quetiapine,obsessive-compulsive symptoms
+quetiapine,ocs
+quetiapine,exacerbating ocs
+clomipramine,serotonin syndrome
+clozapine,serotonin syndrome
+clomipramine,agitated
+clozapine,agitated
+clomipramine,behaving oddly
+clozapine,behaving oddly
+clomipramine,confused
+clozapine,confused
+clomipramine,shivering
+clozapine,shivering
+clomipramine,sweating profusely
+clozapine,sweating profusely
+clomipramine,tremulous
+clozapine,tremulous
+quinine,coagulopathy
+quinine,severe thrombocytopoaenia
+olanzapine,leukopenia
+olanzapine,agranulocytosis
+5-fu,dermatologic and ocular 5-fu toxicities
+5-fu,ectropion
+5-fu,"tender, red, scaled lids"
+5-fluorouracil,ectropion
+5-fu,dermatologic toxicities
+acetazolamide,acute renal failure
+acetazolamide,renal failure
+acetazolamide,calcium phosphate nephrolithiasis
+meloxicam,ischaemic colitis
+meloxicam,endoscopic lesions
+meloxicam,bloody diarrhoea
+meloxicam,intestinal toxic effects
+spironolactone,diarrhoea
+spironolactone,"serious and, occasionally, fatal hyperkalaemia"
+spironolactone,serious adverse events
+oxaliplatin,dermnatitis
+clofazimine,severe enteropathy
+clofazimine,enteropathy
+clofazimine,life-threatening
+enoxaparin,severe urticarial rash
+cibenzoline,blurred vision
+cibenzoline,cardiac failure
+cibenzoline,cibenzoline intoxication
+cibenzoline,qrs broadening
+fludarabine,aspergillus arthritis
+fludarabine,aspergillus arthritis of the knee joint
+fluvoxamine,increased libido
+meglumine antimoniate,pancreatitis
+ifn-alpha,hashimoto's disease
+ifn-alpha,autoimmune thyroiditis
+ifn-alpha,thyroid disorders
+interferon-alpha,hashimoto's disease
+omeprazole,peripheral edema
+pantoprazole,peripheral edema
+lansoprazole,pheripheral edema
+omeprazole,pheripheral edema
+pantoprazole,pheripheral edema
+levodopa,motor fluctuations
+leflunomide,weight loss
+valacyclovir,neurotoxicity
+cyproterone acetate,avascular necrosis of the femoral head
+cyproterone acetate,femoral head avascular necrosis
+levofloxacin,polymorphic ventricular tachycardia
+ticlopidine,pulmonary side effects
+ticlopidine,pulmonary symptoms
+ticlopidine,interstitial pulmonary disease
+ticlopidine,lymphocytic colitis
+methadone,myoclonus
+succinylcholine,fatal hyperkalemia
+succinylcholine,hyperkalemia
+ethanol injection,cutaneous seeding
+adenosine,ventricular fibrillation
+adenosine,acceleration of the ventricular rate
+methylprednisolone,psychotic reaction
+cbz,seizures
+cbz,cortical hyperexcitability
+cbz,cranial nerve areflexia
+cbz,profound burst-suppression eeg pattern
+cbz,reversible encephalopathy
+methimazole,bone marrow toxicity
+methimazole,massive plasmocytosis
+mmi,massive plasmocytosis
+mmi,pancytopenia
+didanosine,fulminant hepatic failure
+dexamethasone,bilateral avascular necrosis of the femoral heads
+metformin,hemorrhage
+metformin,severe inferior digestive hemorrhage
+metformin,digestive hemorrhage
+gentamycin,ulcer became worse
+tobramycin,ulcer became worse
+amprenavir,intracranial bleeding
+apv,bleeding
+gemcitabine,cutaneous eruption
+gemcitabine,labd
+gemcitabine,linear immunoglobulin a bullous dermatosis
+gemcitabine,linear immunoglobulin (ig) a bullous dermatosis
+gemcitabine,"symmetric, bullous, herpetiform eruption"
+vancomycin,labd
+taxol,peripheral neuropathy
+paclitaxel,difficulty walking
+taxol,difficulty walking
+taxol,loss of proprioception
+taxol,marked pain
+morphine,spasm
+morphine,biliary colic
+morphine,pain
+ifn-alpha,myasthenia gravis
+sodium aurothiomalate,intrahepatic cholestasis
+5-fluorouracil,acute lung injury
+oxaliplatinum,acute lung injury
+5-fluorouracil,bilateral patchy pulmonary infiltrates
+oxaliplatinum,bilateral patchy pulmonary infiltrates
+5-fluorouracil,diarrhoea
+oxaliplatinum,diarrhoea
+5-fluorouracil,t-cd4+ lymphopenia
+oxaliplatinum,t-cd4+ lymphopenia
+5-fluorouracil,pulmonary adverse reaction
+oxaliplatinum,pulmonary adverse reaction
+accutane,teratogenic
+pranlukast,high fever
+pranlukast,interstitial pneumonitis
+ono-1078,interstitial pneumonia
+pranlukast,interstitial pneumonia
+indinavir,renal colicky pain
+indinavir,interstitial nephritis
+indinavir,nephrolithiasis
+indinavir,papillary necrosis
+indinavir,nephrotoxicity
+rofecoxib,decline in glomerular filtration rate
+ltg,encephalopathy
+ltg,elevated serum ltg levels
+lamotrigine,stuporous
+ltg,stuporous
+valproic acid,stuporous
+vpa,stuporous
+lamotrigine,encephalopathy
+lamotrigine,stupor
+olanzapine,acute intoxication
+olanzapine,dead
+salsalate,lichenoid drug eruption
+salsalate,eruption
+salsalate,lichenoid eruption
+amphotericin b,seizures
+amphotericin b,grand mal seizures
+didanosine,seizures
+amphotericin b,seizure
+bupivacaine,vocal cord paralysis
+bupivacaine,bilateral vocal cord paralysis
+carbamazepine,right bundle branch block
+dipivefrin,cicatricial entropion
+dipivefrin,entropion
+dipivefrin,cicatrical entropion
+sulphasalazine,constellation of dermatitis
+sulphasalazine,fever
+sulphasalazine,hepatitis
+sulphasalazine,lymphadenopathy
+sulphasalazine,fatal
+sulphasalazine,immunoallergic reaction
+sulphasalazine,sulphasalazine syndrome
+cddp,siadh
+cisplatin,siadh
+cisplatin,syndrome of inappropriate secretion of adh
+vds,siadh
+vindesine,siadh
+cddp,syndrome of inappropriate secretion of antidiuretic hormone
+cisplatin,syndrome of inappropriate secretion of antidiuretic hormone
+vds,syndrome of inappropriate secretion of antidiuretic hormone
+vindesine,syndrome of inappropriate secretion of antidiuretic hormone
+scopolamine,anisocoria
+lorazepam,de novo absence status
+lorazepam,nonconvulsive generalized status epilepticus
+vincristine,life-threatening vincristine neurotoxicity
+vincristine,severe neurotoxicity
+vincristine,vincristine neurotoxicity
+vincristine,severe motor neuropathy
+amodiaquine,asymptomatic hepatitis
+artesunate,asymptomatic hepatitis
+amodiaquine,hepatitis
+artesunate,hepatitis
+8-methoxypsoralen,systemic allergic contact dermatitis
+8-mop,systemic allergic contact dermatitis
+benztropine,abdominal pain
+benztropine,confusion
+benztropine,distention
+quetiapine,agranulocytosis
+quetiapine,granulocytopenia
+quetiapine,haematological adverse effects
+quetiapine,leucopenia
+ofloxacin,toxic epidermal necrolysis
+ofloxacin,stevens-johnson syndrome
+g-csf,multiple erythematous nodules
+g-csf,erythematous papular eruption
+g-csf,neutrophilic dermatoses
+granulocyte colony-stimulating factor,neutrophilic dermatoses
+g-csf,neutrophilic skin lesions
+granulocyte colony-stimulating factor,neutrophilic skin lesions
+g-csf,painful
+granulocyte colony-stimulating factor,painful
+g-csf,skin eruptions
+liothyronine,hyperthyroidism
+triiodothyronine,thyrotoxicosis
+tiagabine,vfds
+tiagabine,visual field defects
+mefloquine,pulmonary toxicity
+mefloquine,acute lung injury
+mefloquine,diffuse alveolar damage
+methanol,central blindness
+methanol,visual impairment
+octreotide,intrahepatic bile stasis
+octreotide,bile sludge
+octreotide,gallstones
+octreotide,hepatolithiasis
+octreotide,alters bile acid composition
+octreotide,gallbladder stasis
+octreotide,hasten intrahepatic sludge
+octreotide,stone formation
+tamoxifen,endometrial carcinoma
+inh,drug eruptions
+isonicotinic acid hydrazide,anagen effluvium
+isonicotinic acid hydrazide,lichenoid eruption
+inh,anagen effluvium
+inh,lichenoid eruption
+carbamazepine,linear iga bullous dermatosis
+carbamazepine,labd
+metoclopramide,agitation
+metoclopramide,confusion
+metoclopramide,diaphoresis
+metoclopramide,fever
+metoclopramide,hypertension
+metoclopramide,tachycardia
+metoclopramide,tachypnea
+metoclopramide,extrapyramidal reactions
+sertraline,extrapyramidal reactions
+venlafaxine,extrapyramidal reactions
+metoclopramide,serotonin syndrome
+sertraline,serotonin syndrome
+venlafaxine,serotonin syndrome
+metoclopramide,extrapyramidal movement disorders
+sertraline,extrapyramidal movement disorders
+venlafaxine,extrapyramidal movement disorders
+metoclopramide,dysarthria
+metoclopramide,movement disorder
+metoclopramide,unresponsiveness
+haloperidol,malignant neuroleptic syndrome
+captopril,delated cutaneous reactions
+captopril,cutaneous side-effects
+captopril,dermatitis
+captopril,cutaneous reaction
+warfarin,hematochezia
+warfarin,bleeding
+interferon alpha,dilated cardiomyopathy
+interferon alpha,polymyositis
+interferon alpha,cardiomyopathy
+interferon alpha,muscle weakness
+ethanol,neoplastic seeding
+ethanol,subcutaneous metastasis
+tamoxifen,aggressive endometrial carcinoma
+tamoxifen,endometrial disorders
+tamoxifen,endometrial cancer
+itraconazole,cholangiopathy
+itraconazole,ductopenia
+itraconazole,cholestatic pattern of injury
+itraconazole,damage to the interlobular bile ducts
+itraconazole,liver injury
+itraconazole,hepatotoxicity
+ketoconazole,hepatitis
+itraconazole,liver damage
+itraconazole,vanishing bile duct syndrome
+itraconazole,hepatotoxic
+porcine factor viii,thrombotic stroke
+pfviii,thrombotic left middle cerebral artery distribution stroke
+pfviii,thrombosis
+interferon alfa,cutaneous sarcoidosis
+ribavirin,cutaneous sarcoidosis
+interferon alfa,granulomatosis
+ribavirin,granulomatosis
+interferon alfa,sarcoidosis
+ribavirin,sarcoidosis
+mirtazapine,ss
+mirtazapine,serotonin syndrome
+procarbazine,pulmonary toxicity
+interferon (ifn)-beta,proteinuria
+interferon-beta,minimal change nephrotic syndrome
+ifn-beta,histological abnormalities of the glomerulus
+ciprofloxacin,delayed elimination
+methotrexate,delayed elimination
+ciprofloxacin,toxicity
+lansoprazole,thrombocytopenia
+lansoprazole,thrombocytopenic
+lansoprazole,platelet count decreased
+amifostine,anaphylactoid reaction
+amifostine,allergic reactions
+amifostine,hypocalcemia
+amifostine,hypotension
+amifostine,nausea
+amifostine,vomiting
+amifostine,life-threatening anaphylactoid reaction
+olanzapine,nms
+olanzapine,neuroleptic malignant syndrome
+zuclopenthixol,painful erection
+zuclopenthixol,priapism
+metamizole,sepsis
+metamizole,agranulocytosis
+mitomycin,hemolytic-uremic syndrome
+levofloxacin,toxic epidermal necrolysis
+levofloxacin,ten
+bleomycin,grand mal seizures
+cisplatin,grand mal seizures
+vinblastine,grand mal seizures
+bleomycin,posterior leukoencephalopathy
+cisplatin,posterior leukoencephalopathy
+vinblastine,posterior leukoencephalopathy
+il-2,hemorrhagic lesion
+il-2,pancytopenia
+il-2,toxic epidermal necrolysis
+il-2,cutaneous and hematologic toxicity
+il-2,mortality rate <3
+interleukin-2,toxic epidermal necrolysis
+gelofusine,anaphylactoid reaction
+gelofusine,gelofusine allergy
+valproate,hyperammonemia
+valproate,mental status changes
+valproate,altered mental status
+cyclophosphamide,leiomyosarcoma
+amisulpride,nms
+clozapine,nms
+risperidone,nms
+fludarabine,cough
+fludarabine,fever
+fludarabine,lung disease
+fludarabine,lung toxicity
+fludarabine,multiple pulmonary nodules
+fludarabine,pulmonary toxicity
+fludarabine,pulmonary nodules
+fludarabine,interstitial pneumonitis
+epoprostenol,erythroderma
+epoprostenol,fever
+epoprostenol,nausea
+epoprostenol,rapidly progressive erythema
+epoprostenol,scaling
+epoprostenol,vomiting
+ticlopidine,marrow aplasia
+rosiglitazone,lower leg edema
+pioglitazone,bilateral lower leg edema
+rosiglitazone,"ankle, hand, and facial swelling"
+verapamil,polymorphic ventricular tachycardia
+verapamil,proarrhythmic effect
+verapamil,non-sustained polymorphic ventricular tachycardia
+epsilon-aminocaproic acid,renal complications
+lidocaine,mydriasis
+lidocaine,pupillary mydriasis
+lidocaine,dilated pupils
+2-deoxycoformycin,acute myeloid leukemia
+2-deoxycoformycin,myelodysplasia
+2-chlorodeoxyadenosine,aml
+vasopressin,ischemic skin complications
+vasopressin,skin necrosis
+mitomycin-c,hemolytic uremic syndrome
+cladribine,vasculitis
+cladribine,systemic vasculitis
+cladribine,thrombocytopenia
+d-penicillamine,mammary hyperplasias
+neothetazone,mammary hyperplasias
+bucillamine,gigantomastia
+bucillamine,giant hypertrophy
+d-penicillamine,mammary hyperplasia
+bucillamine,giant mammary hyperplasia
+valproic acid,fvs
+valproate,developmental delay
+valproate,distinctive facial appearance
+valproate,fetal valproate syndrome
+valproate,fvs
+valproate,major and minor malformations
+valproate,valproate embryopathy
+cyclosporin a,generalised pustular psoriasis
+cyclosporin a,aggravation of the joint condition
+cyclosporin a,generalised pustular exacerbation
+ticlopidine,aplastic anemia
+ticlopidine,neutropenic
+ticlopidine,tiaa
+ticlopidine,cytotoxic effect
+rofecoxib,fixed drug eruption
+rofecoxib,herpetiform fixed drug eruption
+rofecoxib,red-brown lesion
+thyroid hormone,hypothyroidism
+gemcitabine,hemolytic-uremic syndrome
+gemcitabine,renal toxicity
+amiodarone,optic neuropathy
+amiodarone,corneal deposits
+amiodarone hcl,color vision anomalies
+amiodarone hcl,decreased vision
+amiodarone hcl,glare
+amiodarone hcl,"visual ""shining"
+amiodarone,visual changes
+amiodarone,ocular effects
+digoxin,ocular effects
+digoxin,visual changes
+benzalkonium,circumoral and pharyngeal burns
+zephiran,circumoral and pharyngeal burns
+rifabutin,side-effect on retinal function
+rifabutin,decreased vision
+rifabutin,retinal damage
+rifabutin,anterior segment deposits
+rifabutin,retinal dysfunction
+rifabutin,visual disturbance
+nefazodone,benzodiazepine withdrawal symptoms
+mizoribin,siadh
+mizoribin,adh hypersecretion
+bredinin,siadh
+mizoribin,syndrome of inappropriate secretion of antidiuretic hormone
+cyclosporin,lymphoma
+methotrexate,lymphoma
+interferon-alpha,nephrotic syndrome
+interferon beta-1a,seizures
+clomipramine,extrapyramidal symptoms
+interferon beta-1a,extrapyramidal symptoms
+clomipramine,seizures
+carboplatin,collapsed
+cyclophosphamide,collapsed
+carboplatin,coronary vasospasm
+carboplatin,hyperacute changes on ecg
+methazolamide,acute respiratory failure
+neptazane,acute respiratory failure
+methazolamide,metabolic acidosis
+neptazane,metabolic acidosis
+capecitabine,allergic reactions
+capecitabine,allergic reaction
+capecitabine,dizziness
+capecitabine,generalized rash
+capecitabine,itching
+capecitabine,sore throat
+methylprednisolone,steroid diabetes
+methylprednisolone,glycemia
+cytarabine,ppe
+cytarabine,palmar-plantar erythrodysaesthesia
+cytarabine,bullous eruption
+tamoxifen,malignant transformation of endometriosis
+tamoxifen,ovarian cancer
+tamoxifen,ovarian endometrioid adenocarcinoma
+metronidazole,"clinical, spectroscopic, and imaging abnormalities"
+metronidazole,lactate elevation
+metronidazole,reversible mr imaging and mr spectroscopy abnormalities
+cisplatin,anaphylaxis
+isradipine,hepatocellular injury
+clarithromycin,increasing the hepatic toxicity
+isradipine,increasing the hepatic toxicity
+clarithromycin,fulminant liver failure
+clarithromycin,fulminant hepatic failure
+clarithromycin,liver failure
+brimonidine,paradoxical ocular effect
+brimonidine,paradoxical raised iop
+brimonidine,paradoxical effect
+brimonidine,iop elevation
+gabapentin,anxiety
+gabapentin,diaphoresis
+gabapentin,generalized seizures
+gabapentin,palpitations
+gabapentin,status epilepticus
+zonisamide,altered mental status
+zonisamide,visual hallucinations
+doxycycline,hypoglycemia
+mtx,anaphylactic reactions
+mtx,chest tightness
+mtx,cough
+mtx,diffuse urticaria
+mtx,facial swelling
+mtx,hypersensitivity reaction
+mtx,allergy
+methotrexate,systemic anaphylaxis
+cytarabine,balint syndrome
+methotrexate,balint syndrome
+cytarabine,posterior leukoencephalopathy
+methotrexate,posterior leukoencephalopathy
+melphalan,gtbm
+l-asparaginase,cortical venous thrombosis
+l-asparaginase,dural puncture headache
+sirolimus,interstitial pneumonitis
+rapamycin,pneumonitis
+sirolimus,pneumonitis
+rapamycin,pulmonary infiltrate
+sirolimus,pulmonary infiltrate
+sr,pulmonary infiltrate
+rapammune,hyperlipidemia
+rapamycin,hyperlipidemia
+sirolimus,hyperlipidemia
+sr,hyperlipidemia
+rapammune,hypertension
+rapamycin,hypertension
+sirolimus,hypertension
+sr,hypertension
+rapammune,infection
+rapamycin,infection
+sirolimus,infection
+sr,infection
+rapammune,myelosuppression
+rapamycin,myelosuppression
+sirolimus,myelosuppression
+sr,myelosuppression
+lithium,fever
+olanzapine,fever
+lithium,generalized rigidity
+olanzapine,generalized rigidity
+lithium,increased serum transaminase and creatine kinase
+olanzapine,increased serum transaminase and creatine kinase
+lithium,leukocytosis
+olanzapine,leukocytosis
+lithium,nms
+lithium,neuroleptic malignant syndrome
+6-mp,hepatotoxicity
+aza,hepatotoxicity
+6-thioguanine,hepatotoxicity
+thiopurine,hepatic injury
+6-tg,abnormal liver enzymes
+6-tg,liver enzyme abnormalities
+6-tg,elevation of serum transaminases
+lisinopril,multiorgan failure
+cyclophosphamide,panhypogammaglobulinaemia
+prednisolone,panhypogammaglobulinaemia
+propranolol,fulminant hepatic failure
+propylthiouracil,fulminant hepatic failure
+propylthiouracil,fulminant hepatitis
+propylthiouracil,hepatic injury
+propylthiouracil,submassive hepatic necrosis
+risperidone,hypothermia
+clozapine,akathisia
+lithium,blindness
+lithium,cpm
+lithium,central pontine myelinolysis
+lithium,temporary blindness
+propylthiouracil,elevated hepatic enzymes
+ptu,elevated hepatic enzymes
+propylthiouracil,hepatic impairment
+ifn-alpha,mpgn
+interferon-alpha,mpgn
+ifn-alpha,minimal change disease
+hydroxyurea,chronic myeloid leukaemia
+hydroxyurea,cml
+hydroxyurea,philadelphia positive chronic myeloid leukaemia
+chloroquine,chloroquine toxicity
+chloroquine,severe chloroquine toxicity
+chloroquine,toxicity
+carbimazole,fever
+carbimazole,sore throat
+carbimazole,agranulocytosis
+carbimazole,sepsis
+carbimazole,neutropenic sepsis
+mitomycin c,comeoscleral perforation
+mitomycin c,corneoscleral melting
+sulfonamide,bullous drug reaction
+sulfonamide,stevens-johnson syndrome
+sulfonamides,erythema multiforme
+sulfonamides,stevens-johnson syndrome
+lithium,diabetes insipidus
+lithium,lithium toxicity
+lithium,nephrogenic diabetes insipidus
+lithium,polyuria
+g-csf,systemic capillary leak syndrome
+granulocyte colony-stimulating factor,systemic capillary leak syndrome
+granulocyte colony-stimulating factor,cls
+fk506,neurologic abnormalities
+fk506,speech loss
+fk506,mutism
+tacrolimus,mutism
+insulin,oedema
+insulin,ascites
+insulin,peripheral oedema
+insulin,pleural effusion
+insulin,severe anasarca
+insulin,hyperinsulinaemia
+insulin,insulin insensitivity
+insulin,anti-natriuresis
+insulin,hypoalbuminaemia
+insulin,increased vascular permeability
+prednisolone,diabetic milieu deteriorated
+methotrexate,acute cerebellar syndrome
+doxycycline,angioimmunoblastic lymphadenopathy with dysproteinemia
+doxycycline,aild
+doxycycline,fever
+doxycycline,generalized pruritic maculopapular eruption
+isoniazid,anaphylaxis
+magnesium sulfate,low plasma parathyroid hormone
+magnesium sulfate,pth
+magnesium sulfate,severe hypocalcemia
+carbamazepine,hyponatremia
+5-asa,polyneuropathy
+5-aminosalicylic acid,sensorimotor polyneuropathy
+5-asa,sensorimotor polyneuropathy
+5-aminosalicylic acid,atrophy
+5-asa,atrophy
+5-aminosalicylic acid,gait disturbance
+5-asa,gait disturbance
+5-aminosalicylic acid,weakness
+5-asa,weakness
+5-aminosalicylic acid,worsening of the dysesthesia
+5-asa,worsening of the dysesthesia
+prednisone,disseminated cellulitic cryptococcosis
+sasp,atypical lymphocytosis
+sasp,high fever
+sasp,liver dysfunction
+sasp,skin rash
+salazosulfapyridine,infectious mononucleosis-like syndrome
+sasp,infectious mononucleosis-like syndrome
+infliximab,lupus-like syndrome
+methotrexate,lupus-like syndrome
+infliximab,lupus-like clinical syndrome
+ifnalpha,renal dysfunction
+interferon alpha,renal dysfunction
+ifnalpha,renal abnormalities
+interferon-alpha,focal segmental glomerulosclerosis
+ifnalpha,focal segmental glomerulosclerosis
+rituximab,autoimmune hemolytic anemia
+rituximab,destruction of cd20 positive cells
+rituximab,massive cytokines liberation
+hepatitis b vaccination,acute transverse myelitis
+hepatitis b vaccination,acute onset tetraparesia
+diphenhydramine,cardiotoxicity
+diphenhydramine,dysrhythmia
+diphenhydramine,cardiac toxicity
+cyclophosphamide,systemic candidiasis
+prednisolone,stevens-johnson syndrome
+prednisolone,sjs
+dapsone,reversal reaction
+rifampin,reversal reaction
+thalidomide,neuropathic side effects
+interferon alpha,neurological manifestations
+recombinant interferon alpha-2a,bilateral optic neuritis
+recombinant interferon alpha-2a,decreased sensation of vibration
+recombinant interferon alpha-2a,increased deep tendon reflex
+recombinant interferon alpha-2b,bilateral optic neuritis
+recombinant interferon alpha-2b,bowel and bladder dysfunction
+recombinant interferon alpha-2b,numbness of the lower extremities
+interferon alpha,neurological signs
+interferon alpha,optic neuritis
+alpha interferon,multiple sclerosis-like disease
+interferon alpha,bilateral optic neuritis
+tamoxifen,acute abdomen
+tamoxifen,endometriosis
+dapsone,agranulocytosis
+dapsone,fatal agranulocytosis
+heparin,massive pulmonary embolism
+levetiracetam,acute psychosis
+levetiracetam,psychotic behavior
+risperidone,obsessive-compulsive symptoms
+granulocyte macrophage-colony-stimulating factor,proliferation of abnormal bone marrow histiocytes
+rosiglitazone,heart failure exacerbation
+enoxaparin,generalized exanthem
+enoxaparin,generalized maculopapular rash
+clonazepam,aggression
+clonazepam,agitation
+clonazepam,hyperactivity
+clonazepam,irritability
+clonazepam,property destruction
+clonazepam,temper tantrums
+clonazepam,behavioral exacerbation
+cefuroxime,immune hemolysis
+cefuroxime,iha
+argatroban,bleeding
+argatroban,hepatic failure
+argatroban,hepatic and renal failure
+fluvoxamine,schneiderian first-rank symptoms
+fluvoxamine,first-rank symptoms
+clozapine,eps
+interferon-alpha,hyperpigmentation
+ifn,skin lesions
+interferon-alpha,skin lesions
+ifn,hyperpigmented skin
+ribavirin,hyperpigmented skin
+ifn,tongue lesions
+ribavirin,tongue lesions
+ciprofloxacin,thrombocytosis
+piperacillin,thrombocytosis
+tazobactam,thrombocytosis
+ciprofloxacin,thrombocyte count started to increase
+piperacillin,thrombocyte count started to increase
+tazobactam,thrombocyte count started to increase
+chymopapain,anaphylaxis
+chymopapain,hypotensive
+lithium,lethargy
+carbamazepine,fever
+cbz,fever
+tegretol,fever
+carbamazepine,leukopenia
+cbz,leukopenia
+tegretol,leukopenia
+carbamazepine,positive anti-nuclear antibody
+cbz,positive anti-nuclear antibody
+tegretol,positive anti-nuclear antibody
+carbamazepine,rash
+cbz,rash
+tegretol,rash
+carbamazepine,systemic lupus erythematosus (sle)-like symptoms
+cbz,systemic lupus erythematosus (sle)-like symptoms
+tegretol,systemic lupus erythematosus (sle)-like symptoms
+carbamazepine,systemic lupus erythematosus-like disease
+cbz,sle
+rh,bilateral gynaecomastia
+isoniazid,gynaecomastia
+isoniazid,bilateral gynaecomastia
+heparin,acute renal failure
+heparin,hat
+heparin,recurrent arteriothromboses
+clexane,platelet activation
+fragmin,platelet activation
+fraxiparin,platelet activation
+heparin,platelet activation
+labetalol,hemodynamic collapse
+bromocriptine,pleuropulmonary abnormalities
+cabergoline,pleuropulmonary abnormalities
+cabergoline,pleuropulmonary changes
+methylprednisolone,acute myopathy
+vecuronium,acute myopathy
+methylprednisolone,degeneration of myosin filaments
+vecuronium,degeneration of myosin filaments
+vecuronium,flaccid quadriparesis
+vecuronium,respiratory failure
+sulfasalazine,diffuse pulmonary shadowing
+sulfasalazine,skin pigmentation
+sulfasalazine,pulmonary infiltrates
+sulfasalazine,lung disorder
+sulfasalazine,ulcerative colitis
+isotretinoin,sclerotic changes of lumbar spine and femur
+bleomycin,scleroderma
+bleomycin,cutaneous scleroderma
+adrenaline,dilated cardiomyopathy
+carbamazepine,sle
+carbamazepine,systemic lupus erythematosus
+13-cis-retinoic acid,acne fulminans
+valproic acid,coma
+carbamazepine,asterixis
+cbz,asterixis
+clozapine,asterixis
+lithium,asterixis
+cbz,neurotoxicity
+clozapine,neurotoxicity
+alum,encephalopathy
+alum,seizures
+cyclophosphamide,hemorrhagic cystitis
+alum,elevated aluminum levels
+desmopressin,hyponatremia
+desmopressin,seizure
+desmopressin,grand mal seizure
+tegretol,siadh
+norethisterone,gestational diabetes
+norethisterone,diabetes mellitus
+norethisterone,impaired glucose tolerance
+norethisterone,clitoral hypertrophy
+norethisterone,masculinization of a female fetus
+ifn,chf
+recombinant alpha-interferon,congestive heart failure
+ifn,congestive heart failure
+cyclophosphamide,neutrophilic eccrine hidradenitis
+cyclophosphamide,neh
+ganciclovir,generalised cutaneous rash
+ganciclovir,skin rash
+ganciclovir,splinter hemorrhages
+betamethasone,acute pancreatitis
+roxithromycin,acute pancreatitis
+fk506,renal tubular acidosis
+fk506,nephrotoxicity
+fk506,rta
+l-dopa,unintended sleep episodes
+l-dopa,daytime sleepiness
+l-dopa,daytime somnolence
+methotrexate,neurotoxicity
+methotrexate,cytotoxic edema
+methotrexate,aphasia
+methotrexate,left arm weakness
+lithium,epstein's anomaly
+lithium,teratogenicity
+glyburide,hypoglycemia
+ethambutol,ocular ethambutol toxicity
+ethambutol,optic neuropathy
+ethambutol,ethambutol toxicity
+ethambutol,vision loss
+ethambutol,bilateral optic neuropathy
+brompheniramine,fatality
+dextromethorphan,fatality
+pseudoephedrine,fatality
+acenocoumarol,overanticoagulation
+budesonide,angioedema
+budesonide,dysphagia
+budefat,dysphagia
+budefat,sore throat
+budesonide,sore throat
+budefat,swelling of the lips and oral cavity
+budesonide,swelling of the lips and oral cavity
+dexamethasone,infectious toxicity
+dexamethasone,infectious complications
+dexamethasone,infectious toxicities
+cytarabine,neh
+mitoxantrone,neh
+infliximab,lupus
+infliximab,anti-double-stranded dna
+infliximab,antinuclear antibodies
+infliximab,increase of autoantibodies
+yohimbine,severe raynaud's phenomenon
+yohimbine,worsening of raynaud's phenomenon
+vitamin d3,serum level of calcium and urinary excretion of calcium increased
+"1,24(oh)2d3",hypercalcemia
+thiazide,hypercalcemia
+vitamin d3,hypercalcemia
+tacalcitol,hypercalcemia
+tacalcitol,hypercalciuria
+thiazide,hypercalciuria
+2-cda,immunodeficiency
+2-cda,secondary neoplasms
+2-chloro-deoxyadenosine,non-hodgkin's lymphoma
+2-cda,transformation of mcd to nhl
+dgtx,cardiac dgtx toxicity
+dgtx,total av-block
+phenytoin,skin lesions
+phenytoin,erythema multiforme
+cya,rsds
+tacrolimus,rsds
+tacrolimus,reflex sympathetic dystrophy syndrome
+topiramate,acute myopia
+topiramate,angle-closure glaucoma
+topiramate,anterior chamber shallowing
+topiramate,ciliochoroidal effusion
+topiramate,displacement of the lens-iris diaphragm
+topiramate,acute-onset myopia
+topiramate,angle closure glaucoma
+doxycycline,photo-onycholysis
+minocycline,cutaneous hyperpigmentation
+minocycline,pigmentary disorders
+minocycline,hyperpigmentation
+minocycline,cutaneous pigmentation
+ciprofloxacin,toxic epidermal necrolysis
+ciprofloxacin,ten
+amifostine,fever
+amifostine,fevers of neutropenia
+amifostine,sepsis
+pantoprazole,acute interstitial nephritis
+pantoprazole,general malaise
+pantoprazole,ain
+omeprazole,ain
+finasteride,anterior subcapsular opacity on the lens
+propecia,bilateral cataract
+propecia,cataract
+interferon beta-1a,scleromyxedema
+methylphenidate,fixed drug eruption of the scrotum
+methylphenidate,fixed drug rash
+methylphenidate,fixed drug eruption
+methotrexate,pneumonitis
+warfarin,haemorrhagic side-effects
+warfarin,acute dissecting thoracic aortic aneurysm
+warfarin,thoracic aortic dissection
+ramipril,cutaneous vasculitis
+doxorubicin,severe myelopathy
+doxorubicin,toxic myelopathy
+infliximab,increase in the number of apneic events
+infliximab,sao2 dips
+infliximab,sleep disordered breathing
+kayexalate,hypernatraemia
+sodium polystyrene sulphonate,hypernatraemia
+quinacrine,bull's-eye maculopathy
+chloroquine,maculopathy
+quinacrine,severe maculopathy
+quinacrine,bilaterally symmetric bull's-eye maculopathy
+hydroxychloroquine,maculopathy
+phenylpropanolamine,cerebral infarcts
+phenylpropanolamine,neurologic events
+ppa,neurologic events
+phenylpropanolamine,stroke
+ppa,stroke
+ppa,extremely elevated levels of ppa
+ppa,occipital infarcts
+ciprofloxacin,hallucinations
+ciprofloxacin,mild headache
+ciprofloxacin,minor dizziness
+ciprofloxacin,seizures
+ciprofloxacin,psychosis
+ciprofloxacin,severe psychosis
+vancomycin,agranulocytosis
+dexamethasone,osteonecrosis
+colchicine,peyronie's disease
+colchicine,pd
+nitrofurantoin,cholestatic hepatitis
+furazolidone,jaundice
+nifuroxime,jaundice
+phenobarbital,exacerbation of a preexisting maladaptive behavior
+phenobarbital,maladaptive behaviors
+phenobarbital,behavioral side effects
+phenobarbital,exacerbation of preexisting maladaptive behaviors
+pilocarpine,pilocarpine toxicity
+pilocarpine,bradycardia
+pilocarpine,mild hypotension
+pilocarpine,muscarinic symptoms
+belladonna,anticonvulsant hypersensitivity syndrome
+ergotamine,anticonvulsant hypersensitivity syndrome
+phenobarbital,anticonvulsant hypersensitivity syndrome
+bellamine s,anticonvulsant hypersensitivity syndrome
+belladonna alkaloids,anticonvulsant hypersensitivity syndrome
+clozapine,heatstroke
+clozapine,heat stroke
+gemcitabine,radiation recall
+gemcitabine,myositis
+gemcitabine,radiation recall reactions
+bimatoprost,cystoid macular edema
+latanoprost,cystoid macular edema
+bimatoprost,cystoid macula edema
+latanoprost,cystoid macula edema
+bimatoprost,intense conjunctival hyperemia
+latanoprost,intense conjunctival hyperemia
+oxaliplatin,hemolytic reaction
+oxaliplatin,dat-positive hemolytic episode
+methotrexate,fatal acute neurotoxicity
+methotrexate,fatal acute encephalomyelitis
+methotrexate,severe back pain
+methotrexate,urinary retention
+methotrexate,fatal encephalopathy
+methotrexate,mild neurotoxicity
+ampicillin,ten
+heparin,large intramural esophageal hematoma
+dimethyl sulfoxide,eosinophilic cystitis
+dmso,eosinophilic cystitis
+pegylated interferon alpha,acute dystonia
+ifn-alpha,akathisia
+ifn-alpha,depressive disorders
+ifn-alpha,neuropsychiatric symptoms
+ifn-alpha,parkinsonism
+ifn-alpha,seizure
+ifn alpha,restless legs symptoms
+interferon-alpha,restless legs symptoms
+interferon-alpha,restless legs syndrome
+ifn alpha,restless legs syndrome
+naltrexone,hepatotoxicity
+ntx,hepatotoxicity
+naltrexone,acute hepatitis b and c
+sargramostim,sweet's syndrome
+filgrastim,acute febrile neutrophilic dermatosis
+filgrastim,sweet's syndrome
+clozapine,hypersensitivity myocarditis
+clozapine,sudden cardiac death
+clozapine,sudden death
+phenytoin,purple discoloration
+phenytoin,purple glove syndrome
+phenytoin,swelling of the hands
+phenytoin,soft-tissue injury
+levodopa,completely bald
+prostaglandin,trichiasis
+prostaglandin,increased lash length
+prostaglandin,pigmentation
+bcnu,fatal pulmonary fibrosis
+bcnu,pulmonary fibrosis
+bis-chloronitrosourea,pulmonary fibrosis
+bcnu,severe pulmonary fibrosis
+dorzolamide,choroidal detachment
+bimatoprost,deepening of lid sulcus
+bimatoprost,alteration of eyelid appearance
+bimatoprost,deepening of the lid sulcus
+hepatitis b vaccination,lichen planus
+sulfadoxine-pyrimethamine,life-threatening hypoglycaemia
+sp,hypoglycaemic coma
+heparin,fatal intracerebral haemorrhage
+infliximab,extensive forearm deep venous thrombosis
+infliximab,iir
+infliximab,severe infliximab infusion reaction
+infliximab,severe swelling of the forearm and hand ipsilateral
+infliximab,hypersensitivity
+infliximab,venous thrombosis
+indapamide,diabetes
+indapamide,glucose tolerance impairing
+indapamide,impairing carbohydrate metabolism
+fosinopril,diabetes
+imatinib mesylate,"discrepancies between hematologic, marrow morphologic, and cytogenetic responses"
+imatinib,blast crisis
+imatinib,progression of marrow reticulin fibrosis
+imatinib mesylate,blast crisis
+nimodipine,hypotension
+nimodipine,hypoxemia
+nimodipine,prolonged hypotension
+ciprofloxacin,refractory hypoglycemia
+glyburide,refractory hypoglycemia
+ciprofloxacin,prolonged hypoglycemia
+glyburide,prolonged hypoglycemia
+aminophylline,aminophylline hypersensitivity
+ethylenediamine,aminophylline hypersensitivity
+aminophylline,delayed hypersensitivity reaction
+ethylenediamine,delayed hypersensitivity reaction
+l-asparaginase,lethal complication
+l-asparaginase,pancreatitis
+l-asparaginase,severe necrotizing pancreatitis
+l-asparaginase,necrotizing pancreatitis
+disulfiram,fulminant hepatic failure
+tiagabine,unusual array of neurological symptoms
+linezolid,sideroblastic anemia
+linezolid,hematologic side effects
+prostaglandin e1,harlequin color change
+ciprofloxacin,acute renal insufficiency
+ciprofloxacin,renal insufficiency
+ciprofloxacin,nephrotoxicity
+infliximab,necrotizing vasculitis
+infliximab,sensory neuropathy
+infliximab,peripheral neuropathy
+infliximab,progression of preexisting mononeuritis multiplex
+interferon-alpha,progressive anemia
+interleukin-2,progressive anemia
+ifn-alpha,severe anemia
+il-2,severe anemia
+warfarin,clotting abnormality
+warfarin,abnormal hypersensitivity
+warfarin,bleeding symptoms
+warfarin,fatal haemorrhage
+warfarin,hypersensitivity
+cidofovir,cmv infection
+foscarnet,cmv infection
+ganciclovir,cmv infection
+5-fluorouracil,peripheral neuropathy
+5-fu,peripheral neuropathy
+cap,peripheral neuropathy
+cap,neurotoxicity
+cap,neurologic symptoms
+cap-xrt,foot drop
+cap-xrt,right leg weakness
+cap,perioral and upper extremity paresthesias
+capecitabine,peripheral neuropathy
+rosiglitazone,severe hypo-alpha-lipoproteinemia
+rosiglitazone,reduction in plasma hdl cholesterol and apolipoprotein ai levels
+nevirapine,mild hepatotoxicity
+nevirapine,severe leukopenia
+nevirapine,leukopenia
+nevirapine,skin and hepatic toxicity
+quetiapine,death
+quetiapine,deaths
+quetiapine,suicidal overdose deaths
+sertraline,intense itching sensation
+fluoxetine,itch
+sertraline,itch
+fluoxetine,skin rash
+sertraline,skin rash
+etanercept,pulmonary lymphohistiocytic reactions
+etanercept,pulmonary signs and symptoms with alveolar infiltrates
+flupirtine,paradoxical cerebral cortical hyperexcitability
+flupirtine,increased cerebral cortical excitability
+pegylated interferon alpha-2a,celiac disease
+ribavirin,celiac disease
+pegylated interferon,celiac disease
+pegylated interferon alpha-2a,anemia
+ribavirin,anemia
+pegylated interferon alpha-2a,progressive malaise
+ribavirin,progressive malaise
+metaraminol,anaphylaxis
+glatiramer acetate,localized panniculitis
+glatiramer acetate,subcutaneous changes
+copaxone,lipoatrophy
+glatiramer acetate,lipoatrophy
+copaxone,localized panniculitis
+verapamil,exacerbation in myasthenic weakness
+busulfan,hepatic veno-occlusive disease
+busulfan,hvod
+busulfan,thrombosis
+busulfan,pvt
+interferon,vogt-koyanagi-harada disease
+interferon alpha,vogt-koyanagi-harada disease
+interferon,"""cotton-wool"" spots"
+interferon,retinal abnormalities
+interferon,retinal hemorrhage
+propylthiouracil,acute hepatic failure
+ptu,acute hepatic failure
+ptu,fulminant hepatitis
+methotrexate,epstein-barr virus-associated lymphoproliferative disorder
+rofecoxib,epstein-barr virus-associated lymphoproliferative disorder
+methotrexate,epstein-barr virus (ebv)-associated polyclonal b cell lymphoproliferative disorder
+mtx,epstein-barr virus (ebv)-associated polyclonal b cell lymphoproliferative disorder
+mtx,acute renal failure
+mtx,diarrhea
+mtx,elevated liver transaminases
+mtx,jaundice
+mtx,mucosal ulcerations
+mtx,pancytopenia
+mtx,pyrexia
+mtx,vomiting
+mtx,ebv-associated lymphoproliferative disease
+mtx,hematopoietic toxicity
+mtx,immunosuppression
+imiquimod,aggravation and spreading of a psoriatic plaque
+imiquimod,psoriasis
+imiquimod,large amounts of type i interferon production
+imiquimod,exacerbation of psoriasis
+methylprednisolone,vision declined
+aza,allergic skin eruptions
+aza,allergy
+azathioprine,drug eruption
+aza,drug eruption
+ziprasidone,tardive dyskinesia
+ziprasidone,td
+ziprasidone,extrapyramidal symptoms
+carbamazepine,asthenozoospermia
+carbamazepine,no motile sperm
+retinoic acid,scrotal ulceration
+atra,ulcer
+atra,scrotal ulcer
+clozapine,tonic-clonic seizures
+clozapine,seizures
+rofecoxib,colitis
+rofecoxib,lower gastrointestinal symptoms
+rofecoxib,ibd
+rofecoxib,inflammatory bowel disease
+carbamazepine,carbamazepine intoxication
+dantrolene,carbamazepine intoxication
+oxybutynin,carbamazepine intoxication
+dantrolene,carbamazepine toxicity
+oxybutynin,carbamazepine toxicity
+captopril,pemphigus
+thalidomide,neuropathy
+thalidomide,proximal weakness
+thalidomide,teratogenic effects
+thalidomide,sensorimotor axonal neuropathy
+gliadel,cerebral edema
+carmustine,cerebral edema
+cis-retinoic acid,bmtn
+ra,bmtn
+ra,deterioration in renal function
+retinoic acid,bone marrow transplant nephropathy
+imiquimod,secondary infection
+quetiapine,myoclonic jerks
+quetiapine,myoclonus
+temozolomide,myelodysplastic syndrome
+temozolomide,refractory anemia with excess blasts
+tmz,refractory anemia with excess blasts
+penicillin,neutropenia
+interferon alpha,livedo reticularis
+interferon alpha 2b,livedo reticularis
+ptu,anca-associated vasculitis
+ptu,ototoxicity
+propylthiouracil,antineutrophil cytoplasmic antibody (anca)-associated vasculitis
+ptu,antineutrophil cytoplasmic antibody (anca)-associated vasculitis
+propylthiouracil,ototoxicity
+propylthiouracil,antineutrophil cytoplasmic antibodies
+propylthiouracil,sensorineural hearing loss
+ptu,hearing impairment in the left ear (with progression to the right ear)
+ptu,tinnitus
+ptu,vertigo
+ptu,hearing impairment
+ethambutol,optic neuritis
+ethambutol,visual loss
+flucloxacillin,aplastic anaemia
+flucloxacillin,liver failure
+flucloxacillin,fatal hepatic injury
+flucloxacillin,fulminant hepatic failure
+zoledronic acid,bronchospasm
+zoledronic acid,carpopedal spasm
+zoledronic acid,severe hypocalcaemia
+cy,severe lupus erythematosus
+cyclophosphamide,severe lupus erythematosus
+tacrolimus,mucosal pigmentation
+tacrolimus,pigmentation
+tacrolimus,oral mucosa pigmentation
+methotrexate,malignant lymphoma
+mtx,malignant lymphoma
+risperidone,tardive dyskinesia
+risperidone,td
+risperidone,respiratory dyskinesia
+risperidone,limb dyskinesia
+risperidone,orofacial dyskinesia
+risperidone,rd
+sda,rd
+btx-b,parasympathetic dysfunction of the visual system
+btx-b,visual disturbances
+botulinum toxin type b,parasympathetic dysfunction
+botulinum toxin type b,visual system side effects
+enalapril,anemia
+cerivastatin,muscle pain
+cerivastatin,muscle weakness
+cerivastatin,rhabdomyolysis
+cerivastatin,acute rhabdomyolysis
+paclitaxel,hypersensitivity
+cbdca,apnea
+cbdca,cardiac arrest
+cbdca,eruptions
+cbdca,hypotension
+cbdca,severe hypersensitivity reactions
+cbdca,tachycardia
+cbdca,hypersensitivity
+cyclosporine,cholestasis
+fentanyl,adrenocortical insufficiency
+fluphenazine,neuroleptic malignant syndrome
+fluphenazine,nms
+vancomycin,cerebrospinal fluid eosinophilia
+vancomycin,csfe
+bicalutamide,interstitial pneumonitis
+leuprorelin acetate,interstitial pneumonitis
+rifabutin,corneal endothelial deposits
+raloxifene,malignant mixed mesodermal tumor
+raloxifene,malignant mixed mullerian tumor of the uterus
+mmf,neutropenia
+mycophenolate mofetil,neutropenia
+mmf,bone marrow toxicity
+anti-d igiv,acute hemoglobinemia
+anti-d igiv,hemoglobinuria
+rh(0)(d) immune globulin,acute hemoglobinemia
+rh(0)(d) immune globulin,disseminated intravascular coagulation
+rh(0)(d) immune globulin,hemoglobinuria
+anti-d igiv,dic
+anti-d igiv,disseminated intravascular coagulation
+anti-d igiv,hemoglobinemia
+infliximab,severe transient neutropenia
+infliximab,agranulocytosis
+infliximab,autoimmune agranulocytosis
+infliximab,production of granulocyte and neutrophil autoantibodies
+linezolid,bone marrow depression
+linezolid,neuropathy
+linezolid,peripheral neuropathy
+tamoxifen,high-grade endometrial stromal sarcoma
+tamoxifen,intrauterine polypoid growth
+tamoxifen,endometrial adenocarcinoma
+tamoxifen,uterine sarcoma
+pentamidine,heart rate had decreased
+pentamidine,cardiotoxicity
+pentamidine,second-degree heart block
+pentamidine,sinus bradycardia
+bupropion,falling backward
+vigabatrin,ophthalmologic and neurologic findings
+vgb,visual dysfunction
+vigabatrin,visual field defects
+vgb,ophthalmic and neurologic findings
+ifn,cotton wool spots
+interferon,cotton wool spots
+ifn,retinal hemorrhages
+interferon,retinal hemorrhages
+ifn,retinopathy
+interferon,retinopathy
+interferon,macular edema
+ifn,decreased vision
+ifn,macular edema
+ifn,hypoalbuminemia
+ifn,ocular side effects
+ifn,thrombocytopenia
+ifn,visual acuity had decreased
+ifn,reduced visual acuity
+interferon-alfa,diabetes mellitus
+ribavirin,diabetes mellitus
+alfa-interferon,immune-mediated diabetes mellitus
+interferon alfa,cutaneous necrosis
+pegylated interferon alfa-2b,local cutaneous reactions
+ribavirin,local cutaneous reactions
+pegylated interferon alfa-2b,cutaneous necrosis
+tegaserod,ischemic colitis
+tegaserod,irritable bowel syndrome
+lansoprazole,"chronic, watery diarrhea"
+lansoprazole,collagenous colitis
+interferon beta-1b,painful ulcers
+interferon beta-1b,reticulate erythema
+recombinant human interferon-beta-1b,abdominal wall ulceration
+recombinant human interferon-beta-1b,mucinosis
+itraconazole,vincristine neurotoxicity
+itraconazole,neurotoxicity
+vincristine,neurotoxicity
+itraconazole,absence of deep reflexes
+itraconazole,mild left ptosis
+itraconazole,mild weakness of the upper extremities
+itraconazole,neurogenic bladder
+itraconazole,paralytic ileus
+itraconazole,severe paralysis of the lower extremities
+itraconazole,fatal toxicities
+vincristine,fatal toxicities
+pseudoephedrine,intracerebral hemorrhage
+phenylpropanolamine,intracerebral hemorrhage
+pseudoephedrine,cerebral vascular malformation
+pseudoephedrine,hemorrhage
+quetiapine,diabetic ketoacidosis
+quetiapine,dka
+quetiapine,dm
+all-trans retinoic acid,pulmonary leukostasis
+imiquimod,eruptive epidermoid cysts
+imiquimod,verrucous plaque
+imiquimod,multiple comedones
+imiquimod,ruptured epidermoid cysts
+fluoxetine,neurological and cardiovascular toxicity
+iron sucrose,hepatocellular damage
+iron sucrose,systemic iron toxicity
+clioquinol,acute amnestic episode
+clioquinol,retrograde amnesia
+clioquinol,transient global amnesia
+sodium hyaluronate,neisseria mucosa knee arthritis
+corticosteroids,staphylococcus aureus knee arthritis
+sodium hyaluronate,staphylococcus aureus knee arthritis
+hyaluronate,septic knee arthritis
+lamivudine,acute dystonia
+lamivudine,adr
+lamivudine,acute dystonic reactions
+lamivudine,adrs
+pergolide,pleuropulmonary fibrosis
+risperidone,psychiatric and physical manifestations
+risperidone,increased mood symptoms
+risperidone,depression
+risperidone,psychosis
+busulfan,fatal radiation myelopathy
+melphalan,fatal radiation myelopathy
+gemcitabine,pericardial effusion
+gemcitabine,tamponade
+gemcitabine,radiation recall reaction
+mm,cns lymphoma
+mm,lymphoproliferative disorders
+mycophenolate mofetil,cns lymphoma
+baclofen,fever
+baclofen,withdrawal syndrome
+baclofen,autonomic instability
+captopril,eosinophilia
+captopril,radiographic abnormalities
+captopril,pulmonary infiltrates with eosinophilia
+propofol,pancreatitis
+propofol,acute pancreatitis
+lithium,focal seizure
+lithium,prolonged seizure
+lithium,serotonin syndrome
+rituximab,cd20-negative t-cell-rich b-cell lymphoma
+rituximab,cd20-negative tumors
+irbesartan,angio-oedema
+irbesartan,hypotensive shock
+irbesartan,shock
+desferrioxamine,congestive heart failure
+desferrioxamine,haemosiderosis
+desferrioxamine,liver failure
+desferrioxamine,transfusion haemosiderosis
+triamcinolone,cataract
+triamcinolone,severe loss of vision
+ritodrine hydrochloride,rhabdomyolysis
+ritodrine-hydrochloride,rhabdomyolysis
+epinephrine,acute myocardial ischemia
+epinephrine,lethal complications
+epinephrine,severe allergic reaction
+levodopa,restless legs syndrome
+levodopa,augmentation
+levodopa,anarchic discharges of motor unit potentials
+levodopa,flexor spasms
+levodopa,marked motor hyperactivity
+levodopa,painful dysesthesia
+levodopa,tonic grouped discharges
+infliximab,infection
+infliximab,membranous nephropathy
+linezolid,dyserythropoiesis
+linezolid,dyserythropoietic anaemia
+chloramphenicol,myelotoxicity
+fluoxetine,eye movements in nonrapid eye movement (nrem) sleep
+fluoxetine,rbd
+fluoxetine,prominent eye movements during nrem sleep
+fluoxetine,rem sleep behavior disorder
+dofetilide,increase in the qt interval
+dofetilide,torsades de pointes
+dofetilide,acute ischemia
+dofetilide,marked qt prolongation
+dofetilide,acute myocardial ischemia
+dofetilide,flash pulmonary edema
+dofetilide,qt prolongation
+phenylephrine,positive u waves
+srl,hepatoxicity
+sirolimus,hepatotoxicity
+interferon beta 1a,nephrotic syndrome
+interferon,nephrosis
+interferons,renal toxicity
+capecitabine,multifocal leukoencephalopathy
+venlafaxine,ui
+venlafaxine,urinary incontinence
+alpha interferon,hypothyroidism
+recombinant alpha interferon,sustained hypothyroidism
+recombinant alpha interferon,thyroid dysfunction
+recombinant alpha interferon,hypothyroidism
+vardenafil,atrial fibrillation
+vardenafil,symptomatic paroxysmal atrial fibrillation
+infliximab,mycobacterium abscessus
+interferon alpha-2b,cardiomyopathy
+interferon alpha,reversible cardiomyopathy
+senna,liver injury
+senna,subacute cholestatic hepatitis
+senna,cholestatic hepatitis
+insulin,lipohypertrophy
+azathioprine,diabetes mellitus
+prednisone,diabetes mellitus
+azathioprine,exocrine pancreatic insufficiency
+prednisone,exocrine pancreatic insufficiency
+penicillin,jhr
+penicillin g,jhr
+penicillin,jarisch-herxheimer reaction
+penicillin,chills
+penicillin,feeling cold
+penicillin,worsening headache
+rituximab,acute respiratory distress syndrome
+gemtuzumab ozogamicin,ards
+infliximab,ards
+okt3,ards
+rituximab,ards
+rituximab,severe pulmonary symptoms
+rituximab,dyspnea
+rituximab,hypoxemia
+rituximab,pleuritic chest pain
+rituximab,progressive hypoxemia
+bisphosphonate,renal impairment
+bisphosphonate,symptomatic hypocalcaemia
+bisphosphonate,severe hypocalcaemia
+gemcitabine,gastrointestinal bleeding
+gemcitabine,radiation-recall
+methotrexate,acute renal failure
+methotrexate,nephropathy
+calcium hydroxylapatite,prolapse of the urethral mucosa
+calcium hydroxylapatite,granulomatous reaction
+calcium hydroxylapatite,urethral prolapse
+furosemide,pancreatitis
+torsemide,pancreatitis
+heparin,massive thrombosis of the inferior vena cava
+heparin,ivc thrombosis
+heparin,thrombosis syndrome
+heparin,thrombosis
+prostaglandin e1,gastric-outlet obstruction
+prostaglandin e1,antral hyperplasia
+cisplatin,rpls
+cyclosporine,rpls
+interferon-alpha,rpls
+tacrolimus,rpls
+cyclosporine,reversible posterior leukoencephalopathy syndrome
+cyclosporine,headache
+cyclosporine,seizure
+cyclosporine,severe perspiration
+lopinavir,mania
+ritonavir,mania
+valproic acid,mania
+vpa,mania
+lopinavir,bipolar disorder
+ritonavir,bipolar disorder
+valproic acid,bipolar disorder
+triamcinolone acetonide,cataract
+interferon-beta,arthritis
+interferon-beta,bursitis
+ifn-beta,inflammatory arthritis
+ifn-beta,monoarthritis
+ifn-beta,autoimmune disorders
+ifn-beta,autoimmune thyroid disease
+ifn-beta,refractory pre-patellar bursitis
+ifn-beta,inflammatory musculoskeletal manifestations
+trimethoprim-sulfamethoxazole,aseptic meningitis
+smx,meningitis
+sulfamethoxazole,meningitis
+tmp,meningitis
+trimethoprim,meningitis
+smx,aseptic meningitis
+tmp,aseptic meningitis
+corticosteroid,disseminated nocardiosis
+chloroquine,bilateral ptosis
+chloroquine,ptosis
+mtx,central neurological syndrome
+methotrexate,stroke-like leukoencephalopathy
+mtx,stroke-like leukoencephalopathy
+mtx,subacute neurotoxicity
+lithium,ards
+l-dopa,dyskinesias
+levodopa,dyskinesia
+triazolam,eating disorder
+triazolam,amnesia
+triazolam,nocturnal bingeing
+interferon alpha,sarcoidosis
+interferon alpha 2b,sarcoidosis
+irinotecan,neutropenic colitis
+nedaplatin,neutropenic colitis
+cinacalcet hcl,severe hypercalcemia
+ifosfamide,ncse
+ifosfamide,neurotoxicity
+ifosfamide,nonconvulsive status epilepticus
+gelatine,anaphylaxis
+bcg,cutaneous mycobacterial infection
+bcg,disseminated tuberculous lesions
+hcq,hypersensitivity rash
+sumatriptan,symptomatic cerebral vasospasm
+risperidone,diabetic ketoacidosis
+smx,atypical lymphocytosis
+sulfamethoxazole,atypical lymphocytosis
+tmp,atypical lymphocytosis
+trimethoprim,atypical lymphocytosis
+smx,cervical lymphadenopathy
+sulfamethoxazole,cervical lymphadenopathy
+tmp,cervical lymphadenopathy
+trimethoprim,cervical lymphadenopathy
+smx,eosinophilia
+sulfamethoxazole,eosinophilia
+tmp,eosinophilia
+trimethoprim,eosinophilia
+smx,fever
+sulfamethoxazole,fever
+tmp,fever
+trimethoprim,fever
+smx,hepatosplenomegaly
+sulfamethoxazole,hepatosplenomegaly
+tmp,hepatosplenomegaly
+trimethoprim,hepatosplenomegaly
+smx,skin eruptions
+sulfamethoxazole,skin eruptions
+tmp,skin eruptions
+trimethoprim,skin eruptions
+tmp-smx,hypersensitivity syndrome
+trimethoprim-sulfamethoxazole,hypersensitivity syndrome
+corticosteroid,glaucoma
+triamcinolone acetate,glaucoma
+triamcinolone,severe vision loss
+triamcinolone,visual field defects
+steroid,glaucoma
+triamcinolone acetonide,glaucoma
+corticosteroid,severe vision loss
+ifn-alpha,autoimmune thyroid disease
+interferon-alpha,autoimmune thyroid disease
+ifn-alpha,graves' hyperthyroidism
+ifn-alpha,thyrotoxicosis
+ifn-alpha,hyperthyroidism
+interferon-alpha,hyperthyroidism
+ifn-alpha,hyperthryroidism
+ribavirin,hyperthryroidism
+ifn-alpha,thyroiditis
+ribavirin,thyroiditis
+dipyrone,agranulocytosis
+dipyrone,granulocytopenia
+efalizumab,cd8+ cutaneous lymphoproliferative disorders
+infliximab,cd8+ cutaneous lymphoproliferative disorders
+pyrimethamine,abdominal pain
+sulfadiazine,abdominal pain
+pyrimethamine,fever
+sulfadiazine,fever
+pyrimethamine,severe cutaneous involvement
+sulfadiazine,severe cutaneous involvement
+pyrimethamine,swelling
+sulfadiazine,swelling
+pyrimethamine,transaminitis
+sulfadiazine,transaminitis
+sulfadiazine,hypersensitivity
+carboplatin,fatal lung fibrosis
+paclitaxel,fatal lung fibrosis
+paclitaxel,fatal pulmonary fibrosis
+paclitaxel,lung fibrosis
+paclitaxel,pneumonitis
+paclitaxel,pulmonary fibrosis
+anti-tnf-alpha,infections
+infliximab,subfulminant hepatitis b
+phenol,acute unilateral total visual loss
+phenol,neurotoxicity
+phenol,visual loss
+ifn-beta,liver injury
+interferon-beta,liver injury
+ifn beta,grade 3 hepatotoxicity
+ifn beta,hepatotoxicity
+interferon-beta,hepatotoxicity
+ifn beta,hepatitis
+ifn beta,liver injury
+cloxacillin,acute urticaria
+cloxacillin,labial angioedema
+cloxacillin,allergy
+cloxacillin,hypersensitivity
+cloxacillin,ige-mediated allergic reactions
+bcnu,cardiac toxicity
+carmustine,myocardial ischemia
+bcnu,myocardial ischemia
+zafirlukast,hypereosinophilia
+pegfilgrastim,edema
+pegfilgrastim,pain in his right forearm
+pegfilgrastim,rapidly progressive erythema
+statin,myasthenic syndrome
+statin,myasthenia gravis
+azathioprine,reactivation of cytomegalovirus
+hcq,ventricular tachycardia
+hydroxychloroquine,qt prolongation
+hydroxychloroquine,refractory ventricular arrhythmia
+hcq,cardiac arrhythmias
+hcq,torsade de pointes
+metformin,lactic acidosis
+metformin,severe acidosis
+olanzapine,diabetes
+olanzapine,weight gain
+olanzapine,uncontrolled diabetes mellitus
+olanzapine,uncontrolled diabetes
+lasik,enterobacter keratitis
+lasik,traumatic flap dehiscence
+lasik,traumatic late flap dehiscence
+docetaxel,boop
+gemcitabine,boop
+docetaxel,progression of the tumor
+gemcitabine,progression of the tumor
+docetaxel,severe respiratory insufficiency
+gemcitabine,severe respiratory insufficiency
+warfarin,bloody tears
+warfarin,sub-conjunctival haematoma
+warfarin,diplopia
+warfarin,discomfort
+warfarin,haematoma
+warfarin,lagophthalmos
+carbamazepine,angioedema
+carbamazepine,maculopapular eruptions
+carbamazepine,cutaneous eruptions
+carbamazepine,cutaneous rashes
+carbamazepine,eruptions
+carbamazepine,maculopapular rash
+infliximab,avp
+infliximab,severe adenovirus pneumonia
+infliximab,severe avp
+ivermectin,severe hepatitis
+ivermectin,severe liver disease
+gemcitabine,radiation recall dermatitis
+gemcitabine,rectus abdominus radiation recall
+simvastatin,sporadic rippling muscle disease
+simvastatin,rippling muscle disease
+simvastatin,rmd
+capecitabine,acute coronary syndrome
+carbamazepine,coma
+carbamazepine,respiratory depression
+carbamazepine,seizures
+pegvisomant,hepatic enzyme disturbances
+pegvisomant,hepatitis
+octreotide,hepatitis
+amb,anaemia
+amphotericin b,anaemia
+amb,fever
+amphotericin b,fever
+amb,hypokalaemia
+amphotericin b,hypokalaemia
+amb,malaise
+amphotericin b,malaise
+amb,renal impairment
+amphotericin b,renal impairment
+temozolomide,brain abscess with listeria monocytogenes
+temozolomide,cutaneous kaposi's sarcoma
+temozolomide,immunosuppression
+temozolomide,infections with pneumocystis jiroveci pneumonia
+temozolomide,t-cell lymphocytopenia
+temozolomide,kaposi's sarcoma
+temozolomide,listeria brain abscess
+temozolomide,pneumocystis pneumonia
+mannitol,angle-closure glaucoma
+methylprednisolone,angle-closure glaucoma
+sumatriptan,spontaneous splenic infarction
+triptan,myocardial infarction
+triptan,stroke
+methylprednisolone,acute myocardial infarction
+radioiodine,hypothyroidism
+methylprednisolone,myocardial infarction
+methylprednisolone,severe hypertension
+glucocorticoids,myocardial infarction
+sasp,psoriasis-like skin reaction
+sulphasalazine,psoriasis-like skin reaction
+vincristine,bilateral ptosis
+vincristine,cranial polyneuropathy
+morphine,acute generalized exanthematous pustulosis
+morphine,facial flushing
+morphine,hyperhidrosis
+erlotinib,skin manifestations
+benzoyl peroxide,allergic contact angioedema
+bp,severe angioedematous reaction
+5-fluorouracil,acute confusional state
+caffeine,suicide attempt
+dapsone,hypersensitivity syndrome
+diamorphine,anaphylaxis
+aprotinin,systemic allergic reaction
+carbamazepine,nms
+divalproex sodium,nms
+topiramate,nms
+venlafaxine,nms
+carbamazepine,ss
+divalproex sodium,ss
+risperidone,ss
+topiramate,ss
+venlafaxine,ss
+phenytoin,fever
+phenytoin,maculopapular rashes
+lamotrigine,localized purpura
+lisinopril,acute renal failure
+losartan,acute renal failure
+lisinopril,hypotension
+losartan,hypotension
+5-fluorouracil,reversible corneal keratinization
+rituximab,bronchiolitis obliterans with organizing pneumonia
+rituximab,boop
+thrombin,severe arterial thrombotic events
+thrombin,arterial thrombosis
+oxaliplatin,hemolytic and/or thrombocytopenic reactions
+oxaliplatin,hemolytic uremic syndrome
+5-fluorouracil,hemolytic-uremic syndrome
+leucovorin,hemolytic-uremic syndrome
+oxaliplatin,hemolytic-uremic syndrome
+zyprexa,agranulocytosis
+olanzapine,neutropenia
+zyprexa,neutropenia
+phenothiazines,agranulocytosis
+phenothiazines,neutropenia
+thiazide,neutropenia
+olanzapine,severe neutropenia
+olanzapine,camptocormia
+olanzapine,mild parkinsonian signs
+mirtazapine,symptomatic hyponatremia
+citalopram,hyponatremia
+mirtazapine,hyponatremia
+citalopram,recurrent hyponatremia
+mirtazapine,recurrent hyponatremia
+interferon (ifn)-beta-1b,nephrotic syndrome
+ifn,nephrotic syndrome
+interferon-beta-1b,nephrotic syndrome
+ifn-beta-1b,nephrotic syndrome
+ifn-beta-1b,proteinuria
+homochlorcyclizine hydrochloride,dyspnea
+calcium stearate,acute eosinophilic pneumonia
+calcium stearate,pulmonary disease
+zoledronic acid,scleritis
+zoledronic acid,severe unilateral posterior scleritis
+rituximab,hepatitis b virus reactivation
+rituximab,hbv reactivations
+rituximab,hbv reactivation
+azathioprine,cryptococcal meningitis
+prednisolone,cryptococcal meningitis
+doxorubicin,intertrigo-like eruption
+pld,eruption
+pld,erosions in the axilla and groin
+pld,erythema
+warfarin,skin necrosis
+indomethacin,premature closure of the ductus arteriosus
+indomethacin,hypoxia
+indomethacin,premature ductal closure
+indomethacin,ductal closure
+moxifloxacin,corneal ulcers
+fluoroquinolone,severe corneal toxicity
+nimesulide,acute generalized exanthematous pustulosis
+nimesulide,agep
+amphotericin b deoxycholate,bradycardia
+amphotericin b deoxycholate,cardiac toxicity
+amphotericin b deoxycholate,ventricular arrhythmias
+amphotericin b,fatal cardiac arrhythmia
+benfluorex,valvular heart disease
+lp-tae,liver dysfunction
+lp-tae,localized pain
+lp-tae,low-grade fever
+lp-tae,myelo-suppression
+tacrolimus,acute renal failure
+tacrolimus,hus
+tacrolimus,arf
+nevirapine,fulminant hepatitis
+viramune,fulminant hepatitis
+cyclosporin,cholelithiasis
+cyclosporin,thrombosis of the central retinal vein
+azathioprine,thrombosis
+cyclosporin,thrombosis
+prednisone,thrombosis
+cyproterone acetate,hepatotoxicity
+cpa,severe hepatotoxic reactions
+cs,cutaneous leishmaniasis
+corticosteroid,leishmania infantum leishmaniasis
+cs,leishmania infantum leishmaniasis
+corticosteroid,lingual leishmaniasis
+cs,lingual leishmaniasis
+ritalin,glaucoma
+methylphenidate,cataract
+methylphenidate,glaucoma
+ritalin,cataract
+avastin,cbs
+avastin,charles-bonnet syndrome
+avastin,transient structured visual hallucinations
+bevacizumab,visual hallucinations
+metoclopramide,oculogyric crisis
+cyclosporine,nephrotoxicity
+quinapril,prolonged hypotension
+quinapril,transient renal impairment
+actinomycin-d,cardiomyopathy
+adriamycin,cardiomyopathy
+mithramycin,cardiomyopathy
+actinomycin-d,exacerbations of the heart failure
+mithramycin,exacerbations of the heart failure
+nsc-24559,exacerbations of the heart failure
+nsc-3053,exacerbations of the heart failure
+mesalazine,cardiac hypersensitivity
+mesalazine,myopericarditis
+mesalazine,pericarditis
+erlotinib,hepatitis
+erlotinib,acute severe hepatitis
+gefitinib,acute severe hepatitis
+erlotinib,hepatotoxicity
+cialis,fixed drug eruption
+tadalafil,fixed drug eruption
+docetaxel,pulmonary toxicity
+docetaxel,fatal interstitial pneumonitis
+docetaxel,subacute interstitial pneumonitis-related pulmonary fibrosis
+sulfamethoxazole,fulminant microangiopathic hemolytic anemia
+trimethoprim,fulminant microangiopathic hemolytic anemia
+sulfamethoxazole,thrombocytopenia
+trimethoprim,thrombocytopenia
+sulfamethoxazole,thrombotic thrombocytopenic purpura
+trimethoprim,thrombotic thrombocytopenic purpura
+valproic acid,juvenile absence epilepsy
+paradoxical,seizure exacerbation
+valproic acid,seizure exacerbation
+avastin,acute endophthalmitis
+bevacizumab,acute endophthalmitis
+bevacizumab,infectious endophthalmitis
+bevacizumab,age-related macular degeneration
+bevacizumab,painless infectious endophthalmitis
+lithium,pulmonary hypertension
+infliximab,arthritis
+perospirone hydrochloride,circulatory collapse
+perospirone hydrochloride,deep coma
+perospirone hydrochloride,diabetic ketoacidosis
+imatinib,fatal venous thrombembolism
+imatinib,deep vein thrombosis
+cisplatin,status epilepticus
+gemcitabine,status epilepticus
+methadone,fluctuation of the qt interval
+methadone,prolonged qt
+fluvoxamine maleate,piloerection
+milnacipran hydrochloride,piloerection
+fluvoxamine,piloerection
+milnacipran,piloerection
+tobramycin,recurrent eosinophilia
+tobramycin,severe persistent bronchospasm
+tobramycin,deterioration of pulmonary function
+bisphosphonate,osteonecrosis of the mandible
+amiodarone,aggravation of arrhythmia
+amiodarone,hepatotoxicity
+amiodarone,pulmonary toxicity
+amiodarone,thyroid diseases
+amiodarone,pancreatitis
+amiodarone,acute pancreatitis
+etanercept,tuberculous uveitis
+pemetrexed,melanonychia
+pemetrexed,onycholysis
+infliximab,osteomyelitis
+citalopram,serotonin syndrome
+fentanyl,serotonin syndrome
+citalopram,agitation
+fentanyl,agitation
+citalopram,confusion
+fentanyl,confusion
+citalopram,myoclonic jerks
+fentanyl,myoclonic jerks
+citalopram,tachycardia
+fentanyl,tachycardia
+citalopram,tremors
+fentanyl,tremors
+citalopram,unsteady gait
+fentanyl,unsteady gait
+methotrexate,renal failure
+hdmtx,renal failure
+docetaxel,meibomian duct inflammation and blockage
+docetaxel,chalazion
+docetaxel,eye irritation and dryness
+gemcitabine,recall pneumonitis
+gemcitabine,dry cough
+gemcitabine,dyspnea
+gemcitabine,subfebrile temperatures
+gemcitabine,radiation recall pneumonitis
+vancomycin,neutropenia
+teicoplanin,neutropenia
+teicoplanin,agranulocytosis
+pentamidine,cutaneous ulceration
+pentamidine,chemical cellulitis
+pentamidine,ulceration
+peginterferon alfa-2a,disfiguring facial edema
+ribavirin,disfiguring facial edema
+interferon alpha 2-beta,tumor-volume increase
+flecainide,cardiovascular collapse
+ezetimibe,acute pancreatitis
+ezetimibe,pancreatitis
+raloxifene,aggravation of nonalcoholic steatohepatitis
+raloxifene,nash
+danazol,liver damage
+danazol,hepatic damage
+lenalidomide,hypersensitivity pneumonitis-like syndrome
+lenalidomide,diffuse pulmonary infiltrates
+lenalidomide,dyspnea
+lenalidomide,fever
+lenalidomide,hypoxia
+thalidomide,fever
+thalidomide,pulmonary infiltrates
+triamcinolone,exacerbation of retinochoroiditis
+ethambutol,rapid cognitive decline
+ethambutol,acute onset psychosis
+interferon-alpha,psoriasis
+recombinant human interferon-alpha,exacerbate psoriasis or trigger off its onset
+sulfamethoxazole,generalized erythema
+trimethoprim,generalized erythema
+sodium valproic acid,raised intracranial pressure
+vpa,raised intracranial pressure
+sodium valproic acid,severe cerebral swelling
+vpa,severe cerebral swelling
+valproic acid,raised intracranial pressure
+bleomycin,hyperpigmentation
+bleomycin,skin toxicity
+bleomycin,localized pigmentation
+cisplatin,localized pigmentation
+etoposide,localized pigmentation
+capecitabine,headache
+capecitabine,headaches
+5-fu,headaches
+lithium,brugada type electrocardiographic changes
+propafenone,brugada type electrocardiographic changes
+propafenone,st elevation in right precordial leads
+propafenone,type 1 brugada syndrome
+dexamethasone,gastritis
+doxorubicin,mucositis
+bortezomib,gastrointestinal side effect
+bortezomib,paralytic ileus
+bortezomib,severe paralytic ileus
+phenelzine,delusional parasitosis
+rituximab,alveolar hemorrhage
+rituximab,interstitial pneumonitis
+rituximab,delayed pulmonary toxicity
+metoclopramide,neuroleptic malignant syndrome
+pge1,gastric mucosa foveolar hyperplasia
+colchicine,fatigue
+colchicine,leg weakness
+colchicine,myalgia
+colchicine,rhabdomyolysis
+colchicine,rhabdomylysis
+5-fluorouracil,cardiotoxicity
+acetic acid,vagina bleeding
+interferon-gamma,systemic lupus erythematosus
+recombinant human interferon gamma,sle
+rifn-gamma,sle
+recombinant human interferon gamma,systemic lupus erythematosus
+rifn-gamma,systemic lupus erythematosus
+bisphosphonate,osteochemonecrosis of the jaw
+clozapine,eosinophilia
+mmf,red blood cell anemia
+prednisone,red blood cell anemia
+mycophenolate mofetil,red blood cell anemia
+mmf,anemia
+cyclosporine,anemia
+prednisone,anemia
+oxcarbazepine,angioedema
+oxcarbazepine,angioneurotic edema
+azathioprine,vod
+tacrolimus,hepatic vod
+carbamazepine,hypersensitivity syndrome
+etoposide,pulmonary toxicity
+l-tryptophan,eosinophilia-myalgia syndrome
+rfp,hypothyroidism
+rifampin,hypothyroidism
+rfp,hashimoto's thyroiditis
+rifampin,hashimoto's thyroiditis
+nabumetone,pulmonary fibrosis
+cyclosporine,rhabdomyolysis
+simvastatin,rhabdomyolysis
+interferon alpha,generalized lichen nitidus
+ribavirin,generalized lichen nitidus
+interferon alpha,lichen nitidus
+clopidogrel,sirolimus-eluting stent thrombosis
+atra,teratogenic effect
+gefitinib,ild
+gefitinib,interstitial lung disease
+erlotinib,pulmonary toxicity
+erlotinib,pulmonary fibrosis
+erlotinib,ild
+erlotinib,fatal pulmonary toxicity
+fluoroquinolone,torsade de pointes
+moxifloxacin,torsade de pointes
+glypressin,skin necrosis
+terlipressin,skin necrosis
+statin,myopathy
+colchicine,muscle weakness
+simvastatin,muscle weakness
+statin,muscle weakness
+colchicine,acute weakness
+simvastatin,acute weakness
+simvastatin,mild chronic renal insufficiency
+methotrexate,pneumocystis carinii pneumonia
+methotrexate,fever
+methotrexate,hypoxia
+methotrexate,pneumocystis pneumonia
+methotrexate,pulmonary infiltrates
+desferrioxamine,unilateral hearing loss
+leflunomide,abdominal sepsis
+leflunomide,cellulitis
+leflunomide,disseminated herpes zoster
+leflunomide,gastroenteritis
+leflunomide,infection
+leflunomide,lower respiratory tract infections
+leflunomide,mycotic aneurysm
+leflunomide,tb liver
+leflunomide,infections
+leflunomide,severe infections
+sulfasalazine,fever
+sulfasalazine,leukocytopenia
+sulfasalazine,skin eruptions
+sulfasalazine,thrombocytopenia
+sulfasalazine,hemophagocytic syndrome
+sulfasalazine,hypersensitivity syndrome
+carbamazepine,status migrainosus
+cbz,status migrainosus
+oxc,status migrainosus
+oxcarbazepine,status migrainosus
+oxcarbazepine,headache
+dobutamine,myoclonic muscle spasms
+dobutamine,myoclonus
+calcium polystyrene sulfonate,colonic perforation
+sorbitol,colonic perforation
+calcium polystyrene sulfonate,colonic ulcer
+sorbitol,colonic ulcer
+calcium polystyrene sulfonate,sigmoidovesical fistula
+sorbitol,sigmoidovesical fistula
+efavirenz,psychosis
+infliximab,mycobacterium marinum infection
+adenosine,sustained monomorphic ventricular tachycardia
+clozapine,tardive ogc
+clozapine,tardive oculogyric crisis
+metronidazole,neuropathy
+metronidazole,sensory neuropathy
+methotrexate,infection with both m. tuberculosis and m. chelonae
+thalidomide,sustained ventricular tachycardia
+thalidomide,multiple syncopal episodes
+glatiramer acetate,ecm
+glatiramer acetate,embolia cutis medicamentosa
+glatiramer acetate,skin necrosis
+amiodarone,hypothyroidism
+amiodarone,thyroid dysfunction
+quetiapine,leucocytopenia
+quetiapine,thrombocytopenia
+amphotericin b,cutaneous leucocytoclastic vasculitis
+amphotericin b,palpable purpuric skin lesions
+5-fu,cardiotoxicity
+5-fluorouracil,transient asymptomatic bradycardia
+5-fu,transient asymptomatic bradycardia
+methotrexate,papular eruption
+methotrexate,diffuse papular eruption
+methotrexate,cutaneous vasculitis
+methotrexate,diffuse pruritic papular eruption
+acetazolamide,metabolic acidosis
+acetylsalicylic acid,pericardial hemorrhage
+nelfinavir,cutaneous rash
+indinavir,fever
+efavirenz,nausea
+indinavir,renal colic
+efavirenz,temporary memory loss
+methotrexate,sub-acute neurotoxicity
+methotrexate,sub-acute toxic leukoencephalopathy
+methotrexate,sub-acute leukoencephalopathy
+etanercept,cd
+etanercept,immune-mediated injury
+etanercept,crohn's disease
+aspirin,upper gastrointestinal haemorrhage
+clopidogrel,upper gastrointestinal haemorrhage
+doxorubicin,breathing distress
+doxorubicin,thoracic pain
+cyproterone acetate,severe hepatocellular dysfunction
+cpa,fatal fulminant hepatitis
+cpa,severe hepatocellular damage
+acyclovir,vzv antigen-positive zoster
+temozolomide,fever
+temozolomide,exfoliative rash
+temozolomide,rash
+temozolomide,desquamative skin rash
+tobramycin sulfate,exfoliative dermatitis
+tobramycin,exfoliative dermatitis
+rituximab-chop,interstitial pneumonitis
+phenytoin,cerebellar syndrome
+trastuzumab,pneumonitis
+trastuzumab,plural effusion dyspnoea
+trastuzumab,pulmonary infiltrates
+trastuzumab,interstitial lung disease
+4-chloro-7-nitrobenzofurazan,acute allergic contact dermatitis
+nbd-cl,acute allergic contact dermatitis
+4-chloro-7-nitrobenzofurazan,allergic contact dermatitis
+aripiprazole,photo-onycholysis
+olanzapine,photo-onycholysis
+leflunomide,diffuse alveolar hemorrhage
+leflunomide,hemoptysis
+leflunomide,severe weakness
+leflunomide,short-of-breath
+carbamazepine,hyponatraemia
+carbamazepine,antidiuresis
+cyclosporine,severe systemic cmv infection
+imatinib,hepatotoxicity
+imatinib mesylate,fatal acute hepatic failure
+imatinib,acute liver failure
+imatinib,herpetic rash
+olanzapine,hyperglycemia
+pegylated interferon alpha-2a,adult respiratory distress syndrome
+ribavirin,adult respiratory distress syndrome
+pegifnalpha-2a,adult respiratory distress syndrome
+pegifnalpha-2a,ards
+pegylated interferon alpha-2a,ards
+ribavirin,ards
+clomiphene citrate,bilateral anterior uveitis
+atomoxetine,tics
+alpha-2b peginterferon,type 1 diabetes mellitus
+ribavirin,type 1 diabetes mellitus
+recombinant alpha-2b peginterferon,type 1 diabetes mellitus
+peginterferon alpha-2b,type 1 diabetes mellitus
+ranibizumab,ocular hypertension
+ranibizumab,sustained ocular hypertension
+ranibizumab,persisent ocular hypertension
+dextroamphetamine,peripheral vasculopathy
+methylphenidate,peripheral vasculopathy
+dextroamphetamine,acral cyanosis
+methylphenidate,acral cyanosis
+dextroamphetamine,livedo reticularis
+methylphenidate,livedo reticularis
+dextroamphetamine,raynaud phenomenon
+methylphenidate,raynaud phenomenon
+efalizumab,disseminated eruptive giant mollusca contagiosa
+efalizumab,eruptive mollusca contagiosa
+tamoxifen,cervical adenocarcinoma
+tamoxifen,gastric tumor
+pegaptanib,incomplete posterior hyaloid detachment
+enalaprilat,acute parotitis
+enalaprilat,acute bilateral parotitis
+oxybutynin,acute bilateral blindness
+oxybutynin,focal seizure
+oxybutynin,hypertension
+sibutramine,severe symptomatic hyponatremia
+sibutramine,hypertension
+sibutramine,tachycardia
+sibutramine,hyponatremia
+pregabalin,cortical negative myoclonus
+pregabalin,negative myoclonus
+muzolimine,severe neuromyeloencephalopathy
+muzolimine,fatal neuromyeloencephalopathy
+l-asparaginase,posterior reversible encephalopathy
+l-asparaginase,posterior reversible encephalopathy syndrome
+l-asparaginase,pres
+l-asparaginase,altered sensorium
+anastrozole,sclerosing glomerulonephritis
+anastrozole,renal injury
+anastrozole,decrease in both lumbar spine
+anastrozole,increase in the cholesterol level
+anastrozole,increase in the incidence of all bone fractures
+anastrozole,joint disorders
+anastrozole,acute renal failure
+itraconazole,acute hepatitis
+itraconazole,severe and irreversible hepatotoxic events
+itraconazole,fatal hepatitis
+itraconazole,acute cytolytic hepatitis
+itraconazole,hepatitis
+itraconazole,severe symptomatic hepatitis
+baclofen,impair sexual function
+baclofen,sexual dysfunction
+recombinant insulin-like growth factor-i,anaphylactic reaction
+increlex,anaphylaxis
+olanzapine,rls
+olanzapine,periodic limb movements during sleep
+olanzapine,restless legs syndrome
+olanzapine,agitation
+olanzapine,paraesthesia
+olanzapine,rls symptoms
+olanzapine,plms
+olanzapine,akathisia
+risperidone,akathisia
+risperidone,rls
+alendronate,nodular scleritis
+alendronate,scleritis
+alendronate sodium,nodular scleritis
+alendronate sodium,scleritis
+ciprofloxacin,prolonged ect seizure
+cefotiam,tardive seizures
+piperacillin,tardive seizures
+levofloxacin,acute delirium
+gatifloxacin,dizziness
+grepafloxacin,dizziness
+levofloxacin,dizziness
+moxifloxacin,dizziness
+sparfloxacin,dizziness
+trovafloxacin,dizziness
+gatifloxacin,headache
+grepafloxacin,headache
+levofloxacin,headache
+moxifloxacin,headache
+sparfloxacin,headache
+trovafloxacin,headache
+gatifloxacin,insomnia
+grepafloxacin,insomnia
+levofloxacin,insomnia
+moxifloxacin,insomnia
+sparfloxacin,insomnia
+trovafloxacin,insomnia
+levofloxacin,delirium with psychotic features
+levofloxacin,acute-onset delirium with psychotic features
+copaxone,crohn's disease
+copaxone,long-term immunosuppression
+copaxone,gastrointestinal symptoms
+ketoconazole,obsessional-like suicidal ideas and images
+terlipressin,prolonged qt interval
+terlipressin,torsade de pointes
+terlipressin,ventricular arrhythmia
+bevacizumab,spontaneous nasal septal perforation
+vrc,angio-oedema
+voriconazole,angio-oedema
+bupropion,multiple seizures
+bupropion,agitation
+bupropion,hallucinations
+bupropion,seizures
+bupropion,tachycardia
+bupropion,vomiting
+methylphenidate,enuresis
+cephalosporin,leukopenia
+cefazolin,leukopenia
+pres,cyclosporine
+pres,posterior reversible encephalopathy syndrome
+csa,pres
+cyclosporine,pres
+warfarin,stuttering priapism
+warfarin,priapism
+warfarin,stuttering
+bleomycin,pulmonary fibrosis
+propafenone,mild cognitive impairment
+citalopram,coronary artery disease
+propafenone,coronary artery disease
+citalopram,dizziness
+citalopram,falls
+propafenone,falls
+citalopram,chest tightness
+vancomycin,neurologic symptoms
+piperacillin,neuralgic amyotrophy
+tazobactam,neuralgic amyotrophy
+tobramycin,neuralgic amyotrophy
+vancomycin,neuralgic amyotrophy
+methylprednisolone,seizures
+methylprednisolone,transient blindness
+hydroxyurea,mucocutaneous adverse events
+hydroxyurea,nail hyperpigmentation
+hydroxyurea,myeloproliferative disorder
+hydroxyurea,longitudinal melanonychia
+hydroxyurea,multiple skin cancers
+hydroxyurea,nail changes
+hydroxyurea,diffuse longitudinal melanonychia
+hydroxyurea,multiple squamous cell carcinomas
+hydroxyurea,diffuse nail hyperpigmentation
+hydroxyurea,painful hand ulcer
+hydroxyurea,skin cancers
+ciprofloxacin,vbds
+ciprofloxacin,stevens-johnson syndrome
+ciprofloxacin,vanishing bile duct
+ciprofloxacin,sjs
+aspirin,intracranial bleeding
+clopidogrel,intracranial bleeding
+temozolomide,disseminated salmonellosis
+ceftriaxone,fixed drug eruption
+cephalosporins,fde
+ceftriaxone,fde
+gabapentin,renal impairment
+gabapentin,renal failure
+gabapentin,acute renal failure
+triamcinolone acetonide,acute syphilitic posterior placoid chorioretinitis
+ivta,acute syphilitic posterior placoid chorioretinitis
+ivta,asppc
+triamcinolone acetonide,asppc
+ivta,severe chorioretinitis
+aspirin,intratumoral hemorrhage
+aspirin,hemorrhage
+aspirin,enlargement of spontaneous hemorrhage
+rituximab,acute coronary syndromes
+rituximab,acute coronary syndrome
+acenocoumarol,laryngeal hematoma
+econazole,laryngeal hematoma
+acenocoumarol,laryngeal dyspnea
+econazole,laryngeal dyspnea
+methylprednisolone,adrenal suppression in a fetus
+methylprednisolone,adrenal suppression
+disodium cromoglycate,moderately severe bronchospasm
+disodium cromoglycate,urticarial rash
+disodium cromoglycate,asthma
+disodium cromoglycate,urticaria
+dscg,urticaria
+propranolol,atrioventricular block
+propranolol,syncope
+olanzapine,hyperglycaemic coma
+leflunomide,allergic skin reactions
+leflunomide,alopecia
+leflunomide,diarrhea
+leflunomide,hypertension
+leflunomide,liver enzyme elevation
+leflunomide,nausea
+leflunomide,toxic epidermal necrolysis
+etanercept,mediastinal lymphadenopathy
+etanercept,pleurisy
+etanercept,thymic enlargement
+etanercept,thymic hyperplasia
+oxcarbazepine,dress
+oxcarbazepine,drug reaction with eosinophilia and systemic symptoms
+oxcarbazepine,severe rash
+partusisten,supraventricular tachycardia
+erlotinib,rosaceiform eruption
+methotrexate,anaphylaxis
+methotrexate,anaphylactic/anaphylactoid reaction
+diltiazem,fever
+diltiazem hydrochloride,fever
+adriamycin,congestive heart failure
+adriamycin,cardiotoxicity
+carbamazepine,diabetes mellitus
+aripiprazole,unusual weight fluctuation
+mianserin,unusual weight fluctuation
+heparin,venous thromboembolism
+tacrolimus,progressive liver failure
+tacrolimus,severe hepatocellular necrosis
+posaconazole,enterococcal peritonitis
+triamcinolone,iatrogenic cushing syndrome
+triamcinolone,cushing syndrome
+flunitrazepam,acute ischaemia of the left leg
+flunitrazepam,acute ischaemia of the leg
+infliximab,syringotropic hypersensitivity reaction
+leflunomide,syringotropic hypersensitivity reaction
+lenalidomide,severe aplastic anemia
+lenalidomide,aplastic anemia
+lenalidomide,aa
+amantadine,edema
+amantadine,reversible corneal edema
+amantadine,corneal edema
+amantadine,corneal endothelial dysfunction
+amantadine,bilateral corneal endothelial dysfunction
+amantadine,bilateral corneal edema
+amantadine,cornea
+sunitinib,acute interstitial nephritis
+haloperidol,extrapyramidal symptoms
+haloperidol,dysphagia
+methotrexate,iron deficiency anemia
+methotrexate,sprue-like syndrome
+imatinib,tumor lysis syndrome
+ifnalpha,graves' disease
+ifn-alpha,graves' disease
+ifn-alpha,subacute thyroiditis
+darifenacin,interstitial granulomatous dermatitis
+gemcitabine,hemolytic uremic syndrome
+chlorambucil,drug rash with eosinophilia and systemic symptoms
+chlorambucil,acute renal failure
+chlorambucil,fever
+chlorambucil,hypereosinophilia
+chlorambucil,skin rash
+chlorambucil,dress syndrome
+methotrexate,elevation of aspartate aminotrasferase
+mtx,elevation of aspartate aminotrasferase
+methotrexate,renal toxicity
+mtx,renal toxicity
+ethambutol,bitemporal visual field defects
+ethambutol,mferg abnormalities
+ethambutol,decreased visual acuity
+tenofovir,nephrotoxicity
+tdf,irreversible renal failure
+tdf,rickets
+tdf,nephrotoxicity
+piroxicam,ulcers
+immunoglobulin,acute renal failure
+ivig,acute renal failure
+temsirolimus,proteinuria
+temsirolimus,glomerulopathy
+etanercept,hypoglycemia
+insulin,hypoglycemia
+meglitinides,hypoglycemia
+sulfonylureas,hypoglycemia
+etanercept,persistent hypoglycemia
+dexmedetomidine,bradycardia
+glycopyrrolate,exaggerated increase of arterial blood pressure
+bisphosphonate,osteonecrosis of the jaw
+bisphosphonate,osteonecrosis of the skull base
+quinine,ttp/hus
+quinine,thrombotic microangiopathy
+quinine,tma
+quinine,schistocytosis
+epirubicin,primary and secondary perforation of the bladder
+aliskiren,acute renal failure
+aliskiren,hyperkalemia
+methylphenidate,acute cardiomyopathy
+methylphenidate,pericarditis
+methylphenidate,acute left ventricular dysfunction
+methylphenidate,chest pain
+methylphenidate,elevated cardiac biomarkers
+enoxaparin,hepatotoxicity
+methotrexate,posterior reversible encephalopathy syndrome
+methotrexate,acute lymphoblastic leukemia
+cyclosporine,pain syndrome
+cyclosporine,cips
+calcineurin,pain syndrome
+cyclosporine,leg pain
+risperidone,neuroleptic malignant syndrome
+efalizumab,tuberculosis
+etanercept,tuberculosis
+stavudine,symptomatic hyperlactatemia
+zidovudine,symptomatic hyperlactatemia
+zidovudine,hyperlactatemia relapse
+stavudine,hyperlactatemia
+bacitracin,anaphylactic reaction
+octreotide,prolonged hypoglycemia
+somatostatin,hypoglycemia
+octreotide,serious hypoglycemia
+azathioprine,leukopenia
+aza,leukopenia
+isoniazid,breast tissue enlargement
+alemtuzumab,cryptococcus neoformans fatal sepsis
+alemtuzumab,fungal infections
+alemtuzumab,opportunistic infections
+etoposide,acute myeloid leukemia
+etoposide,saml
+etoposide,secondary acute myeloid leukemia
+tranexamic acid,polymyoclonus seizure
+clarithromycin,rhabdomyolysis
+sunitinib,development of abnormally large mammary glands
+sunitinib,pain
+sunitinib,peri-areolar erythema
+sunitinib,bilateral breast enlargement
+sunitinib,gynaecomastia
+sunitinib,elevated lipase
+sunitinib,fatigue
+sunitinib,hand-foot syndrome
+sunitinib,hypertension
+sunitinib,lymphopenia
+divalproex sodium,eosinophilic pleural effusion
+depakote,dyspnea
+divalproex sodium,dyspnea
+depakote,effusion
+flurbiprofen,acute tubulointerstitial nephritis
+valproate,stupor
+sorafenib,localized dyskeratotic plaque
+sorafenib,milia
+sorafenib,atypical localized cutaneous eruption
+tigecycline,acute pancreatitis
+tigecycline,elevated pancreatic enzymes
+tigecycline,severe abdominal pain
+tigecycline,abdominal pain
+tigecycline,pancreatitis
+leuprolide acetate,polymyositis
+lupron,polymyositis
+leuprolide acetate,myositis
+aripiprazole,hiccups
+sertraline,rhabdomyolysis
+cisplatin,tumor lysis syndrome
+olanzapine,priapism
+ketamine,damage to the urinary tract
+ketamine,damage to the urothelium
+ketamine,urological symptoms
+lopinavir,arrhythmias
+ritonavir,arrhythmias
+lopinavir,transient cardiac arrhythmias
+ritonavir,transient cardiac arrhythmias
+infliximab,colitis
+infliximab,disseminated cryptococcosis
+carbamazepine,aggressive behavior
+carbamazepine,severe agitation
+carbamazepine,hyperammonemia
+valproic acid,elevated serum ammonia levels
+cis-platinum,nephrotoxicity
+cisplatinum,nephrotoxicity
+adalimumab,jaundice
+adalimumab,severe dyspnea
+adalimumab,tachypnea
+adalimumab,acute respiratory failure
+adalimumab,acute bilateral phrenic neuropathy
+tmp-sx,sjs
+tmp-sx,ten
+trimethoprim-sulfamethoxazole,sjs
+tmp-sx,stevens-johnson syndrome
+trimethoprim-sulfamethoxazole,stevens-johnson syndrome
+trimethoprim-sulfamethoxazole,ten
+tmp-sx,toxic epidermal necrolysis
+trimethoprim-sulfamethoxazole,toxic epidermal necrolysis
+lmwh,spontaneous hemothorax
+dalteparin,acute respiratory distress
+heparin,spontaneous hemothorax
+bevacizumab,acute ocular ischemic change
+avastin,acute vision loss
+bevacizumab,acute vision loss
+avastin,ocular ischemic syndrome
+bevacizumab,ocular ischemic syndrome
+bevacizumab,acute retinal ischemic change
+bevacizumab,stroke
+bevacizumab,carotid insufficiency
+bevacizumab,coagulopathy
+bevacizumab,poorly controlled diabetes mellitus
+bevacizumab,acute ocular ischemic syndrome
+bevacizumab,change of consciousness
+cyclophosphamide,pancytopenia
+doxorubicin,pancytopenia
+etoposide,pancytopenia
+prednisone,pancytopenia
+rituximab,pancytopenia
+vincristine,pancytopenia
+adefovir,hepatitis b infection
+lamivudine,hepatitis b infection
+linezolid,acute interstitial nephritis
+linezolid,dress
+linezolid,drug rash with eosinophilia and systemic symptoms
+linezolid,eosinophilia
+linezolid,facial edema
+linezolid,macular rash
+linezolid,marked increase in serum creatinine level
+linezolid,mild hepatitis
+linezolid,severe pruritus
+mtx,lpd
+methotrexate,lymphoproliferative disorder
+mtx,epstein-barr virus-associated polymorphic lymphoproliferative disorder
+mtx,immunodeficiency
+mtx,gastric lpd
+sorafenib,acute renal failure
+sorafenib,hyperkalemia
+sorafenib,hyperuricemia
+sorafenib,tumor lysis syndrome
+oxymetazoline,syncope
+oxymetalzoline,neurological depression
+nitrofurantoin,toxic liver damage
+nitrofurantoin,acute liver damage
+natalizumab,pcnsl
+natalizumab,primary central nervous system lymphoma
+lamotrigine,severe apnea
+lamotrigine,apnea
+dasatinib,pleural effusion
+dasatinib,pleural effusions
+carboplatin,platinum hypersensitivity
+adalimumab,fulminant cardiomyopathy
+adalimumab,severe cardiomyopathy
+amikacin,severe hypocalcemia
+amikacin,type 5 bartter-like syndrome
+amikacin,tubular dysfunction
+amikacin,hypocalcemia
+amikacin,hypomagnesemia
+amikacin,metabolic alkalosis
+amikacin,polyuria
+amikacin,refractory hypokalemia
+amikacin,severe renal tubular dysfunction
+thrombin,multiple infarcts
+thrombin,slow to awaken
+thrombin,vasospasm
+thrombin,cerebral infarctions
+ciprofloxacin,hemorrhagic vasculitis
+ciprofloxacin,below-knee amputation
+ciprofloxacin,progressive gangrene
+ciprofloxacin,severe forefoot infection
+ciprofloxacin,vasculitis
+sorafenib,interstitial pneumonia
+sorafenib,severe interstitial pneumonia
+sorafenib,interstitial lung disease
+gemcitabine,pulmonary toxicity
+licorice,hypokalemia
+garenoxacin,cardiac rhythms
+garenoxacin,hypokalemia
+disopyramide,torsades de pointes
+garenoxacin,torsades de pointes
+garenoxacin,tdp
+garenoxacin,ventricular tachycardia
+8mop,acute dermatitis
+methylprednisolone,hepatotoxicity
+calcium polystryrene sulfonate,colonic mucosal necrosis
+kalimate,colonic mucosal necrosis
+kayexalate,colonic necrosis
+sodium polystryrene sulfonate,colonic necrosis
+kalimate,colonic mucosal necrosis in the rectum
+kalimate,profuse hematochezia
+kayexalate,colonic mucosal necrosis
+clozapine,tardive dyskinesia
+clozapine,discomfort
+clozapine,td
+clozapine,extrapyramidal symptoms
+all-trans retinoic acid,focal myositis
+all-trans retinoic acid,mononeuritis
+all-trans retinoic acid,synovitis
+all-trans retinoic acid,acute focal myositis
+all-trans retinoic acid,possible vasculitis
+pegylated interferon,retinopathy
+ribavirin,retinopathy
+pegylated interferon,irreversible decrease of visual acuity
+pegylated interferon,ocular complications
+carboplatin,severe hypersensitivity
+sulfamethoxazole,aseptic meningitis
+trimethoprim,aseptic meningitis
+sulfamethoxazole,hemolytic anemia
+trimethoprim,hemolytic anemia
+sulfamethoxazole,hepatitis
+trimethoprim,hepatitis
+sulfamethoxazole,orthostatic hypotension
+trimethoprim,orthostatic hypotension
+sulfamethoxazole,difficulty with speech
+trimethoprim,difficulty with speech
+sulfamethoxazole,dizziness
+trimethoprim,dizziness
+sulfamethoxazole,headaches
+trimethoprim,headaches
+sulfamethoxazole,itching on the trunk
+trimethoprim,itching on the trunk
+sulfamethoxazole,maculopapular rash
+trimethoprim,maculopapular rash
+sulfamethoxazole,weakness
+trimethoprim,weakness
+ritodrine,acute chest pain
+ritodrine,type i second-degree av block
+ritodrine,mobitz type i
+ritodrine,wenckebach av block
+anthracycline,early chronic cardiomyopathy
+all-trans retinoic acid,symptomatic cardiomyopathy
+atra,symptomatic cardiomyopathy
+daunomycin,symptomatic cardiomyopathy
+imatinib,ks
+rituximab,kaposi's sarcoma
+rituximab,ks
+imatinib mesylate,kaposi's sarcoma
+imatinib,cutaneous ks lesions
+cytosine arabinoside,bulbar
+cytosine arabinoside,pseudobulbar palsy
+interferon,neuropsychiatric symptoms
+interferon,psychosis
+interferon,hallucinations
+ribavirin,hallucinations
+zidovudine,anaemia
+zidovudine,bone marrow aplasia
+zidovudine,pure red cell aplasia
+hydroxychloroquine,objective visual field loss
+hydroxychloroquine,visual field loss
+hydroxychloroquine,retinal toxicity
+trazodone,hypomanic symptoms
+trazodone,transient hypomanic symptoms
+etanercept,severe heart failure
+etanercept,reversible heart failure
+methylephedrine,stroke
+morphine,chronic nausea
+morphine,confusion
+lacosamide,ataxia
+lacosamide,diplopia
+lacosamide,dizziness
+lacosamide,somnolence
+methotrexate,aseptic pleuropericarditis
+methotrexate,serositis
+methotrexate,pleuropericarditis
+itraconazole,tremor
+zonisamide,acute kidney injury
+zonisamide,hypersensitivity syndrome
+zonisamide,hypersensitivity
+zonisamide,an increase in antihuman herpesvirus-6 immunoglobulin g titer
+zonisamide,eosinophilia
+zonisamide,high-grade fever
+zonisamide,liver dysfunction
+zonisamide,lymphadenopathy
+zonisamide,skin rash
+zonisamide,dihs
+zonisamide,dress
+bisabolol,allergic contact dermatitis
+immunoglobulin,azotemia
+ivig,azotemia
+immunoglobulin,hyperkalemia
+ivig,hyperkalemia
+immunoglobulin,nausea
+ivig,nausea
+immunoglobulin,shortness of breath
+ivig,shortness of breath
+lithium,cardiac toxicity
+lithium,loss of intracellular potassium
+vancomycin,anaphylactic reaction
+vancomycin,anaphylactoid
+vancomycin,anaphylaxis
+vancomycin,blood disorders
+vancomycin,gastrointestinal disturbances
+vancomycin,hypersensitivity reactions
+vancomycin,nephrotoxicity
+vancomycin,ototoxicity
+vancomycin,red man syndrome
+hexoprenaline,pulmonary oedema
+erlotinib,fatal interstitial lung disease
+epinephrine,coronary artery vasospasm
+epinephrine,transient intraoperative hypertension
+cisplatin,syndrome of inappropriate antidiuretic hormone
+enoxaparin,thrombocytosis
+adalimumab,extreme hyperferritinemia
+adalimumab,fever
+adalimumab,pancytopenia
+adalimumab,splenomegaly
+adalimumab,macrophagic activation syndrome
+adalimumab,visceral leishmaniasis
+prochlorperazine,epiglottitis
+prochlorperazine,oro-pharyngeal dystonic reaction
+hydroxychloroquine,retinopathy
+tmp-smx,acute liver toxicity
+tmp-smx,liver toxicity
+tmp-smx,cutaneous skin eruptions
+tmp-smx,hepatotoxicity
+tmp-smx,immunemediated hypersensitivity reaction
+trimethoprim-sulfamethoxazole,hepatotoxicity
+tmp-smx,soft tissue infection
+amiodarone,thyrotoxicosis
+amiodarone,goiter
+sirolimus,aphthous stomatitis
+sirolimus,worsening of chronic aphthous ulcers
+tacrolimus,worsening of chronic aphthous ulcers
+calcineurin,severe aphthous stomatitis
+mp,transient renal failure
+azathioprine,severe cholestasis
+azathioprine,cholestasis
+azathioprine,bile duct injury
+calcium hopantenate,acute encephalopathy
+hopa,acute encephalopathy
+quinine,persistent light reactivity
+quinine,photosensitivity
+doxorubicin,hematologic malignancy
+etoglucid,hematologic malignancy
+mitomycin c,hematologic malignancy
+cyclophosphamide,circumferential subglottic stenosis
+cyclophosphamide,subglottic stenosis
+tpa,severe splenic hemorrhage and rupture
+tissue plasminogen activator,splenic hemorrhage
+tissue plasminogen activator,gastrointestinal or intracranial bleeding
+tpa,gastrointestinal or intracranial bleeding
+cyproterone acetate,severe acute hepatitis
+cyproterone acetate,abnormal liver function tests
+cyproterone acetate,severe hepatitis
+iothalamate,fixed drug eruption
+griseofulvin,erythema multiforme
+aminoglutethimide,rash
+aminoglutethimide,skin toxicity
+tamoxifen,carcinoma of the corpus uteri
+disulfiram,hepatitis
+disulfiram,eosinophilia
+disulfiram,headache
+disulfiram,mild fever
+disulfiram,nausea
+disulfiram,rash
+disulfiram,vomiting
+methotrexate,leukoencephalopathy
+alum,aluminum toxicity
+aluminum,cardiomyopathy
+aluminum,encephalopathy
+bleomycin,hemolytic-uremic syndrome
+cisplatin,hemolytic-uremic syndrome
+methotrexate,hemolytic-uremic syndrome
+lidocaine,psychiatric symptoms
+nitrendipine,gingival hyperplasia
+sulfonamide,injury to the urinary tract
+sulfadiazine,crystalluria
+sulfadiazine,renal failure
+5-fluorouracil,glaucoma
+sucralfate,hypophosphatemic osteomalacia
+gentamicin,hypersensitivity reaction
+penicillin g,hypersensitivity reaction
+azathioprine,brain damage
+prednisolone,brain damage
+azathioprine,prenatal cytomegalovirus (cmv) infection
+prednisolone,prenatal cytomegalovirus (cmv) infection
+cisplatin,acute coronary events
+cis-diamine-dichloroplatinum ii,acute coronary ischemia
+cisplatin,acute coronary ischemia
+cis-diamine-dichloroplatinum ii,infarction
+cisplatin,infarction
+chromic phosphate,bowel perforation
+chromic phosphate,bowel injury
+chromic phosphate,colon perforation
+mtx,death
+ara-c,loss of consciousness
+mtx,loss of consciousness
+ara-c,progressive visual loss
+mtx,progressive visual loss
+pyridostigmine bromide,bromide intoxication
+pyridostigmine bromide,postoperative psychosis
+diazepam,withdrawal symptoms
+nimodipine,ileus
+nimodipine,adynamic ileus
+nimodipine,pseudo-obstruction of the colon
+danazol,diabetes
+danazol,insulin-dependent diabetes mellitus
+glipizide,symptomatic hypoglycemia
+smx,symptomatic hypoglycemia
+sulfamethoxazole,symptomatic hypoglycemia
+tmp,symptomatic hypoglycemia
+trimethoprim,symptomatic hypoglycemia
+ifosfamide,anuria
+ifosfamide,irreversible lethal renal failure
+ifosfamide,tubulopathies
+ifosfamide,lethal anuria
+ciprofloxacin,interstitial nephritis
+ciprofloxacin,renal toxicities
+doxorubicin,acute encephalopathy
+doxorubicin,high-pressure hydrocephalus
+doxorubicin,severe acute encephalopathy
+phenobarbital,hepatotoxicity
+phenobarbital,severe hepatotoxicity
+phenobarbital,hepatocellular failure
+phenobarbital,skin rash
+atenolol,pseudolymphoma
+sulpiride,tardive dyskinesia
+methotrexate,ascites
+mtx,ascites
+methotrexate,bridging fibrosis
+methotrexate,hepatitis
+methotrexate,reversible hepatic insufficiency
+mtx,hepatic decompensation
+methotrexate,fatal rise in intracranial pressure
+methotrexate,brainstem herniation
+methotrexate,fatal cerebral edema
+methotrexate,intracranial mass lesion
+methotrexate,transtentorial herniation
+acyclovir,fever
+acyclovir,pleural effusion
+acyclovir,pulmonary infiltrates
+acyclovir,hemoptysis
+acyclovir,pleural friction rub
+quinine,hearing loss
+quinine,sensorineural hearing loss
+quinine,reversible hearing loss
+quinine,ototoxicity
+bleomycin,hemolytic uremic syndrome
+cis-platinum,hemolytic uremic syndrome
+vinblastine,hemolytic uremic syndrome
+bleomycin,acute pneumonitis
+oxygen,acute pneumonitis
+bleomycin,pulmonary damage
+oxygen,pulmonary damage
+bleomycin,pneumonitis
+bleomycin,pulmonary toxicity
+oxygen,pulmonary toxicity
+procainamide,incessant orthodromic atrioventricular tachycardia
+procainamide,tachycardia
+procainamide,incessant supraventricular tachycardia
+procainamide,pro-arrhythmic effects
+phosphate diethylstilbestrol,multicentric hepatocellular carcinoma
+des,hepatocellular carcinoma
+diethylstilbestrol,hepatocellular carcinoma
+pdes,multiple nodules in the liver
+phosphate diethylstilbestrol,multiple nodules in the liver
+amiodarone,cerebellar syndrome
+amiodarone,symmetric sensorimotor polyneuropathy
+amiodarone,peripheral neuropathy
+vinblastine,hyponatremia
+vinblastine,hyponatremic episode
+dextran-40,acute renal failure
+dextran-40,renal failure
+dextran,renal failure
+methotrexate,cns abnormalities
+bromocriptine,morphea
+dapsone,erythroderma
+fluoxetine,akathisia
+fluoxetine,constant pacing
+fluoxetine,marked anxiety
+fluoxetine,purposeless movements of the feet and legs
+fluoxetine,restlessness
+cytosine arabinoside,demyelinating peripheral neuropathy
+cytosine arabinoside,horner's syndrome
+cytosine arabinoside,peripheral nerve dysfunction
+cytosine arabinoside,peripheral nervous system disturbances
+cytosine arabinoside,death
+cytosine arabinoside,severe demyelinating peripheral neuropathy
+penicillamine,nail-changes
+ibuprofen,meningitis
+metoclopramide,parkinsonism
+ergotamine,arterial spasm
+ergotamine,fatal stroke
+cyclophosphamide,acute hyponatraemia
+indomethacin,acute hyponatraemia
+cyclophosphamide,life-threatening water intoxication
+indomethacin,life-threatening water intoxication
+clofazimine,nail changes
+clofazimine,discoloration of nail plate
+clofazimine,onycholysis
+clofazimine,subungual hyperkeratosis
+asparaginase,hyperglycemia
+captopril,persistent late onset asthma
+captopril,asthma
+bleomycin,tma
+cisplatin,tma
+busulphan,ascites
+busulphan,jaundice
+busulphan,oesophageal varices
+busulphan,portal hypertension
+amiodarone,torsades de pointe
+morphine-6-glucuronide,respiratory depression
+morphine,respiratory depression
+rifampin,thrombocytopenia
+rifampin,acute renal failure
+rifampin,hemolytic anemia
+rifampin,hepatitis
+haloperidol,wes
+haloperidol,withdrawal emergent syndrome
+5-fluorouracil,acute myelocytic leukemia
+cyclophosphamide,acute myelocytic leukemia
+methotrexate,acute myelocytic leukemia
+ibuprofen,gastrointestinal adverse reactions
+ibuprofen,ulcerative proctitis
+cytarabine,central nervous system toxicity
+methotrexate,central nervous system toxicity
+ara = c,leukoencephalopathy
+chlorambucil,acute myelogenous leukemia
+chlorambucil,aml
+mianserin,panic anxiety
+trihexyphenidyl,acute respiratory difficulties
+trihexyphenidyl,cranial dystonia
+trihexyphenidyl,inspiratory stridor
+ara-c,paresthesias
+cytosine arabinoside,paraplegia
+ara-c,paraplegia
+"o,p'-ddd",hypoadrenalism
+alprazolam,mania
+alprazolam,manic episodes
+alprazolam,delirious
+alprazolam,delirium
+sulfasalazine,bronchopulmonary complications of inflammatory bowel disease
+sulfasalazine,ibd
+amantadine,psychotic decompensations
+amantadine,precipitating psychosis
+amantadine,schizophrenia
+chlorpromazine,symptoms resembling parkinson's disease
+sulfasalazine,lupus
+sulfasalazine,pulmonary parenchymal involvement
+sulfasalazine,serositis
+sulfasalazine,lupus syndrome
+sulfasalazine,bilateral pleural effusions
+sulfasalazine,cardiac tamponade
+sulfasalazine,pneumonitis
+sulfasalazine,positive autoantibodies
+sulfasalazine,lupus erythematosus
+l-thyroxine,acute myocardial infarction
+l-thyroxine,coronary spasm
+l-thyroxine,myocardial infarction
+l-t4,leukopenia
+l-thyroxine,leukopenia
+ampicillin,generalised exfoliative dermatitis
+ampicillin,interstitial nephritis
+ampicillin,acute interstitial nephritis
+ampicillin,exfoliative dermatitis
+ampicillin,renal failure
+ampicillin,eosinophilia
+ampicillin,skin rash
+vancomycin,erythema of the cartilage of both ears
+vancomycin,hemorrhagic lesions of the finger tips
+vancomycin,lupus-like syndrome
+vancomycin,malar rash
+vancomycin,pain
+vancomycin,tender erythematous
+vancomycin,vasculitis
+isotretinoin,abnormal retinal function
+isotretinoin,excessive glare sensitivity
+isotretinoin,poor night vision
+fudr,neurologic toxicity
+ethambutol,optic neuropathies
+ethambutol,toxic optic neuropathies
+nifedipine,dysphagia for solids
+nifedipine,gastro-oesophageal reflux
+decadron,bilateral posterior subcapsular cataracts
+cisplatin,nausea
+decadron,visual impairment
+decadron,cataracts
+cisplatin,vomiting
+phenytoin,iga deficiency
+phenytoin,ige increase
+chloral hydrate,cardiac arrhythmias
+adrenaline,dacryolith
+valproic acid,hyperammonemia
+valproic acid,dementia
+co-trimoxazole,red cell aplasia
+isoniazid,optic neuropathy
+isoniazid,ocular toxicity
+depo-medrol,spastic paraparesis at the lower limbs
+depo-medrol,calcification
+depo-medrol,ossification of the spinal arachnoid
+adriamycin,tonic-clonic seizures
+cisplatin,tonic-clonic seizures
+adrenocorticotropic hormone,hyperkalemia
+acth,hyperkalemia
+folinic acid,acute renal impairment
+methotrexate,acute renal impairment
+folinic acid,hyperkalaemia
+methotrexate,hyperkalaemia
+folinic acid,hyperphosphataemia
+methotrexate,hyperphosphataemia
+folinic acid,hyper-uricaemia
+methotrexate,hyper-uricaemia
+folinic acid,hypocalcaemia
+methotrexate,hypocalcaemia
+folinic acid,metabolic acidosis
+methotrexate,metabolic acidosis
+folinic acid,phosphate shower syndrome
+methotrexate,phosphate shower syndrome
+folinic acid,tetany
+methotrexate,tetany
+valproate,camptocormia
+valproate,abnormal posture of extreme forward flexion
+sodium valproate,camptocormia
+carbamazepine,hepatopathy
+lynestrenol,hepatopathy
+sodium valproate,hepatopathy
+lorazepam,seizures
+lorazepam,paradoxical precipitation of tonic seizures
+methylprednisolone,atrial fibrillation
+isotretinoin,teratogenic effects
+isotretinoin,teratogenicity
+isotretinoin,abnormalities of the corticospinal tracts
+isotretinoin,agenesis of the cerebellar vermis
+isotretinoin,hydrocephalus
+isotretinoin,multiple leptomeningeal neuroglial heterotopias
+allopurinol,hypersensitivity
+allopurinol,hypersensitivity syndrome
+prostaglandin-e2,bone formation
+vincristine,severe visual loss
+vincristine,optic nerve toxicity
+vincristine,visual loss
+niacin,reversible toxic cystoid maculopathy
+niacin,maculopathy
+niacin,visual symptoms
+niacin,cystoid maculopathy
+dapsone,fever
+dapsone,headache
+dapsone,hemolysis
+dapsone,hepatitis
+dapsone,leukopenia
+dapsone,lymphadenopathy
+dapsone,mononucleosis
+dapsone,nausea
+dapsone,vomiting
+rifampicin,adrenal insufficiency
+rifampicin,adrenal failure
+diltiazem,cutaneous vasculitis
+nafcillin,seizures
+streptokinase,ischaemic cerebrovascular accident
+streptokinase,thrombo-embolic complication
+doxycycline,renal hypophosphatemia
+human growth hormone,creutzfeldt-jakob disease
+choline magnesium trisalicylate,hepatotoxicity
+salicylate,hepatotoxicity
+captopril,attacks of asthma
+dyazide,attacks of asthma
+nadolol,attacks of asthma
+timolol,ocular pemphigoid
+carbamazepine,deposits of plasma proteins in the skin
+diphenylhydantoin,deposits of plasma proteins in the skin
+desipramine,pain
+desipramine,testicular swelling
+benzocaine,methemoglobinemia
+methotrexate,erosion of a psoriatic plaque
+methotrexate,erosion of psoriatic plaques
+cyclosporine a,effective renal plasma flow
+cyclosporine a,loss of glomerular filtration rate
+cyclosporine a,fall of the filtration fraction
+cyclosporine a,increase in proteinuria
+cyclosporine a,nephrotoxicity
+cyclosporine a,rise in the relative clearance of 99tc-dimercaptosuccinic acid
+propylthiouracil,hyperthyroidism
+propylthiouracil,raised creatine phosphokinase
+propylthiouracil,severe proximal muscle weakness
+propylthiouracil,polymyositis
+phenytoin,cardiopulmonary arrest
+calcium hopantenate,pantothenic acid deficiency
+calcium hopantenate,reye-like syndrome
+calcium hopantenate,fatal acute encephalopathy
+morphine sulfate,dyspnea
+desipramine,anhedonic ejaculation
+desipramine,ejaculation without orgasm
+morphine,myoclonic spasms
+halothane,hepatitis
+cyclophosphamide,porphyria cutanea tarda
+cisplatin,porphyria cutanea tarda
+iodine,acute renal failure
+povidone,acute renal failure
+pi,acute oliguric renal failure
+d-penicillamine,epithelial crescents
+d-penicillamine,hemoptysis
+d-penicillamine,rapidly progressive glomerulonephritis
+d-penicillamine,crescentic glomerulonephritis
+gold,pneumonitis
+gold,bilateral interstitial pulmonary abnormalities
+gold,aplastic anemia
+6-mercaptopurine,myelotoxicity
+hdarac,cerebellar toxicity
+cytarabine,cerebellar syndrome
+hdarac,ataxia
+hdarac,dysarthria
+hdarac,neurotoxicity
+gentamicin,macular infarction
+gentamicin,macular lesion
+razoxane,b-cell lymphoma
+gold,hypogammaglobulinemia
+sodium nitroprusside,leucopenia
+sodium nitroprusside,thrombocytopenia
+cyclosporine a,herpes simplex esophagitis
+cyclosporine a,herpes esophagitis
+insulin,rebound hyperglycemia
+insulin,posthypoglycemic hyperglycemia
+insulin,hyperglycemia
+protamine hagedorn,rebound hyperglycemia
+protamine zinc iletin,rebound hyperglycemia
+captopril,lichen planus pemphigoides
+captopril,bullous lichenoid eruption
+bcg,osteomyelitis in the left calcaneus
+bcg,metastatic osteomyelitis
+minoxidil,arteriosclerotic disease
+minoxidil,hypertension
+minoxidil,myocardial infarction
+amoxapine,cognitive impairment
+amoxapine,cognitive impairments
+ibuprofen,severe hypersensitivity reaction
+ibuprofen,severe systemic hypersensitivity reaction
+chloramphenicol,hypersensitivity
+chloramphenicol,hypersensitivity reaction
+chloramphenicol,hypersensitivity reactions
+chloramphenicol sodium succinate,hypersensitivity reaction
+penicillamine,brain lesions
+penicillamine,neurologic disease
+penicillamine,neurologic worsening
+d-penicillamine,neurologic deterioration
+penicillamine,worsening of neurologic syndrome
+cyclophosphamide,upper tract neoplasms
+cyclophosphamide,upper tract urothelial malignancy
+cyclophosphamide,distal ureter without transitional cell carcinoma of the bladder
+cyclophosphamide,transitional cell carcinoma of the renal pelvis
+cyclophosphamide,progressive pulmonary fibrosis
+cyclophosphamide,severe restrictive ventilatory defect
+amiodarone,torsade de pointes
+ritodrine,pulmonary edema
+terbutaline,pulmonary edema
+cyclosporin,abnormalities in liver function tests
+cyclosporin,hirsutism
+cyclosporin,hypertension
+cyclosporin,increased blood levels of urea and creatinine
+nifedipine,rupture of a cerebral aneurysm
+nifedipine,rupture of a cerebral arterial aneurysm
+prazosin,severe drop in blood pressure
+prazosin,hemorrhagic stroke
+streptokinase,fatal massive pulmonary embolus
+streptokinase,massive pulmonary embolism
+digoxin,fatal digoxin poisoning
+phenytoin,hepatitis
+phenytoin,hypersensitivity reactions
+phenytoin,mononucleosis
+phenytoin,pruritus
+phenytoin,swelling of the face and legs
+phenytoin,"dermatologic, lymphoid, or hepatic syndromes"
+phenytoin sodium,leukopenia
+phenytoin,lymphadenopathy
+phenytoin,rash
+nicotinic acid,fulminant hepatic failure
+nicotinic acid,hepatotoxicity
+nicotinic acid,liver disease
+methimazole,athelia
+propranolol,athelia
+methimazole,choanal atresia
+propranolol,choanal atresia
+methimazole,mental retardation
+propranolol,mental retardation
+methimazole,teratogenicity
+5-fluorocytosine,toxic epidermal necrolysis
+amphotericin b,toxic epidermal necrolysis
+cyclophosphamide,abdominal right lower quadrant pain
+cyclophosphamide,cecal lymphoma
+amiodarone,fall in prothrombin time
+amiodarone,jaundice
+amiodarone,marked increase in serum transaminase levels
+amiodarone,severe centrilobular necrosis
+amiodarone,acute hepatitis
+timolol,hyperkalemic
+timolol,severe hyperkalemia
+prednisone,severe hyperkalemia
+mono-octanoin,noncardiogenic pulmonary edema
+monooctanoin,noncardiogenic pulmonary edema
+cisplatin,paroxysmal supraventricular tachycardia
+etoposide,paroxysmal supraventricular tachycardia
+viloxazine,decrease in theophylline clearance
+viloxazine,theophylline intoxication
+viloxazine,decrease in clearance
+nitrofurantoin,eosinophilic pneumonia
+nitrofurantoin,idiosyncratic pulmonary reactions
+amsacrine,acute myocardial necrosis
+amsacrine,cardiotoxicity
+amsacrine,myocardial necrosis
+amsacrine,acute myocardial infarction
+amsacrine,focal myocardial necrosis
+phenobarbital,alopecia
+phenobarbital,a pruritic desquamating erythrodermic rash
+phenobarbital,fever
+phenobarbital,hypersensitivity
+phenobarbital,icterus
+phenobarbital,myositis
+phenobarbital,nephritis
+phenobarbital,protein-losing enteropathy
+phenobarbital,graft versus host-like illness
+phenobarbital,autoimmune cell-mediated hypersensitivity
+tolazoline,duodenal ulceration
+tolazoline,intestinal perforation
+macrodantin,acute and chronic pulmonary reactions
+macrodantin,allergic reactions
+macrodantin,blood dyscrasias
+macrodantin,liver damage
+macrodantin,peripheral neuropathy
+trazodone,generalized pustular psoriasis
+molipaxin,generalized pustular psoriasis
+trazodone hydrochloride,generalized pustular psoriasis
+molipaxin,gpp
+trazodone hydrochloride,gpp
+quinidine,apnea
+verapamil,apnea
+verapamil,atrial flutter
+verapamil,bradycardia
+quinidine,death
+verapamil,hypotension
+quinidine,long qt interval syndrome
+verapamil,sudden death
+methimazole,cholestatic liver injury
+methimazole,liver damage
+methimazole,bile stasis
+methimazole,cholestasis
+methimazole,fatty liver parenchyma degeneration
+methimazole,granulocytic portal infiltration
+methimazole,leucopenia
+papaverine,fibrosis of corpus cavernosum
+phentolamine,fibrosis of corpus cavernosum
+papaverine,penile fibrosis
+phentolamine,penile fibrosis
+interferon beta,pulmonary sarcoidosis
+interferon beta,sarcoidosis
+formalin,fatal outcome
+mebendazole,alopecia
+mebendazole,granulocytopenia
+sulfamethoxazole,colitis
+trimethoprim,colitis
+sulfamethoxazole,pseudomembranous colitis
+trimethoprim,pseudomembranous colitis
+vasopressin,lethal complication
+vasopressin,abdominal pain
+vasopressin,collapse
+protamine,type i anaphylaxis
+protamine,fatal anaphylaxis
+cis-platinum,ototoxicity
+lithium,nephrotoxicity
+lithium,renal failure
+nitroglycerin,decrease in blood flow
+nitroglycerin,increase in pulmonary artery pressure
+nitroglycerin,increase in pulmonary vascular resistance
+nitroglycerin,paradoxical pulmonary vasoconstriction
+amiodarone,atrioventricular block
+ampicillin,electrical decrement
+ampicillin,myasthenia gravis
+ampicillin,acute exacerbations
+ampicillin sodium,severe temporary weakness
+theophylline,ulcer
+prednisone,perforated gastric ulcer
+theophylline,perforated gastric ulcer
+propranolol,esophageal spasm
+nifedipine,hypotension
+nifedipine,sinus arrest
+diamorphine,"painful, oedematous, cyanosed hand"
+methylphenidate,"painful, oedematous, cyanosed hand"
+diamorphine,ischaemia
+methylphenidate,ischaemia
+hydrochlorothiazide,chronic photosensitivity
+verapamil,cardiac decompensation
+verapamil,hemodynamic decompensation
+amiodarone,neuropathy
+amiodarone,pleural and pericardial effusion
+amiodarone,pneumonitis
+heparin,hyperkalemia
+heparin,skin necrosis
+insulin,edema
+insulin,cardiac failure
+insulin,self-limited edema
+pyridoxine,seizures
+pyridoxine,acute hypotonia
+oxacillin,severe cholestasis
+oxacillin,reversible cholestatic jaundice
+isoniazid,pellagra
+isoniazid,pellagra encephalopathy
+isoniazid,"mental, neurological or gastrointestinal symptoms"
+aspirin,rs
+aspirin,reye syndrome
+diltiazem,atrial fibrillation
+verapamil,syncope
+amiodarone,dysthyroidism
+propranolol,decrease in heart rate
+propranolol,paroxsymal increase in blood pressure
+propranolol,hypertension
+chlorambucil,central nervous toxicity
+chlorambucil,eeg abnormalities
+fenclofenac,iga deficiency
+aurothiomalate,iga deficiency
+sulphasalazine,iga deficiency
+lithium,movement disorder
+trazodone,movement disorder
+trazodone,involuntary movements
+benzodiazepine,coma
+benzodiazepine,spindle coma
+imipramine,spindle coma
+rifampicin,renal insufficiency
+rifampicin,renal failure
+desferrioxamine,cerebral and ocular toxicity
+desferrioxamine,neurological effects
+prochlorperazine,neurological effects
+prochlorperazine,lost consciousness
+desferrioxamine,retinal problems
+gold,nephropathy
+gold,renal disease
+gold,proteinuria
+intralipid,fat embolism
+methotrexate,bilateral pulmonary infiltrates
+methotrexate,diffuse interstitial pulmonary fibrosis
+methotrexate,hepatotoxicity
+methotrexate,granulomas
+methotrexate,pulmonary eosinophilia
+adenine arabinoside,hyponatremia
+adenine arabinoside,syndrome of inappropriate antidiuretic hormone
+adenine arabinoside,inappropriate antidiuretic hormone
+methotrexate,abdominal pain
+methotrexate,bone pain
+methotrexate,elevated liver transaminases
+methotrexate,mild neutropenia
+methotrexate,mild pruritus
+methotrexate,nausea
+carbamazepine,dystonia
+carbamazepine,opisthotonus
+methazolamide,agranulocytosis
+methazolamide,aplastic anemia
+acetazolamide,aplastic anemia
+5-fluorouracil,squamous-cell carcinoma
+5-fu,squamous-cell carcinoma
+methysergide maleate,arterial insufficiency
+methysergide,migraine headaches
+rifampicin,erythema multiforme bullosum
+lithium carbonate,renal damage
+psoralens,squamous cell carcinoma
+propranolol,diabetic coma
+propranolol,hyperglycemia
+thiazide,diabetic coma
+acetazolamide,severe acidosis
+aspirin,tracheal compression
+clindamycin,pseudomembranous colitis
+bromocryptine,lost vision
+formalin,fatal acute tubular necrosis
+formalin,fatal complication
+formic acid,metabolic acidosis
+amoxapine,galactorrhea
+dibenzoxazepine,galactorrhea
+ibuprofen,15-kg weight gain
+ibuprofen,edema
+ibuprofen,salt and water retention
+indomethacin,salt and water retention
+phenylbutazone,salt and water retention
+allopurinol,hand and foot deformities
+allopurinol,telescoped digits of the hands and feet
+amphotericin b,acute toxic delirium
+amphotericin b,eeg abnormalities
+amphotericin b,neurotoxicity
+bleomycin,aortic wall in this case was damaged
+doxorubicin,cardiomyopathy
+doxorubicin,cardiotoxicity
+ouabain,minor electrocardiographical changes
+digoxin,cardiomyopathy
+ouabain,cardiomyopathy
+sulindac,isolated idential sensory neuropathy
+clinoril,neurologic toxic effects
+sulindac,neurologic toxic effects
+sulindac,isolated paresthesia
+sulindac,peripheral neuropathy
+serine,psychotic symptoms
+ergotamine,arteriospasm
+ergot,arteriospasm
+ergot,gangrene of the extremities
+haloperidol,hyperpyrexia
+lithium,hyperpyrexia
+haloperidol,irreversible tardive dyskinesia
+lithium,irreversible tardive dyskinesia
+haloperidol,mutism
+lithium,mutism
+haloperidol,severe rigidity
+lithium,severe rigidity
+thioridazine,lithium toxicity
+lithium,neuroleptic malignant extrapyramidal syndrome
+thioridazine,neuroleptic malignant extrapyramidal syndrome
+chlorambucil,chromosome damage
+dextrose,anaphylactoid reaction
+dextrose,increased histamine release
+salicylate,hepato toxicity
+aspirin,anicteric hepatitis
+bleomycin,encephalopathy
+cisplatinum,encephalopathy
+vinblastine,encephalopathy
+bleomycin,left homonymous hemianopsia
+cisplatinum,left homonymous hemianopsia
+vinblastine,left homonymous hemianopsia
+bleomycin,partial nondominant parietal lobe syndrome
+cisplatinum,partial nondominant parietal lobe syndrome
+vinblastine,partial nondominant parietal lobe syndrome
+bleomycin,transient left homonymous hemianopsia
+cisplatinum,transient left homonymous hemianopsia
+vinblastine,transient left homonymous hemianopsia
+propylthiouracil,eosinophilia
+ptu,eosinophilia
+propylthiouracil,granulocytopenia
+ptu,granulocytopenia
+propylthiouracil,hepatitis
+ptu,hepatitis
+propylthiouracil,skin reaction
+ptu,skin reaction
+propylthiouracil,lymphocyte sensitization
+pentobarbital,ataxia
+pyrilamine maleate,ataxia
+pentobarbital,depressed level of consciousness
+pyrilamine maleate,depressed level of consciousness
+pentobarbital,marked irritability
+pyrilamine maleate,marked irritability
+pentobarbital,toxic encephalopathy
+pyrilamine maleate,toxic encephalopathy
+penicillamine,optic neuropathy
+d-penicillamine,optic neuropathy
+accutane,acute myopia
+isotretinoin,acute myopia
+accutane,transient myopia
+accutane,transient acute myopia
+isotretinoin,transient acute myopia
+benzoin,allergic contact dermatitis
+ara-c,herpesvirus infection
+cytarabine,herpesvirus infection
+cytosine arabinoside,herpesvirus infection
+cytarabine,cutaneous herpes zoster
+cytarabine,visceral herpesvirus infections
+gold,neuropathy
+b663,intra-neural ceroid-like pigment
+clofazimine,intra-neural ceroid-like pigment
+lamprene,intra-neural ceroid-like pigment
+clofazimine,ceroid-like pigment
+methyl g: calgb,severe neurotoxicity
+nortriptyline,sinus tachycardia
+acth,cerebral atrophy
+cefmenoxime,disulfiram-like reactions
+cefmenoxime,disulfiram-like reaction
+lithium,akathisia
+lithium,bucco-linguo-masticatory dyskinesia
+silver sulfadiazine,acute leukopenia
+prednisone,disseminated histoplasmosis
+captopril,acute renal failure
+captopril,nonoliguric acute renal failure
+captopril,acute reversible renal failure
+fluoxetine,mania
+fluoxetine,manic episode
+cyclophosphamide,alopecia
+cyclophosphamide,nausea
+cyclophosphamide,vomiting
+5-fluorouracil,haemolytic-uraemic syndrome
+mitomycin c,haemolytic-uraemic syndrome
+5-fluorouracil,acute renal toxicity
+mitomycin c,acute renal toxicity
+25-hydroxyvitain d3,ileal resection
+cholestyramine,osteomalacia
+lithium,tremor
+lithium carbonate,tremor
+diazepam,seizures
+phenytoin,transient hemiparesis
+phenytoin,focal neurological deficit
+2-propylpentanoic acid,severe unilateral grand mal seizure
+phenobarbitone,severe unilateral grand mal seizure
+valproate,severe unilateral grand mal seizure
+vpa,severe unilateral grand mal seizure
+cefoxitin,granulomatous hepatitis
+gold sodium thiomalate,stroke-like syndrome
+gold sodium thiomalate,vasomotor reaction
+gold sodium thiomalate,vasomotor reactions
+auranofin,gold nephropathy
+gold,gold nephropathy
+tolmetin,gold nephropathy
+tolmetin,pseudoproteinuria
+sodium aurothiomalate,cough
+sodium aurothiomalate,dyspnea
+sodium aurothiomalate,low-grade fever
+gold,pulmonary gold toxicity
+cyclophosphamide,fibrosis
+cyclophosphamide,interstitial pneumonitis
+cyclophosphamide,pneumonitis
+cyclophosphamide,lung disease
+cyclophosphamide,respiratory insufficiency
+disulfiram,reversible toxic liver damage
+disulfiram,toxic hepatitis
+clioquinol,acrodermatitis enteropathica
+clioquinol,smon
+tamoxifen,retinal changes
+tamoxifen,retinopathy
+tamoxifen,corneal and retinal changes
+d-penicillamine,mammary gigantism
+ampicillin,seizures
+rifampicin,skin lesions
+rifampicin,pemphigus foliaceus
+lorcainide,hyponatremia
+lorcainide,decrease in serum na+
+lorcainide,siadh
+hydrochlorothiazide,severe hyponatremia
+lorcainide,hypoosmolality
+chlorpropamide,acute intravascular hemolysis
+glyburide,acute intravascular hemolysis
+chlorpropamide,hemolytic anemia
+amiodarone,interstitial pneumopathy
+propranolol,alternating sinus rhythm
+propranolol,intermittent sinoatrial block
+propranolol,intermittent sinoatrial (s-a) block
+propranolol,abnormal rhythm
+propranolol,conduction disorder
+methylprednisolone,anaphylactoid reaction
+ccnu,pulmonary toxicity
+ccnu,pulmonary fibrosis
+ccnu,fatal pulmonary fibrosis
+busulfan,additive pulmonary toxicity
+melphalan,additive pulmonary toxicity
+busulfan,severe interstitial lung fibrosis
+melphalan,severe interstitial lung fibrosis
+cholestyramine ii,confusion
+cholestyramine ii,drowsiness
+cholestyramine ii,lethargy
+cholestyramine,hyperchloremic metabolic acidosis
+dcf,immunosuppression
+dcf,superinfection
+dcf,conjunctivitis
+dcf,keratitis
+dcf,ocular toxicity
+vasopressin,renal damage
+vasopressin,skeletal muscle ischemia
+vasopressin,acute renal failure
+vasopressin,myoglobinuria
+amphotericin b,nephrotoxicity
+amphotericin b,impaired renal function
+fluoresone,gynecomastia
+phenobarbital,gynecomastia
+phenytoin,gynecomastia
+amoxapine,dyskinesia
+amoxapine,oral-facial dyskinesia
+etretinate,toxic hepatitis
+methotrexate,toxic hepatitis
+hydrochlorothiazide,hyponatremia
+scopolamine,unilateral acute angle-closure glaucoma
+deanol,tardive dyskinesia
+cephalosporins,vitamin k deficiency
+cephalosporin,coagulopathy
+moxalactam,coagulopathy
+moxalactam,platelet dysfunction
+"1,3-bis(2-chloroethyl)-1-nitrosourea",fatal pulmonary fibrosis
+penicillamine,thrombotic thrombocytopenic purpura
+penicillamine,ttp
+amiodarone hydrochloride,cough
+amiodarone hydrochloride,diffuse pulmonary infiltrates
+amiodarone hydrochloride,dyspnea
+amiodarone hydrochloride,pulmonary toxicity
+amiodarone,fibrosing alveolitis
+theophylline,gynecomastia
+verapamil,sustained hypotension
+fenoprofen,pure red cell aplasia
+fenoprofen,erythroid aplasia
+quinacrine hydrochloride,psychosis
+trazodone,priapism
+paracetamol,severe hepatic necrosis
+zomepirac,anaphylactoid shock
+zomepirac,anuric renal failure
+zomepirac,disseminated intravascular coagulation
+zomepirac,focal renal cortical necrosis
+zomepirac,anaphylactoid reaction
+cimetidine,fever
+cinepazide,behavioral change
+amphojel,small-bowel obstruction
+phenytoin,periodic alternating nystagmus
+gold-salt,nephropathy
+gold-salt,damage to proximal tubules
+gold,nephrotic syndrome
+glibenclamide,cutaneous bullae
+glibenclamide,intrahepatic cholestasis
+chlorpropamide,intrahepatic cholestasis
+ergonovine,spasm
+propranolol,delirium
+propranolol,grand mal seizure
+propranolol,photosensitivity
+disulfiram,catatonia
+disulfiram,catatonic syndrome
+cyclofenil,hepatic reactions
+theophylline,peptic ulcer disease
+desipramine,siadh
+rifampin,tubular and interstitial lesions
+rifampin,renal lesions
+isoniazid,acute renal failure
+tolmetin,nephrotic range pseudoproteinuria
+isoniazid,histamine reaction
+disulfiram,fulminant hepatitis
+disulfiram,fatal fulminant hepatitis
+propylthiouracil,agranulocytosis
+thiabendazole,prolonged jaundice
+thiabendazole,sicca complex
+thiabendazole,intrahepatic cholestasis
+thiabendazole,cholestasis
+adriamycin,adriamycin toxicity
+doxorubicin,adriamycin toxicity
+adriamycin,died
+doxorubicin,died
+l-asparaginase,focal seizures
+l-asparaginase,intracranial hemorrhage
+asparaginase,dural sinus thrombosis
+prednisone,dural sinus thrombosis
+vincristine sulfate,dural sinus thrombosis
+asparaginase,antithrombin iii deficiency
+penicillamine,lupus erythematosus
+penicillamine,systemic lupus erythematosus
+prednisone,cushingoid features
+disopyramide,fasting hypoglycemia
+disopyramide,hypoglycemia
+norpace,hypoglycemia
+cefoxitin,renal failure
+cefoxitin,acute tubular necrosis
+gentamicin,acute tubular necrosis
+cefoxitin sodium,acute deterioration of renal function
+sq 14225,transient anuria
+captopril,acute renal impairment
+captopril,transient anuria
+amiodarone,atypical ventricular tachycardia
+disopyramide,atypical ventricular tachycardia
+quinidine,atypical ventricular tachycardia
+amiodarone,avt
+disopyramide,avt
+quinidine,avt
+disopyramide,torsade de pointes
+quinidine,torsade de pointes
+disopyramide,arrhythmia
+quinidine,arrhythmia
+disopyramide,syncope
+dopamine,coronary vasoconstriction
+hydroxychloroquine,nephrosis
+cimetidine,hepatitis
+cimetidine,hepatic dysfunction
+cimetidine,impaired macrophage migration
+digoxin,complete atrioventricular block
+verapamil,angina pectoris
+flucytosine,diarrhea
+flucytosine,marked separation of loops of bowel
+flucytosine,severe luminal narrowing
+flucytosine,ulcerating enteritis
+flucytosine,ulceration
+perhexiline maleate,papilledema
+l-asparaginase,acute pancreatitis
+l-asparaginase,pseudocyst of the pancreas
+l-asparaginase,delayed pseudocyst of the pancreas
+dca,decrease in blood lactate levels
+lithium,delirious
+lithium,delirium
+arginine,hyperkalemia
+arginine monohydrochloride,marked hyperkalemia
+gold,lichen planus
+gold,acne
+gold,skin disturbances
+lithium,secondary hyperparathyroidism
+lithium,biochemical hyperparathyroidism
+disopyramide phosphate,chb
+norpace,chb
+disopyramide phosphate,complete heart block
+norpace,complete heart block
+disopyramide,heart block
+bretylium,cardiac arrest
+bretylium,ventricular arrhythmia
+bretylium,ventricular tachycardia
+bretylium,cardiac arrests
+bretylium,fibrillation
+bretylium,paradoxical ventricular tachycardia
+lithium,acute renal failure
+lithium,nephrotic syndrome
+lithium,proteinuria
+lithium,tubulo-interstitial disease
+ampicillin,diarrhea
+vincristine,sensori-neural hearing loss
+vincristine,acute acoustic nerve palsy
+vincristine,bilateral acoustic (viii) nerve palsy
+timolol,heart failure
+timolol maleate,bradycardia
+timolol maleate,congestive heart failure
+timolol,dyspnea
+timolol,sinus bradycardia
+digoxin,fatal ventricular fibrillation
+digoxin,functional impairment
+digoxin,left ventricular dilatation
+digoxin,ventricular fibrillation
+l-dopa,rapid mood cycling
+l-dopa,shortened the manic-depressive cycle
+perhexiline maleate,liver disease
+perhexiline maleate,fatal perhexiline maleate liver injury
+dihydroxybusulfan,acute non-lymphocytic leukemia
+treosulfan,acute non-lymphocytic leukemia
+treosulfan,acute leukemia
+propranolol,bronchospasm
+propranolol,central nervous system dysfunction
+propranolol,central nervous system disturbances
+methotrexate,interstitial fibrosis of the lung
+methotrexate,progressive interstitial fibrosis
+methotrexate,progressive interstitial lung disease
+quinine,abnormalities of the pupil
+quinine,amblyopia
+quinine,abnormal visual-evoked potentials
+quinine,denervation supersensitivity
+quinine,transient tonic pupillary response
+quinine sulfate,abnormal visual-evoked potentials
+quinine sulfate,denervation supersensitivity
+quinine sulfate,total blindness with a transient tonic pupillary response
+practolol,sclerosing peritonitis
+niflumic acid,skeletal fluorosis
+niflumic acid,fluorosis
+niflumic acid,densification of trabecular bone
+d-penicillamine,hepatotoxicity
+metformin,miliary tuberculosis
+para-aminosalicylic acid,hypoglycaemia
+pas,hypoglycaemia
+para-aminosalicylic acid,hypoglycaemic coma
+pas,hypoglycaemic coma
+perhexiline maleate,hepatic dysfunction
+perhexiline maleate,papilloedema
+pexid,hepatic dysfunction
+pexid,papilloedema
+5-fluorouracil,increased pigmementation of skin
+5-fluorouracil,pigmentary changes
+disulfiram,catatonia syndrome
+disulfiram,encephalopathy
+vinblastine,inappropriate antidiuretic hormone secretion
+vinblastine,inappropriate secretion of antidiuretic hormone
+emepronium bromide,oesophageal damage
+emepronium bromide,oesophageal ulceration
+miconazole,cardiorespiratory toxicity
+doxorubicin,cardiac arrest
+miconazole,cardiorespiratory and anaphylactic reactions
+clofibrate,myopathy
+hycanthone,hepatotoxicity
+hycanthone,severe hepatotoxicity
+chlorambucil,fatal interstitial pneumonitis
+chlorambucil,respiratory distress
+barbiturate,submassive hepatic necrosis
+barbiturates,submassive hepatic necrosis
+procainamide,granulocytopenia
+procainamide,reversible granulocytopenia
+diphenylhydantoin,monoclonal gammopathy
+diphenylhydantoin,multiple myeloma
+dilantin,igg lambda-type monoclonal gammopathy
+diphenylhydantoin,igg lambda-type monoclonal gammopathy
+dilantin,multiple myeloma
+atovaquone,vortex keratopathy
+naloxone,severe pain
+naloxone,withdrawal syndrome
+methimazole,acc
+mmi,acc
+methimazole,aplasia cutis congenita
+mmi,aplasia cutis congenita
+flecainide,acute reversible encephalopathy
+flecainide,acute reversible ataxo-myoclonic encephalopathy
+methotrexate,bone marrow aplasia
+mtx,bone marrow aplasia
+methotrexate,severe skin rash
+mtx,severe skin rash
+mtx,extensive skin rash
+mtx,acute hypersensitivity reaction
+mtx,severe dermatologic toxicity
+chlormadinone acetate,withdrawal syndrome
+metronidazole,myopia
+sulphonamide,myopia
+griseofulvin,nephrotic syndrome
+griseofulvin,systemic lupus erythematosus
+griseofulvin,lupus
+gold,neurological side effects
+gold sodium thiomalate,mild nitritoid symptoms
+gstm,mild nitritoid symptoms
+gold sodium thiomalate,pain
+gstm,pain
+gold sodium thiomalate,t10-t12 dermatomes
+gstm,t10-t12 dermatomes
+ketoralac,acute sensorineural hearing loss
+methotrexate,sensorineural hearing loss
+pan,sensorineural hearing loss
+ketorolac,ototoxicity
+ketoralac,bilateral sensorineural hearing loss
+cisplatin,anaphylactoid reactions
+cisplatin,100 mg/m2
+cisplatin,edema
+cisplatin,palmar pruritus
+cisplatin,urticaria
+etoposide,myocardial infarction
+acyclovir,acute renal failure
+interferon alfa,anterior ischemic optic neuropathy
+interferon alfa,"sudden bilateral, sequential visual loss"
+interferon,vascular retinopathy
+amitriptyline,neuroleptic malignant syndrome
+lithium carbonate,neuroleptic malignant syndrome
+levothyroxine,increased serum thyroid-stimulating hormone
+adenosine,arrhythmia
+adenosine,alterations in heart rate
+propranolol,disorientation
+propranolol,temporary amnesia
+propafenone,transient global amnesia
+aspirin,acute subdural haematoma
+aspirin,intracranial haemorrhage
+fluvoxamine,akathisia
+fluoxetine,extrapyramidal side effects
+sertraline,extrapyramidal side effects
+bleomycin,interstitial pneumonitis
+bleomycin,lung toxicity
+gold,neutropenia
+gold,severe neutropenia
+amphotericin b,arrhythmias
+amphotericin b,cardiac arrest
+amphotericin b,cardiac arrhythmia
+amphotericin,cardiac arrest
+lithium,angry outbursts
+lithium,irritability
+interferon,graves' hyperthyroidism
+interferon,transient thyrotoxicosis
+ifn,graves' hyperthyroidism
+inh,neurotoxicity
+isoniazid,neurotoxicity
+inh,seizures
+inh,refractory seizures
+phenylephrine,arterial hypertension
+progestin,squamous metaplasia
+progestin,squamous metaplasia within endometrial glands
+furosemide,fever
+kw-2149,pulmonary toxicity
+cyclophosphamide,musculoskeletal complaints
+ifosfamide,musculoskeletal complaints
+ifosfamide,fanconi syndrome
+benzarone,cirrhosis
+benzarone,hepatotoxicity
+benzarone,(sub)fulminant hepatitis
+benzarone,severe hepatotoxicity
+benzarone,severe chronic active hepatitis
+warfarin,necrotizing fasciitis
+sodium warfarin,myonecrosis
+sodium warfarin,necrotizing fasciitis
+mefloquine,severe hypoglycaemia
+mefloquine,hypoglycaemia
+quinidine,iatrogenic hypoglycaemia
+quinine,iatrogenic hypoglycaemia
+sumatriptan,coronary artery vasospasm
+sumatriptan,cardiac arrest
+sotalol,bradycardia
+tamoxifen,secretory endometrial adenocarcinoma
+tamoxifen,low-grade endometrial carcinoma
+tamoxifen,uterine neoplasia
+tamoxifen,secretory carcinoma of the endometrium
+tamoxifen,endometrial adenocarcinoma of the secretory type
+omeprazole,esophageal candidiasis
+dipyridamole,high-grade atrioventricular block
+dipyridamole,high-grade atrioventricular (av) block
+doxorubicin,symptomatic cardiac failure
+tamoxifen,ovarian endometrioid carcinoma
+levamisole,cerebral demyelinating disease
+levamisole,multifocal inflammatory leukoencephalopathy
+5-fluorouracil,leukoencephalopathy
+levamisole,leukoencephalopathy
+ethanolamine oleate,noncardiogenic pulmonary edema
+eo,noncardiogenic pulmonary edema
+gentamicin sulfate,acute renal failure
+gentamicin,acute renal failure
+gentamicin,renal failure
+phenytoin,unilateral gingival hyperplasia
+pht,unilateral gingival hyperplasia
+aminotriazole,generalized cutaneous sclerosis
+bromocil,generalized cutaneous sclerosis
+diuron,generalized cutaneous sclerosis
+albuterol,cardiac toxicity
+albuterol,hypokalemia
+salbutamol,hypokalemia
+albuterol,hypokalemic
+propoxyphene,wide complex dysrhythmia
+propoxyphene,wide qrs complex dysrhythmia
+mannitol,nephrotoxicity syndrome
+mannitol,arf
+mannitol,acute renal failure
+mannitol,nephrotoxicity
+mannitol,anuric arf
+fluphenazine decanoate,extrapyramidal side effects
+benzodiazepine,sedation
+quinapril,irritating cough
+quinapril,cough
+psl,fracture of the femoral neck
+cefuroxime,acute renal failure
+cefuroxime,dian
+cefuroxime,renal deterioration
+phenytoin,basilar invagination
+phenytoin,mid-line skeletal abnormalities
+phenytoin,craniocervical abnormality
+methotrexate,temporary neurologic abnormalities
+hd-mtx,altered consciousness
+hd-mtx,dysarthria
+hd-mtx,hemiparesis
+methotrexate,transient neurological disturbances
+high-lipase pancreatin,stricture of the hepatic flexure region with associated narrowing
+high-lipase pancreatin,submucosal fibrosis of the transverse colon
+danazol,acute pancreatitis
+danazol,hepatocellular damage
+danazol,hypo-oestrogenic and anabolic/androgenic side-effects
+acyclovir,neurotoxicity
+acyclovir,neurologic symptoms
+promethazine,coma
+metronidazole,amebic abscess of the spleen
+metronidazole,neurotoxicity
+metronidazole,ataxia
+metronidazole,liver abscess
+metronidazole,reversible deafness
+metronidazole,splenic abscess
+metronidazole,tinnitus
+actinomycin d,hepatic veno-occlusive disease
+amd,liver failure
+phenylpropanolamine,psychosis
+ppa,paranoid psychosis
+ppa,psychiatric adverse effects
+budesonide,contact dermatitis
+methyl nitrite,methemoglobinemia
+phenylpropanolamine,methemoglobinemia
+ifn,iddm
+ifn,moderate hyperglycemia
+ifn,severe ketonuria
+interferon,iddm
+nortriptyline,recurrent hypotension
+nortriptyline,seizures
+methotrexate,accelerate hiv disease
+mtx,accelerate hiv disease
+5-fu,increase of inr
+levamisole,increase of inr
+warfarin,increase of inr
+5-fu,increase in inr
+warfarin,increase in inr
+clindamycin,cholestatic liver disease
+trimethoprim-sulfamethoxazole,cholestatic liver disease
+clindamycin,ductopenia
+trimethoprim-sulfamethoxazole,ductopenia
+clindamycin,vanishing bile duct syndrome
+trimethoprim-sulfamethoxazole,vanishing bile duct syndrome
+clindamycin,bile duct injury
+clindamycin,bile duct paucity
+clindamycin,marked cholestasis
+clindamycin,portal inflammation
+trimethoprim-sulfamethoxazole,cholestasis
+trimethoprim-sulfamethoxazole,duct paucity
+ampicillin,cholestasis
+ampicillin,cholestatic hepatitis
+ampicillin,duct paucity
+isoniazid,vision loss
+ethambutol,development of visually related side effects
+isoniazid,development of visually related side effects
+ethambutol,ocular toxicity
+ethambutol,toxic optic neuropathy
+zidovudine,fetal damage
+zidovudine,fetotoxic
+zidovudine,teratogenic
+zidovudine,fetal abnormality
+zidovudine,first trimester abortions
+zidovudine,birth defects
+celiprolol,pneumonitis
+celiprolol,hypersensitivity pneumonitis
+ibopamine,leukopenia
+ibopamine,reversible leukopenia
+diphenylhydantoin,acute intermittent porphyria
+diphenylhydantoin,porphyria
+bromocriptine,schizophrenia
+methotrexate,concurrent acute megaloblastic anaemia
+methotrexate,acute megaloblastic anaemia
+levemepromazine,respiratory distress syndrome
+methotrimeprazine meleate,respiratory distress syndrome
+phenothiazine,respiratory distress syndrome
+apomorphine,dyskinesias
+levo-dopa,diphasic dyskinesias
+didanosine,fulminant hepatitis
+didanosine,severe lactate acidosis
+ddi,fulminant hepatitis
+ddi,fulminant hepatic failure
+agno3,generalized argyria
+fluoxetine,seizures
+fluoxetine,headache
+carbamazepine,psoriasiform eruptions
+sodium valproate,psoriasiform eruptions
+carbamazepine,psoriasiform eruption
+sodium valproate,psoriasiform eruption
+bcnu,severe diffuse interstitial pneumonitis
+carmustine,severe diffuse interstitial pneumonitis
+bcnu,fatal case of acute interstitial pneumonitis
+carmustine,fatal case of acute interstitial pneumonitis
+procainamide,shocks
+procainamide,electrical proarrhythmia
+procainamide,electrophysiologic effect
+valproic acid,altered mental status
+valproic acid,lethargy
+meperidine,central nervous system toxicity
+meperidine,accumulation of the parent drug
+meperidine,cns depressive effects
+meperidine,accumulation of the active metabolite normeperidine
+meperidine,central nervous system (cns) excitatory toxicities
+morphine,hypertension
+morphine,intracerebral hemorrhage
+morphine,respiratory failure
+morphine,status epilepticus
+mitomycin c,hemolytic-uremic syndrome
+mmc,hemolytic-uremic syndrome
+mmc,hus
+mitomycin c,pulmonary hemorrhage
+mmc,pulmonary hemorrhage
+mmc,massive pulmonary bleeding
+clonidine,bradycardia
+clonidine,constipation
+clonidine,dry mouth
+clonidine,hypotension
+cotrimoxazole,elevation of serum creatinine and blood urea
+cotrimoxazole,hyperkalaemia
+cotrimoxazole,increased urinary n-acetyl glucosaminase
+cotrimoxazole,one patient became unconscious
+co-trimoxazole,hyperkalaemia
+sulfamethoxazole-trimethoprim,hyperkalaemia
+co-trimoxazole,renal tubular dysfunction
+sulfamethoxazole-trimethoprim,renal tubular dysfunction
+nitrous oxide,subacute combined degeneration of the spinal cord
+nitrous oxide,neurologic degeneration
+nitrous oxide,neurologic deterioration
+fluoxetine,sexual dysfunction
+captopril,bone marrow suppression
+captopril,neutropenia
+magnesium sulfate,lactogenesis
+magnesium sulfate,impeded lactogenesis
+goserelin acetate,flare-up
+goserelin acetate,severe dyspnea
+goserelin acetate,worsening pleuritis carcinomatosa
+imidazoline,imidazoline intoxication
+l-asparaginase,aphasia
+l-asparaginase,cerebrovascular complications
+l-asparaginase,neuropsychological deficits
+l-asparaginase,cerebral thrombosis
+l-asparaginase,coagulation protein deficiencies
+l-asparaginase,hemorrhage
+l-dopa,myoclonus
+l-dopa,seizures
+levodopa,myoclonus
+levodopa,seizures
+l-dopa,generalized seizures
+acyclovir,excessive maternal and physician anxiety
+lithium,exophthalmos
+lithium,thyrotoxic ophthalmopathy
+lithium,severe exophthalmos
+lithium,thyrotoxicosis
+clofazimine,abdominal pain
+amphotericin b,fatal
+amphotericin b,cardiac arrhythmias
+amphotericin b,mortality
+amphotericin b,cardiac complications
+cyclosporine,hypertension
+prednisone,hypertension
+sweet spirits of nitre,sudden death
+4% ethyl nitrite ch3ch2ono in 70% ethyl alcohol,acute methemoglobinemia
+sweet spirits of nitre,acute methemoglobinemia
+4% ethyl nitrite ch3ch2ono in 70% ethyl alcohol,died
+sweet spirits of nitre,died
+4% ethyl nitrite ch3ch2ono in 70% ethyl alcohol,hypoxemia
+sweet spirits of nitre,hypoxemia
+4% ethyl nitrite ch3ch2ono in 70% ethyl alcohol,severe anoxic metabolic acidosis
+sweet spirits of nitre,severe anoxic metabolic acidosis
+carnitine,hepatotoxic effects
+valproate,hepatotoxic effects
+valproic acid,fatal hepatotoxic effects
+valproate,fatal
+il-2,cognitive dysfunction
+interleukin-2,neurotoxicity
+il-2,brain injury
+il-2,disability
+lithium,thyroid dysfunctions
+lithium,transient thyrotoxicosis
+lithium,toxic and immunomodulatory roles
+retinoic acid,fatal complication
+retinoic acid,retinoic acid syndrome
+foscarnet,electrolyte disorders
+foscarnet,severe hypomagnesemia
+foscarnet,anxiety
+foscarnet,muscle twitches
+foscarnet,tremulousness
+cph82,interference with the cortisol axis
+cph82,hypercortisolism
+cph82,suppression of the endogeneous production of acth and cortisol
+carbamazepine,movement disorders
+cbz,movement disorders
+carbamazepine,tics
+cbz,tics
+cbz,motor tics
+cbz,facial motor tics
+acyclovir,coma
+acyclovir,nonoliguric renal failure
+acyclovir,central nervous system side effects
+tryptophan,eosinophilia myalgia syndrome
+tryptophan,fatal eosinophilia myalgia syndrome
+vasopressin,fatal rhabdomyolysis
+vasopressin,impaired tissue perfusion
+vasopressin,vasodilation
+vasopressin,rhabdomyolysis
+disulfiram,teratogen
+disulfiram,significant abnormalities
+penicillamine,pv
+glibenclamide,pemphigus vulgaris
+glibenclamide,oral lesions of pv
+piritrexim,pulmonary toxicity
+piritrexim,abnormal chest x-ray with diffuse interstitial opacities
+piritrexim,respiratory dysfunction
+adenosine,acceleration of the heart rate
+adenosine,acceleration of ventricular response
+methotrexate,lymphoproliferative diseases
+methotrexate,non-hodgkin lymphoma
+paracetamol,hepatotoxicity
+paracetamol,hepatotoxic effects
+paracetamol,fatal
+prednisolone,kaposi's sarcoma
+pimozide,acute dystonic reaction
+pimozide,acute dystonic reactions
+thioridazine,acute dystonic reactions
+t-pa,atheroembolic acute renal failure
+t-pa,cholesterol crystal embolization
+t-pa,extrarenal manifestations
+tissue-type plasminogen activator,cholesterol crystal embolization
+tissue-type plasminogen activator,renal failure
+recombinant tissue-type plasminogen activator,cholesterol crystal embolization
+recombinant tissue-type plasminogen activator,renal failure
+t-pa,renal failure
+haloperidol,multiform ventricular tachycardia
+gold,mucocutaneous side effects
+gold,mucocutaneous reactions
+phenol,anterior spinal artery syndrome
+phenol-glycerine,anterior spinal artery syndrome
+risperidone,feeding gastrostomy
+risperidone,worsening parkinsonism
+risperidone,encephalopathy
+risperidone,worsened motorically
+azathioprine,myelosuppression
+azathioprine,pancytopenia
+nabumetone,interstitial nephritis
+nabumetone,edema
+hydroxyurea,acute myeloid leukemia
+hydroxyurea,al
+hydroxyurea,acute leukemia
+halofantrine,cardiac effects
+halofantrine,sudden death
+halofantrine,qt interval was prolonged
+halofantrine,prolongation of the qt interval
+halfan,cardiac arrests
+mefloquine,cardiac arrests
+halfan,deaths
+mefloquine,deaths
+chop,supravenous hyperpigmentation
+phenytoin,phenytoin toxicity
+phenytoin,blood levels in the toxic range
+foscarnet,nephrogenic diabetes insipidus
+foscarnet,renal tubular acidosis
+foscarnet,polyuria
+foscarnet,thirst
+tissue plasminogen activator,choroidal hemorrhage
+tissue plasminogen activator,hemorrhage
+tissue plasminogen activator,hemorrhagic choroidal detachment
+tissue plasminogen activator,spontaneous choroidal hemorrhage
+methotrexate,accelerated nodulosis
+methotrexate,nodules
+methotrexate,extraarticular side effect
+methotrexate,macrophage activation syndrome
+methotrexate,methotrexate toxicity
+streptokinase,jaundice
+cisplatin,colitis
+cisplatin,c. difficile colitis
+cisplatin,clostridium difficile colitis
+captopril,severe cholestatic jaundice
+captopril,pseudocholangitis
+captopril,"dermatologic, hematologic, and pulmonary adverse effects"
+captopril,atypical cholangitis
+captopril,liver damage
+macrophage-colony-stimulating factor,nephrotic syndrome
+m-csf,nephrotic syndrome
+m-csf,renal disease
+m-csf,macrophage-related glomerular injury
+betamethasone,edema
+magnesium sulfate,edema
+nifedipine,edema
+terbutaline,edema
+"1,25(oh)2d",milk-alkali syndrome
+calcitriol,milk-alkali syndrome
+calcium carbonate,milk-alkali syndrome
+ifosfamide,unresponsive
+mesna,unresponsive
+ifosfamide,central nervous system (cns) toxicity
+albendazole,pseudomembranous colitis
+metronidazole,pseudomembranous colitis
+albendazole,abdominal pain
+albendazole,fever
+albendazole,worsening diarrhea
+aluminum,aluminum intoxication
+aluminum,tc
+5-fluorouracil,oculomotor disturbances
+5-fu,neurotoxicity
+5-fu,ocular motor disturbances
+5-fluorouracil,cerebellar dysfunction
+5-fu,cerebellar dysfunction
+insulin,hypoglycaemia
+fluticasone propionate,adrenal suppression
+fluticasone propionate,growth retardation
+fluticasone propionate,growth and adrenal suppression
+fluticasone propionate,growth may be retarded
+metipranolol,granulomatous anterior uveitis
+metripranolol,bilateral granulomatous anterior uveitis
+desmopressin,altered mental status
+desmopressin,seizures
+desmopressin,vague symptoms
+desmopressin,syndrome of inappropriate antidiuretic hormone
+clarithromycin,uveitis
+ethambutol,uveitis
+rifabutin,uveitis
+acyclovir,increase serum lithium levels
+acyclovir,lithium toxicity
+acyclovir,increased serum lithium
+lithium,increased serum lithium
+acyclovir,serum lithium level had increased
+lithium,serum lithium level had increased
+dapsone,dapsone syndrome
+dapsone,lethal
+dapsone,dapsone reaction
+dapsone,fatal
+minoxidil,fatal interaction
+lithium,ndi
+lithium,cdi
+lithium,central diabetes insipidus
+lithium,transient central diabetes insipidus
+human insulin,lipoatrophy
+recombinant dna human insulin,lipoatrophy
+ofloxacin,neurotoxic effects
+ofloxacin,seizures
+ofloxacin,renal insufficiency
+phenytoin,abnormal liver function tests
+phenytoin,erythroderma
+phenytoin,phenytoin hypersensitivity syndrome
+phenytoin,pinhead-sized facial pustules
+phenytoin,tibial and facial oedema
+cyclophosphamide,sarcoma
+nitrofurantoin,pulmonary fibrosis
+nitrofurantoin,acute pulmonary reactions
+nitrofurantoin,pulmonary dysfunction
+nitrofurantoin,pulmonary side effects
+nitrofurantoin,respiratory failure
+dapsone,an infectious mononucleosis-like syndrome
+dapsone,cholestatic jaundice
+dapsone,cutaneous eruptions
+dapsone,minor neurological and gastrointestinal complaints
+dapsone,nephrotic syndrome
+dapsone,peripheral neuropathy
+dapsone,psychosis
+dapsone,renal papillary necrosis
+dapsone,severe hypoalbuminemia without proteinuria
+dapsone,toxic hepatitis
+dapsone,methemoglobinemia
+acetazolamide,osteomalacia
+acetazolamide,severe osteomalacia
+phenobarbital,severe osteomalacia
+phenytoin,severe osteomalacia
+methotrexate,hydrocephalus
+loperamide,loperamide poisoning
+lithium carbonate,creutzfeldt-jakob like syndrome
+lithium,creutzfeldt-jakob syndrome
+lithium,creutzfeldt-jakob disease
+lithium,lithium neurotoxicity
+magnesium,protracted neuromuscular block
+vecuronium,protracted neuromuscular block
+magnesium sulfate,neuromuscular blockade
+mgso4,neuromuscular blockade
+magnesium sulfate,potentiation of muscle relaxants
+mgso4,potentiation of muscle relaxants
+magnesium,neuromuscular block
+terbinafine,hepatobiliary disorders
+terbinafine,cholestatic liver disease
+cetrimide,metabolic acidosis
+chlorhexidine,metabolic acidosis
+ecstasy,ecstasy poisoning
+"3,4-methylenedioxymet-amphetamine ecstasy",poisoning
+mequitazine,photosensitivity
+mequitazine,erythematous macule
+mequitazine,immediate erythema
+mequitazine,cross-reaction to promethazine
+promethazine,cross-reaction to promethazine
+mequitazine,decreased med to both uva and uvb
+promethazine,decreased med to both uva and uvb
+mequitazine,erythema
+promethazine,erythema
+mequitazine,persistence of the photosensitivity
+promethazine,persistence of the photosensitivity
+mequitazine,photosensitivity reactions
+mequitazine,photosensitivity reaction
+methamphetamine,keratitis
+methamphetamine,injury to the cornea
+lidocaine,keratitis
+quinine,keratitis
+lidocaine,toxic effects
+methamphetamine,toxic effects
+quinine,toxic effects
+methamphetamine,ulcers
+methamphetamine,severe corneal ulceration
+methotrexate,cirrhosis
+mtx,cirrhosis
+methotrexate,fibrosis
+mtx,fibrosis
+methotrexate,liver damage
+mtx,liver damage
+mtx,liver cirrhosis
+mtx,liver failure
+methotrexate,liver cirrhosis
+cresol,high fever
+insulin,high fever
+cresol,increasing myalgia
+insulin,increasing myalgia
+cresol,lost consciousness
+insulin,lost consciousness
+cresol,respiratory and metabolic acidosis
+insulin,respiratory and metabolic acidosis
+cresol,mh
+beclomethasone diproprionate,eosinophilic pneumonia reaction
+fludarabine,fatal intravascular autoimmune hemolytic anemia
+fludarabine,aiha
+fludarabine,positivation of the dat
+fludarabine,dat became positive with anti-igg and anti-c3d antiglobulins
+tobramycin,tetany
+tobramycin,renal toxicity
+insulin,dedifferentiation of the adipocytes
+insulin,hyperproduction of tnf-alpha
+insulin,lipoatrophy
+insulin,lipoatrophies
+methotrexate,potentially toxic
+methotrexate,bone marrow suppression
+methotrexate,painful erosion of psoriatic plaques
+methotrexate,painful erosions of their psoriasis
+methotrexate,oral and gastrointestinal ulceration
+cimetidine,decreased oxygen saturation and arterial po2
+cimetidine,upper gastrointestinal bleeding
+tolazoline,upper gastrointestinal bleeding
+cimetidine,upper gastrointestinal hemorrhage
+tolazoline,upper gastrointestinal hemorrhage
+tolazoline,gastrointestinal bleeding
+ambien,death
+zolpidem,death
+nitrite,nitrite toxicity
+nitrate,methemoglobinemia
+esmolol,esmolol toxicity
+esmolol hydrochloride,asystole
+esmolol,cardiac arrest
+atenolol,memory impairment
+atenolol,impaired memory
+amiodarone,thyroiditis
+isoniazid,psychotic disorder
+protamine,pulmonary vasoconstriction
+protamine,right ventricular failure
+protamine,pulmonary hypertension
+protamine,bronchoconstriction
+protamine,severe hemodynamic deterioration
+protamine,systemic hypotension
+methicillin,acute nephritic syndrome
+methicillin,massive proteinuria
+methicillin,focal glomerulonephritis
+methicillin,interstitial nephritis
+praziquantel,large cerebral infarction
+5-fu,diarrhea
+5-fu,mucositis
+5-fu,myelosuppression
+5-fu,stomatitis
+5-fluorouracil,severe adverse reactions
+5-fluorouracil,lethal adverse reactions
+5-fu,lethal adverse reactions
+5-fu,coma
+5-fu,encephalopathy
+5-fu,neurologic symptoms
+5-fu,severe acute 5-fu reactions
+5-asa,fever
+mesalamine,fever
+prednisone,fever
+5-asa,worsening respiratory distress
+mesalamine,worsening respiratory distress
+prednisone,worsening respiratory distress
+mesalamine,hypersensitivity pneumonitis
+prednisolone,mite infestation
+colchicine,adverse effect on wound healing
+colchicine,collagenase activation
+colchicine,delay corneal wound healing
+colchicine,delay of corneal wound healing
+colchicine,corneal ulcers refractory to conventional treatment
+bicalutamide,fulminant hepatic failure
+minocycline,eruption
+minocycline,exfoliative dermatitis
+minocycline,dermatitis
+minocycline,eosinophilia
+minocycline,hepatitis
+minocycline,lymphadenopathy
+minocycline,lymphocytosis
+minocycline,lymphocyte over-activation
+minocycline,massive cytokine release
+minocycline,severe illness
+flurbiprofen,delayed hypersensitivity
+cyclosporin,eye movement disorders
+ganciclovir,eye movement disorders
+cyclosporin,mri t2 abnormalities
+cyclosporin,neurotoxicity
+cyclosporin,eye movement abnormality
+ganciclovir,eye movement abnormality
+cyclosporin,transient brain stem or neuromuscular dysfunction
+ganciclovir,transient brain stem or neuromuscular dysfunction
+gnrh-a,thrombosis
+clonidine,adverse response
+clonidine,adverse experiences
+acetohexamide,confusion
+acetohexamide,head trauma
+acetohexamide,systemic hypoglycemic reaction
+itraconazole,drug eruption
+itraconazole,primary cutaneous coccidioidomycosis
+retinoic acid,potentially fatal symptom
+retinoic acid,toxicity
+amiodarone,polymorphous ventricular tachycardia
+amiodarone,syncope
+amiodarone,nonsustained polymorphous ventricular tachycardia
+amiodarone,proarrhythmic
+verapamil,acute asthma
+verapamil,dyspnea
+verapamil,asthma attack
+verapamil,asthma
+cephalexin,cephalexin rash
+ampicillin,ampicillin rash
+cephalexin,rash
+ampicillin,rash
+carbamazepine,pancreatitis
+cbz,pancreatitis
+cbz,acute pancreatitis
+mtx,pneumonitis
+mtx,pulmonary toxicity
+inorganic arsenic,hepatic angiosarcoma
+thorotrast,hepatic angiosarcoma
+vinyl chloride,hepatic angiosarcoma
+ferrous sulfate,reduce the gastrointestinal absorption of orally administered levothyroxine sodium
+ferrous sulfate,hypothyroid
+hepatitis b vaccination,mental nerve neuropathy
+tamoxifen,proliferative lesions of the endometrium
+tamoxifen,intermittent spotting
+tamoxifen,uterine enlargement
+tamoxifen,carcinoma
+tamoxifen,endometrial lesions
+bleomycin,metastatic nodules
+cyclophosphamide,metastatic nodules
+bleomycin,fibrotic lesions
+cyclophosphamide,fibrotic lesions
+procainamide hydrochloride,lupus syndrome
+procainamide,lupus syndrome
+magnesium sulfate,hypermagnesemia
+magnesium,magnesium toxicosis
+magnesium sulfate,magnesium toxicosis
+lovastatin,rhabdomyolysis
+azithromycin,rhabdomyolysis
+erythromycin,rhabdomyolysis
+prednisone,died
+epinephrine,severe hypertension
+phenylephrine,severe hypertension
+tamoxifen,acute leukaemia
+tamoxifen,carcinogenic
+tamoxifen,acute myeloid leukaemia
+tamoxifen,aml
+all-trans retinoic acid,relapse in the external auditory canal of acute promyelocytic leukemia
+atra,extramedullary relapse
+methimazole,cutaneous reactions
+propylthiouracil,cutaneous reactions
+thionamide,generalized maculopapular and papular purpuric eruptions
+propylthiouracil,cutaneous vasculitis
+zonisamide,heat stroke
+zonisamide,neurological symptoms
+zonisamide,oligohidrosis
+zonisamide,heat stroke-like episode
+suramin,acute renal failure
+suramin,renal failure
+suramin,nonoliguric renal failure
+clozapine,polyserositis
+clozapine,pericardial effusion
+clozapine,pericarditis
+clozapine,pleural effusion
+amphotericin b,severe side effects
+ara-c,fever
+cytosine arabinoside,fever
+ara-c,gastrointestinal tract symptoms
+cytosine arabinoside,gastrointestinal tract symptoms
+ara-c,infectious complications
+cytosine arabinoside,infectious complications
+ara-c,severe myalgias
+cytosine arabinoside,severe myalgias
+rhgh,hypercalcemia
+growth hormone,hypercalcemia
+cisplatin,hypersensitivity reactions
+cisplatin,abdominal pain
+cisplatin,dyspnea
+cisplatin,fever
+cisplatin,general erythema
+cisplatin,hypotension
+cisplatin,renal tubular salt wasting
+phenolphthalein,ten
+phenolphthalein,toxic epidermal necrolysis
+phenolphthalein,rash
+clarithromycin,carbamazepine toxicity
+carbamazepine,ataxia
+clarithromycin,ataxia
+carbamazepine,dizziness
+clarithromycin,dizziness
+carbamazepine,drowsiness
+clarithromycin,drowsiness
+carbamazepine,toxic symptoms
+clarithromycin,toxic symptoms
+carbamazepine,increased plasma carbamazepine
+clarithromycin,increased plasma carbamazepine
+acetazolamide,acetazolamide intoxication
+acetazolamide,acute hemorrhagic gastritis
+az,acute hemorrhagic gastritis
+az,az intoxication
+az,destroyed the gastric mucosal barrier
+az,hemorrhagic gastritis
+az,thrombocytopenia due to bone marrow disorder
+magnesium ammonium phosphate,urinary calculus
+magnesium,urinary calculus
+danazol,thrombocytopenia
+danazol,gingival bleeding
+danazol,purpura
+low-molecular weight heparin,skin necrosis
+reserpine,reserpine toxicity
+sodium bisulfite,contact dermatitis
+sodium bisulfite,eruption
+mesalamine,acute pancreatitis
+mesalamine,pancreatitis
+enalapril,acute renal failure
+enalapril,severe tubulointerstitial changes
+ritonavir,maculopapular eruption
+ritonavir,adverse cutaneous reactions
+ritonavir,fever
+methicillin,nephropathy
+methysergide,retroperitoneal fibrosis
+alpha-interferon,vitiligo
+interferon alpha 2a,vitiligo
+ticlopidine,febrile agranulocytosis
+ticlopidine,agranulocytosis
+ticlopidine,severe bone marrow suppression
+toxicity,ifosfamide
+4-hydroxyifosfamide,toxicity
+chloroacetaldehyde,toxicity
+ifosfamide,toxicity
+methyldopa,hepatitis
+methyldopa,liver injury
+morphine,acute respiratory depression
+morphine,bradypneic
+morphine,hypotensive
+penicillamine,acute dystonia
+penicillamine,thalamic and brainstem lesions
+d-penicillamine,acute generalized dystonia
+d-penicillamine,brainstem and thalamic lesions
+d-penicillamine,akinetic rigid syndrome
+heroin,ballistic movements
+heroin,ischemic infarcts
+heroin,bilateral ballism
+heroin,stroke
+cyclosporine,hypersensitivity reactions
+cyclosporine,anaphylaxis
+cremophor el,hypersensitivity reactions
+cyclosporine,hypersensitivity reaction
+cyclosporine,anaphylactic reaction
+prothipendylhydrochloride,priapism
+actinomycin d,hepatotoxicity
+epirubicin,hepatotoxicity
+vincristine,hepatotoxicity
+bleomycin,acral necrosis
+bleomycin,raynaud's phenomenon
+vinblastine,gangrene
+vincristine,gangrene
+bleomycin,severe raynaud's phenomenon
+vinblastine,severe raynaud's phenomenon
+vincristine,severe raynaud's phenomenon
+interferon alfa,thrombocythemia
+pentostatin,thrombocythemia
+interferon alfa,hematological malignancy
+interferon alfa,second cancers
+dexamethasone,hypertrophic obstructive cardiomyopathy
+propranolol,lower average heart rate
+propranolol,lower average mean blood pressure
+dexamethasone,left ventricular outflow tract obstruction
+dexamethasone,septal hypertrophy
+clindamycin,abdominal cramping
+clindamycin,multiple watery stools
+clindamycin phosphate,clostridium difficile toxin-induced colitis
+clindamycin,cdic
+clindamycin phosphate,cdic
+clindamycin,c. difficile toxin
+clindamycin phosphate,c. difficile toxin
+clindamycin,diarrhea
+clindamycin phosphate,diarrhea
+clindamycin,c. difficile toxin in stool
+clindamycin phosphate,toxin-positive clostridium difficile-induced colitis
+lamotrigine,ten
+valproic acid,ten
+lamotrigine,fatal toxic epidermal necrolysis
+lamotrigine,accumulation of a toxic intermediate metabolite
+valproic acid,accumulation of a toxic intermediate metabolite
+lamotrigine,increased serum lamotrigine levels
+valproic acid,increased serum lamotrigine levels
+lamotrigine,sjs
+risperidone,syndrome of increased affect
+risperidone,feelings of agitation
+risperidone,insomnia
+risperidone,intolerable affect
+risperidone,periods of crying
+risperidone,increase affect
+methanol,bilateral putaminal injury
+methanol,methanol toxicity
+methanol,severe central nervous system insult
+methanol,methanol intoxication
+methanol,putaminal infarct
+methanol,methanol poisoning
+methanol,bilateral putaminal necrosis
+methanol,cerebral edema
+methanol,diffuse brain involvement
+methanol,fatal
+methanol,ventricular compression
+risperidone,dyskinetic movements
+venlafaxine,increased ocular pressure
+procainamide,clinical lupus syndrome
+procainamide,diffuse proliferative glomerulonephritis
+procainamide,lupus erythematosus
+procainamide,glomerulonephritis
+penicillin,acute blistering eruption
+suxamethonium,apnoea
+sulprostone,cardiac arrest
+sulprostone,coronary spasm
+desmethylsertraline,doubling of the lamotrigine blood level
+lamotrigine,doubling of the lamotrigine blood level
+sertraline,doubling of the lamotrigine blood level
+desmethylsertraline,symptoms of toxicity
+lamotrigine,symptoms of toxicity
+sertraline,symptoms of toxicity
+lamotrigine,lamotrigine toxicity
+sertraline,lamotrigine toxicity
+flutamide,decrease in prostate-specific antigen
+flutamide,flutamide withdrawal syndrome
+flutamide,prolonged prostate-specific antigen response
+flutamide,decoupling of psa response
+flutamide,psa continued to decrease
+prednisone,anaphylactic reaction
+hal,significant 32%-46% loss of tyrosine hydroxylase (th) immunoreactive neurons
+pancrease mt 16,vomiting
+viokase,vomiting
+creon 10,vomiting
+valproate,symptomatic methemoglobinemia
+depakote,symptomatic methemoglobinemia
+divalproex sodium,symptomatic methemoglobinemia
+mitomycin c,hemolytic anemia
+mmc,hemolytic anemia
+mitomycin c,hemolytic uremic syndrome
+mmc,hemolytic uremic syndrome
+mitomycin c,progressive renal failure
+mmc,progressive renal failure
+mitomycin c,thrombocytopenia
+mmc,thrombocytopenia
+fludarabine phosphate,cd4 t-lymphocyte depletion
+fludarabine phosphate,myelosuppression
+fludarabine phosphate,severe infections
+fludarabine,severe respiratory syncytial virus pulmonary infection
+fludarabine phosphate,respiratory syncytial virus (rsv) infection
+phenelzine,serotonin syndrome
+g-csf,leucocytosis
+g-csf,leukaemoid monocytosis
+g-csf,monocytosis
+chlorambucil,balanced translocation
+chlorambucil,chromosome abnormalities
+ptu,anca
+propylthiouracil,antineutrophil cytoplasmic antibody-positive crescentic glomerulonephritis
+propylthiouracil,antineutrophil cytoplasmic antibody
+ptu,antineutrophil cytoplasmic antibody
+theophylline,drug interaction
+zafirlukast,drug interaction
+theophylline,reaction to the drug became more toxic
+theophylline,increase in the theophylline level
+zafirlukast,increase in the theophylline level
+accolate,theophylline levels had increased to the toxic range
+theophylline,theophylline levels had increased to the toxic range
+zafirlukast,theophylline levels had increased to the toxic range
+theophylline,drug-drug interaction
+zafirlukast,drug-drug interaction
+clozapine,rhabdomyolysis
+diphenhydramine,anticholinergic symptoms
+diphenhydramine,drug-seeking behavior
+pentasa,pancytopenia
+pentasa,diarrhea
+pentasa,fever
+pentasa,malaise
+pentasa,nausea
+5-aminosalicylic acid,pancytopenia
+alprazolam,changes in the plasma cortisol level
+alprazolam,decreased plasma cortisol level
+cyclosporine,nocardia asteroides brain abscess
+prednisone,nocardia asteroides brain abscess
+cisplatin,progressive sensorineural hearing loss
+pentazocine,gradual stiffness
+pentazocine,weakness of the lower extremities
+pentazocine,fibrous myopathy
+pentazocine,neuromuscular complication
+pentazocine,neuropathy
+pentazocine,pentazocine toxicity
+olanzapine,extrapyramidal side effects
+olanzapine,severe akathisia
+metrifonate,seizures
+tpa,vitreous hemorrhage
+praziquantel,inflammation
+haloperidol,nms
+methimazole,aplastic anemia
+methimazole,aa
+adriamycin,fsgs
+pranlukast,atin
+pranlukast,hypersensitivity reaction
+pranlukast,tubulointerstitial nephritis
+pranlukast,anemia
+isosorbide dinitrate,syncope
+nitrate,hypotension
+nitrate,unconsciousness
+isosorbide dinitrate,blood pressure decreased
+isosorbide dinitrate,sudden decrease in pulse rate
+nitrate,syncope
+voglibose,acute dizziness
+voglibose,intolerable dizziness
+voglibose,nausea
+voglibose,vomiting
+naproxen,sudden sensorineural hearing loss
+naproxen,tinnitus
+naproxen,transient hearing loss
+naproxen,sensorineural hearing loss
+niacin,dental and gingival pain
+niacin,hyperalgesia of sensory nerve receptors
+niacin,pain to the teeth
+niacin,potentiation of inflammation in the gingiva
+niacin,prostaglandin-mediated vasodilatation
+niacin,intense dental and gingival pain
+calcitriol,potassium loss
+phosphate,potassium loss
+calcitriol,secondary hyperparathyroidism
+phosphate,secondary hyperparathyroidism
+calcitriol,vitamin d intoxication
+phosphate,vitamin d intoxication
+phosphate,hypokalemia
+phosphate,progressive hypokalemia
+phosphate,decrease in plasma potassium
+phosphate,transtubular potassium gradient (ttkg) also decreased
+gold,alveolar-interstitial pneumopathy
+gold,pulmonary toxicity
+gold,respiratory failure
+tuberculin,hypersensitivity response
+halcinonide,glycosuria
+halcinonide,postprandial hyperglycemia
+betamethasone valerate,postprandial hyperglycemia
+nefazodone,confusion
+nefazodone,gray areas
+nefazodone,headache
+nefazodone,interfere with tacrolimus metabolism
+tacrolimus,interfere with tacrolimus metabolism
+nefazodone,interaction
+tacrolimus,interaction
+nefazodone,inhibits metabolism of tacrolimus
+tacrolimus,inhibits metabolism of tacrolimus
+mirtazapine,intoxication
+vitamin d,acute vitamin d poisoning
+vitamin d,hypercalcemia
+furosemide,congestive heart failure
+vitamin d,vitamin d intoxication
+vitamin d,severe hypercalcemia
+vitamin d,vitamin d poisoning
+mtx,overwhelming hepatic necrosis
+methotrexate,hepatic necrosis
+mtx,hepatic injury
+mtx,liver enzyme elevations
+vinorelbine,hypokalemia
+vinorelbine,siadh
+vinorelbine,syndrome of inappropriate antidiuretic hormone
+pirmenol hydrochloride,qt prolongation
+pirmenol hydrochloride,t wave inversion
+pirmenol,qt prolongation
+pirmenol,t wave inversion
+pirmenol,prolongation of the qt interval
+praziquantel,myositis
+praziquantel,diffuse myalgia
+praziquantel,fever
+praziquantel,inflammatory reaction around dying cysticerci
+praziquantel,weakness of the lower limbs
+alteplase,massive subfascial hematoma
+alteplase,subfascial hemorrhage
+alteplase,subfascial hematoma
+alteplase,cutaneous ecchymosis
+alteplase,diffuse subfascial hematoma
+alteplase,sudden fall in hemoglobin
+levomepromazine,fatal case of pancytopenia
+diazepam,fatal pancytopenia
+levomepromazine,fatal pancytopenia
+lithium carbonate,fatal pancytopenia
+amiodarone,thyrotropin receptor antibody
+amiodarone,thyrotropin-binding inhibiting immunoglobulin
+amiodarone,transiently positive thyrotropin (tsh) receptor antibody
+amiodarone,ait
+amiodarone,destructive thyroiditis
+amiodarone,trab/tbii without thyroid-stimulating activity
+mineral oil,lipoid pneumonia
+mineral oil,elp
+mineral oil,pneumonia
+mineral oil,swallowing dysfunction
+mineral oil,impair mucociliary transport
+mineral oil,potential hazards
+mineral oil,roentgenographic abnormalities
+mineral oil,exogenous lipoid pneumonia
+burn injury,psoralens
+psoralens,phototoxic reactions
+8-methoxypsoralen,intense burn
+psoralen,skin extremely sensitive
+psoralen,sunburn
+metoclopramide,nonthrombocytopenic vascular-type palpable purpura
+metoclopramide,nonthrombocytopenic palpable purpura
+lithium,diabetes insipidus-like syndrome
+lithium,lithium intoxication

@@ -1,0 +1,163 @@
+.doctor-container {
+    background : linear-gradient(to right, #62488e, #7e69a2);
+    color:white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    min-height: 100vh;
+  }
+
+  .yo-container{
+    background:rgba(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width : 60%;
+    text-align: center;
+    margin-left: 300px;
+    border-radius: 20px;
+  }
+  .header {
+    text-align: center;
+    margin-bottom: -20px;
+  }
+  
+  .wallet-field {
+    color : white;
+    background: #330f377d;
+    width: 200px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  .buttoon-container {
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    }
+  
+  .buttoon {
+    padding: 10px 20px;
+    background-color: #871194;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 300px;
+    border-radius: 10px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .buttoon:hover {
+    background-color: #5c4360;
+  }
+  
+  .insight-container {
+    margin-bottom: 20px;
+  }
+  
+  .insight-title {
+    text-align: center;
+    color: white;
+    margin-bottom: 10px;
+    font-size: 20px;
+  }
+  
+  .insight-list {
+    list-style: none;
+    padding: 0;
+    margin-bottom: 20px;
+  }
+  
+  .insight-item {
+    color:white;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+
+  .records-container {
+    width: 90%;
+    border-radius: 20px;
+    margin-bottom: 20px;
+  }
+
+  .records-title {
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 20px;
+  }
+  
+  .records-table {
+    background: rgba(0, 0 0, 5);
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .records-table th,
+  .records-table td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .records-table th {
+    background-color: #871194;
+    color: white;
+  }
+  
+  .records-table input {
+    width: 90%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    margin-bottom: 5px;
+  }
+  
+  .records-table input[type="text"]::placeholder {
+    color: #999;
+  }
+  
+
+  .buton{
+    
+    padding: 8px 15px;
+    background-color: #871194;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 5px;
+    transition: background-color 0.3s ease;
+  }
+
+  .buttton{
+    padding: 8px 15px;
+    background-color: #871194;
+    color: white;
+    font-size: 17px;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .buttton:hover,.buton:hover {
+    background-color: #6a0f7a;
+  }
+
+  .linkk{
+    color: #c17dc8;
+    text-decoration: aliceblue;
+  }
+
+  .linkk:hover{
+    color: rgb(121, 192, 255);
+    text-decoration: underline;
+  }
+  

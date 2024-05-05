@@ -1,0 +1,62 @@
+.register-area_ {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: 'tahoma', sans-serif;
+    color: white;
+    text-align: center;
+    margin: 0;
+    width: 100%;
+    line-height: 1.5;
+    font-size: 19px;
+}
+
+.register-container_ {
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 20px;
+    padding: 40px;
+    width: 400px;
+}
+
+.register-label_ {
+    display: block;
+    margin-bottom: 5px;  
+}
+
+.register-input_,
+.register-select_ {
+    width: 60%;
+    padding: 5px;
+    margin-top: 0px;
+    border: 1px solid #854b86;
+    border-radius: 10px;
+    box-sizing: border-box;
+    background: #995fa0;
+}
+
+.register-button {
+    width: 60%;
+    padding: 10px;
+    background: #871194;
+    border: none;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 15px;
+}
+
+.register-button:hover {
+    background: #6a0f7a;
+}
+
+.wallet_addr {
+    border: none;
+    color: white;
+    text-align: center;
+    display: block;
+    width: 90%;
+    font-size: 17px;
+    cursor: pointer;
+    border-radius: 15px;
+}

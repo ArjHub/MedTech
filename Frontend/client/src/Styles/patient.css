@@ -1,0 +1,134 @@
+.dashboard_container {
+  display: flex;
+  background: linear-gradient(to right, #62488e, #7e69a2);
+  color: white;
+  font-family: 'tahoma', sans-serif;
+  font-size: 19px;
+  min-height: 100vh;
+}
+
+.sidebar {
+  width: 200px;
+  background: rgba(0, 0, 0, 0.4);
+  height: 20vh;
+}
+
+.sidebar_menu {
+  list-style: none;
+  padding: 0;
+}
+
+.menu_item {
+  padding: 10px;
+}
+
+
+.content_area {
+  flex: 1;
+}
+
+.patient_body {
+  border-radius: 20px;
+  max-width: 800px;
+  padding: 80px;
+  
+}
+
+.header {
+  text-align: center;
+}
+
+.logoo {
+  background:rgba(0, 0, 0, 0.5);
+  max-width: 150px;
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: -2px;
+}
+
+.patient-container {
+  border-radius: 20px;
+  padding: 40px;
+  max-width: 100%; 
+  margin: 0 auto;
+  text-align: center; 
+}
+
+.add-button,
+.show-button {
+  width: 60%;
+  padding: 10px;
+  background: #871194;
+  border: none;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 15px;
+  margin-bottom: 10px;
+  justify-content: center;
+}
+
+.button-send{
+  width: 60%;
+  padding: 10px;
+  background: #871194;
+  border: none;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 15px;
+  margin-bottom: 10px;
+  justify-content: center;
+
+}
+
+.add-button:hover,
+.show-button:hover {
+  background: #6a0f7a;
+}
+.button-send:hover{
+  background: rgba(0, 0, 0, 0.4);
+}
+
+.retrieved-data {
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 20px;
+  width: 720px;
+  text-align: center ;
+}
+
+.data-table {
+  background: rgba(0, 0, 0, 0.5);
+  width: 700px;
+  justify-content: center;
+  margin-left: 10px;
+  border-collapse: collapse;
+}
+
+.table-heading {
+  background: #854b86;
+  color: white;
+  padding: 10px;
+  text-align: center; 
+}
+
+.table-data {
+  padding: 10px;
+  border: 1px solid #854b86;
+}
+
+.symptom-list {
+  list-style: none;
+  padding: 0;
+}
+
+.sidebar-button{
+  width: 100%;
+  padding: 15px;
+  background: #87119400;
+  border: none;
+  color: white;
+  font-size: 17px;
+  cursor: pointer;
+  border-radius: 15px;
+}
