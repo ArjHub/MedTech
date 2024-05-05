@@ -29,7 +29,7 @@ The Healthcare Data Management and Patient-Doctor Interaction System is an integ
 1. Clone the repository:
 
 ```
-git clone [repo](https://github.com/ArjHub/MedTech)
+git clone https://github.com/ArjHub/MedTech
 ```
 
 2. Install dependencies:
