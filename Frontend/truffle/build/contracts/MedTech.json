@@ -1,0 +1,1980 @@
+{
+  "contractName": "MedTech",
+  "abi": [
+    {
+      "inputs": [],
+      "payable": false,
+      "stateMutability": "nonpayable",
+      "type": "constructor"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "name",
+      "outputs": [
+        {
+          "internalType": "string",
+          "name": "",
+          "type": "string"
+        }
+      ],
+      "payable": false,
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [
+        {
+          "internalType": "string",
+          "name": "_cid",
+          "type": "string"
+        }
+      ],
+      "name": "registerMedicationRecord",
+      "outputs": [],
+      "payable": false,
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [
+        {
+          "internalType": "address",
+          "name": "_patientAddr",
+          "type": "address"
+        }
+      ],
+      "name": "getPatientMedicationRecords",
+      "outputs": [
+        {
+          "internalType": "string[]",
+          "name": "",
+          "type": "string[]"
+        }
+      ],
+      "payable": false,
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ],
+  "metadata": "{\"compiler\":{\"version\":\"0.5.16+commit.9c3226ce\"},\"language\":\"Solidity\",\"output\":{\"abi\":[{\"inputs\":[],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"constant\":true,\"inputs\":[{\"internalType\":\"address\",\"name\":\"_patientAddr\",\"type\":\"address\"}],\"name\":\"getPatientMedicationRecords\",\"outputs\":[{\"internalType\":\"string[]\",\"name\":\"\",\"type\":\"string[]\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"},{\"constant\":true,\"inputs\":[],\"name\":\"name\",\"outputs\":[{\"internalType\":\"string\",\"name\":\"\",\"type\":\"string\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"},{\"constant\":false,\"inputs\":[{\"internalType\":\"string\",\"name\":\"_cid\",\"type\":\"string\"}],\"name\":\"registerMedicationRecord\",\"outputs\":[],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}],\"devdoc\":{\"methods\":{}},\"userdoc\":{\"methods\":{}}},\"settings\":{\"compilationTarget\":{\"project:/contracts/MedTech.sol\":\"MedTech\"},\"evmVersion\":\"istanbul\",\"libraries\":{},\"optimizer\":{\"enabled\":true,\"runs\":200},\"remappings\":[]},\"sources\":{\"project:/contracts/MedTech.sol\":{\"keccak256\":\"0xf50df348cc167da64e721014b09cfb12a567629ce1296cf0203bd2a14550ec24\",\"urls\":[\"bzz-raw://f90d2693fdb55767a16a1bda8915ca74dc7c5cc0df1326c17fd6e53f24dbebf1\",\"dweb:/ipfs/QmWXt7DVs7xey9h4fQT6XK93XqkvVCus1e7j93HgbMi96Q\"]}},\"version\":1}",
+  "bytecode": "0x608060405234801561001057600080fd5b50604080518082019091526007808252660dacac8a8cac6d60cb1b602090920191825261003f91600091610045565b506100e0565b828054600181600116156101000203166002900490600052602060002090601f016020900481019282601f1061008657805160ff19168380011785556100b3565b828001600101855582156100b3579182015b828111156100b3578251825591602001919060010190610098565b506100bf9291506100c3565b5090565b6100dd91905b808211156100bf57600081556001016100c9565b90565b6105ae806100ef6000396000f3fe608060405234801561001057600080fd5b50600436106100415760003560e01c806306fdde03146100465780632c6a0e37146100645780635cba966f14610079575b600080fd5b61004e610099565b60405161005b919061048a565b60405180910390f35b61007761007236600461038b565b610127565b005b61008c610087366004610365565b610177565b60405161005b9190610479565b6000805460408051602060026001851615610100026000190190941693909304601f8101849004840282018401909252818152929183018282801561011f5780601f106100f45761010080835404028352916020019161011f565b820191906000526020600020905b81548152906001019060200180831161010257829003601f168201915b505050505081565b3361013157600080fd5b600081511161013f57600080fd5b33600090815260016020818152604083208054928301808255908452928190208451610172939190910191850190610265565b505050565b6001600160a01b0381166000908152600160209081526040808320805482518185028101850190935280835260609492939192909184015b8282101561025a5760008481526020908190208301805460408051601f60026000196101006001871615020190941693909304928301859004850281018501909152818152928301828280156102465780601f1061021b57610100808354040283529160200191610246565b820191906000526020600020905b81548152906001019060200180831161022957829003601f168201915b5050505050815260200190600101906101af565b505050509050919050565b828054600181600116156101000203166002900490600052602060002090601f016020900481019282601f106102a657805160ff19168380011785556102d3565b828001600101855582156102d3579182015b828111156102d35782518255916020019190600101906102b8565b506102df9291506102e3565b5090565b6102fd91905b808211156102df57600081556001016102e9565b90565b803561030b81610554565b92915050565b600082601f83011261032257600080fd5b8135610335610330826104c2565b61049b565b9150808252602083016020830185838301111561035157600080fd5b61035c83828461050e565b50505092915050565b60006020828403121561037757600080fd5b60006103838484610300565b949350505050565b60006020828403121561039d57600080fd5b813567ffffffffffffffff8111156103b457600080fd5b61038384828501610311565b60006103cc8383610441565b9392505050565b60006103de826104f0565b6103e881856104f4565b9350836020820285016103fa856104ea565b8060005b85811015610434578484038952815161041785826103c0565b9450610422836104ea565b60209a909a01999250506001016103fe565b5091979650505050505050565b600061044c826104f0565b61045681856104f4565b935061046681856020860161051a565b61046f8161054a565b9093019392505050565b602080825281016103cc81846103d3565b602080825281016103cc8184610441565b60405181810167ffffffffffffffff811182821017156104ba57600080fd5b604052919050565b600067ffffffffffffffff8211156104d957600080fd5b506020601f91909101601f19160190565b60200190565b5190565b90815260200190565b60006001600160a01b03821661030b565b82818337506000910152565b60005b8381101561053557818101518382015260200161051d565b83811115610544576000848401525b50505050565b601f01601f191690565b61055d816104fd565b811461056857600080fd5b5056fea365627a7a72315820c4fbecd4e0e1a04900d3fe45de2d1aab27027f138c9fec7cf3bf091a6843749b6c6578706572696d656e74616cf564736f6c63430005100040",
+  "deployedBytecode": "0x608060405234801561001057600080fd5b50600436106100415760003560e01c806306fdde03146100465780632c6a0e37146100645780635cba966f14610079575b600080fd5b61004e610099565b60405161005b919061048a565b60405180910390f35b61007761007236600461038b565b610127565b005b61008c610087366004610365565b610177565b60405161005b9190610479565b6000805460408051602060026001851615610100026000190190941693909304601f8101849004840282018401909252818152929183018282801561011f5780601f106100f45761010080835404028352916020019161011f565b820191906000526020600020905b81548152906001019060200180831161010257829003601f168201915b505050505081565b3361013157600080fd5b600081511161013f57600080fd5b33600090815260016020818152604083208054928301808255908452928190208451610172939190910191850190610265565b505050565b6001600160a01b0381166000908152600160209081526040808320805482518185028101850190935280835260609492939192909184015b8282101561025a5760008481526020908190208301805460408051601f60026000196101006001871615020190941693909304928301859004850281018501909152818152928301828280156102465780601f1061021b57610100808354040283529160200191610246565b820191906000526020600020905b81548152906001019060200180831161022957829003601f168201915b5050505050815260200190600101906101af565b505050509050919050565b828054600181600116156101000203166002900490600052602060002090601f016020900481019282601f106102a657805160ff19168380011785556102d3565b828001600101855582156102d3579182015b828111156102d35782518255916020019190600101906102b8565b506102df9291506102e3565b5090565b6102fd91905b808211156102df57600081556001016102e9565b90565b803561030b81610554565b92915050565b600082601f83011261032257600080fd5b8135610335610330826104c2565b61049b565b9150808252602083016020830185838301111561035157600080fd5b61035c83828461050e565b50505092915050565b60006020828403121561037757600080fd5b60006103838484610300565b949350505050565b60006020828403121561039d57600080fd5b813567ffffffffffffffff8111156103b457600080fd5b61038384828501610311565b60006103cc8383610441565b9392505050565b60006103de826104f0565b6103e881856104f4565b9350836020820285016103fa856104ea565b8060005b85811015610434578484038952815161041785826103c0565b9450610422836104ea565b60209a909a01999250506001016103fe565b5091979650505050505050565b600061044c826104f0565b61045681856104f4565b935061046681856020860161051a565b61046f8161054a565b9093019392505050565b602080825281016103cc81846103d3565b602080825281016103cc8184610441565b60405181810167ffffffffffffffff811182821017156104ba57600080fd5b604052919050565b600067ffffffffffffffff8211156104d957600080fd5b506020601f91909101601f19160190565b60200190565b5190565b90815260200190565b60006001600160a01b03821661030b565b82818337506000910152565b60005b8381101561053557818101518382015260200161051d565b83811115610544576000848401525b50505050565b601f01601f191690565b61055d816104fd565b811461056857600080fd5b5056fea365627a7a72315820c4fbecd4e0e1a04900d3fe45de2d1aab27027f138c9fec7cf3bf091a6843749b6c6578706572696d656e74616cf564736f6c63430005100040",
+  "sourceMap": "101:613:0:-;;;265:54;8:9:-1;5:2;;;30:1;27;20:12;5:2;-1:-1;296:16:0;;;;;;;;;;;;;-1:-1:-1;;;296:16:0;;;;;;;;;-1:-1:-1;;296:16:0;:::i;:::-;;101:613;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-1:-1:-1;101:613:0;;;-1:-1:-1;101:613:0;:::i;:::-;;;:::o;:::-;;;;;;;;;;;;;;;;;;;;:::o;:::-;;;;;;;",
+  "deployedSourceMap": "101:613:0:-;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;101:613:0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;124:18;;;:::i;:::-;;;;;;;;;;;;;;;;325:220;;;;;;;;;:::i;:::-;;551:161;;;;;;;;;:::i;:::-;;;;;;;;124:18;;;;;;;;;;;;;;;-1:-1:-1;;124:18:0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:::o;325:220::-;404:10;396:33;;;;;;468:1;453:4;447:18;:22;439:31;;;;;;498:10;489:20;;;;:8;:20;;;;;;;27:10:-1;;23:18;;;45:23;;;489:49:0;;;;;;;;;;;;;;;;;;;;:::i;:::-;;;325:220;:::o;551:161::-;-1:-1:-1;;;;;665:22:0;;;;;;:8;:22;;;;;;;;658:47;;;;;;;;;;;;;;;;;631:15;;658:47;;665:22;;658:47;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-1:-1:-1;;658:47:0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;551:161;;;:::o;101:613::-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-1:-1:-1;101:613:0;;;-1:-1:-1;101:613:0;:::i;:::-;;;:::o;:::-;;;;;;;;;;;;;;;;;;;;:::o;5:130:-1:-;72:20;;97:33;72:20;97:33;;;57:78;;;;;143:442;;245:3;238:4;230:6;226:17;222:27;212:2;;263:1;260;253:12;212:2;300:6;287:20;322:65;337:49;379:6;337:49;;;322:65;;;313:74;;407:6;400:5;393:21;443:4;435:6;431:17;476:4;469:5;465:16;511:3;502:6;497:3;493:16;490:25;487:2;;;528:1;525;518:12;487:2;538:41;572:6;567:3;562;538:41;;;205:380;;;;;;;;593:241;;697:2;685:9;676:7;672:23;668:32;665:2;;;713:1;710;703:12;665:2;748:1;765:53;810:7;790:9;765:53;;;755:63;659:175;-1:-1;;;;659:175;841:347;;955:2;943:9;934:7;930:23;926:32;923:2;;;971:1;968;961:12;923:2;1006:31;;1057:18;1046:30;;1043:2;;;1089:1;1086;1079:12;1043:2;1109:63;1164:7;1155:6;1144:9;1140:22;1109:63;;1196:181;;1309:62;1367:3;1359:6;1309:62;;;1295:76;1288:89;-1:-1;;;1288:89;1414:896;;1571:60;1625:5;1571:60;;;1644:92;1729:6;1724:3;1644:92;;;1637:99;;1759:3;1801:4;1793:6;1789:17;1784:3;1780:27;1828:62;1884:5;1828:62;;;1910:7;1938:1;1923:348;1948:6;1945:1;1942:13;1923:348;;;2010:9;2004:4;2000:20;1995:3;1988:33;2055:6;2049:13;2077:76;2148:4;2133:13;2077:76;;;2069:84;;2170:66;2229:6;2170:66;;;2259:4;2250:14;;;;;2160:76;-1:-1;;1970:1;1963:9;1923:348;;;-1:-1;2284:4;;1550:760;-1:-1;;;;;;;1550:760;2318:319;;2416:35;2445:5;2416:35;;;2463:61;2517:6;2512:3;2463:61;;;2456:68;;2529:52;2574:6;2569:3;2562:4;2555:5;2551:16;2529:52;;;2602:29;2624:6;2602:29;;;2593:39;;;;2396:241;-1:-1;;;2396:241;2990:385;3170:2;3184:47;;;3155:18;;3245:120;3155:18;3351:6;3245:120;;3382:293;3516:2;3530:47;;;3501:18;;3591:74;3501:18;3651:6;3591:74;;3682:256;3744:2;3738:9;3770:17;;;3845:18;3830:34;;3866:22;;;3827:62;3824:2;;;3902:1;3899;3892:12;3824:2;3918;3911:22;3722:216;;-1:-1;3722:216;3945:322;;4089:18;4081:6;4078:30;4075:2;;;4121:1;4118;4111:12;4075:2;-1:-1;4252:4;4188;4165:17;;;;-1:-1;;4161:33;4242:15;;4012:255;4274:157;4404:4;4395:14;;4352:79;4438:143;4547:12;;4518:63;4835:184;4959:19;;;5008:4;4999:14;;4952:67;5361:91;;-1:-1;;;;;5521:54;;5423:24;5504:76;5588:145;5669:6;5664:3;5659;5646:30;-1:-1;5725:1;5707:16;;5700:27;5639:94;5742:268;5807:1;5814:101;5828:6;5825:1;5822:13;5814:101;;;5895:11;;;5889:18;5876:11;;;5869:39;5850:2;5843:10;5814:101;;;5930:6;5927:1;5924:13;5921:2;;;5995:1;5986:6;5981:3;5977:16;5970:27;5921:2;5791:219;;;;;6018:97;6106:2;6086:14;-1:-1;;6082:28;;6066:49;6123:117;6192:24;6210:5;6192:24;;;6185:5;6182:35;6172:2;;6231:1;6228;6221:12;6172:2;6166:74;",
+  "source": "// SPDX-License-Identifier: MIT\npragma solidity >=0.4.22 <0.9.0;\n\npragma experimental ABIEncoderV2;\n\ncontract MedTech {\n    string public name;\n\n    struct Patient {\n        string[] medicationRecords;\n    }\n\n    mapping(address => Patient) private patients; \n\n    constructor() public {\n        name = \"medTech\";\n    }\n\n    function registerMedicationRecord(string memory _cid) public {\n        require(msg.sender != address(0));\n        require(bytes(_cid).length > 0);\n        \n        patients[msg.sender].medicationRecords.push(_cid);\n    }\n\n    function getPatientMedicationRecords(address _patientAddr) public view returns (string[] memory) {\n        return patients[_patientAddr].medicationRecords;\n    }\n}",
+  "sourcePath": "D:\\Capstone\\Blockchain\\medTech\\truffle\\contracts\\MedTech.sol",
+  "ast": {
+    "absolutePath": "project:/contracts/MedTech.sol",
+    "exportedSymbols": {
+      "MedTech": [
+        68
+      ]
+    },
+    "id": 69,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 1,
+        "literals": [
+          "solidity",
+          ">=",
+          "0.4",
+          ".22",
+          "<",
+          "0.9",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "32:32:0"
+      },
+      {
+        "id": 2,
+        "literals": [
+          "experimental",
+          "ABIEncoderV2"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "66:33:0"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 68,
+        "linearizedBaseContracts": [
+          68
+        ],
+        "name": "MedTech",
+        "nodeType": "ContractDefinition",
+        "nodes": [
+          {
+            "constant": false,
+            "id": 4,
+            "name": "name",
+            "nodeType": "VariableDeclaration",
+            "scope": 68,
+            "src": "124:18:0",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_string_storage",
+              "typeString": "string"
+            },
+            "typeName": {
+              "id": 3,
+              "name": "string",
+              "nodeType": "ElementaryTypeName",
+              "src": "124:6:0",
+              "typeDescriptions": {
+                "typeIdentifier": "t_string_storage_ptr",
+                "typeString": "string"
+              }
+            },
+            "value": null,
+            "visibility": "public"
+          },
+          {
+            "canonicalName": "MedTech.Patient",
+            "id": 8,
+            "members": [
+              {
+                "constant": false,
+                "id": 7,
+                "name": "medicationRecords",
+                "nodeType": "VariableDeclaration",
+                "scope": 8,
+                "src": "174:26:0",
+                "stateVariable": false,
+                "storageLocation": "default",
+                "typeDescriptions": {
+                  "typeIdentifier": "t_array$_t_string_storage_$dyn_storage_ptr",
+                  "typeString": "string[]"
+                },
+                "typeName": {
+                  "baseType": {
+                    "id": 5,
+                    "name": "string",
+                    "nodeType": "ElementaryTypeName",
+                    "src": "174:6:0",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_string_storage_ptr",
+                      "typeString": "string"
+                    }
+                  },
+                  "id": 6,
+                  "length": null,
+                  "nodeType": "ArrayTypeName",
+                  "src": "174:8:0",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_array$_t_string_storage_$dyn_storage_ptr",
+                    "typeString": "string[]"
+                  }
+                },
+                "value": null,
+                "visibility": "internal"
+              }
+            ],
+            "name": "Patient",
+            "nodeType": "StructDefinition",
+            "scope": 68,
+            "src": "149:58:0",
+            "visibility": "public"
+          },
+          {
+            "constant": false,
+            "id": 12,
+            "name": "patients",
+            "nodeType": "VariableDeclaration",
+            "scope": 68,
+            "src": "213:44:0",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_mapping$_t_address_$_t_struct$_Patient_$8_storage_$",
+              "typeString": "mapping(address => struct MedTech.Patient)"
+            },
+            "typeName": {
+              "id": 11,
+              "keyType": {
+                "id": 9,
+                "name": "address",
+                "nodeType": "ElementaryTypeName",
+                "src": "221:7:0",
+                "typeDescriptions": {
+                  "typeIdentifier": "t_address",
+                  "typeString": "address"
+                }
+              },
+              "nodeType": "Mapping",
+              "src": "213:27:0",
+              "typeDescriptions": {
+                "typeIdentifier": "t_mapping$_t_address_$_t_struct$_Patient_$8_storage_$",
+                "typeString": "mapping(address => struct MedTech.Patient)"
+              },
+              "valueType": {
+                "contractScope": null,
+                "id": 10,
+                "name": "Patient",
+                "nodeType": "UserDefinedTypeName",
+                "referencedDeclaration": 8,
+                "src": "232:7:0",
+                "typeDescriptions": {
+                  "typeIdentifier": "t_struct$_Patient_$8_storage_ptr",
+                  "typeString": "struct MedTech.Patient"
+                }
+              }
+            },
+            "value": null,
+            "visibility": "private"
+          },
+          {
+            "body": {
+              "id": 19,
+              "nodeType": "Block",
+              "src": "286:33:0",
+              "statements": [
+                {
+                  "expression": {
+                    "argumentTypes": null,
+                    "id": 17,
+                    "isConstant": false,
+                    "isLValue": false,
+                    "isPure": false,
+                    "lValueRequested": false,
+                    "leftHandSide": {
+                      "argumentTypes": null,
+                      "id": 15,
+                      "name": "name",
+                      "nodeType": "Identifier",
+                      "overloadedDeclarations": [],
+                      "referencedDeclaration": 4,
+                      "src": "296:4:0",
+                      "typeDescriptions": {
+                        "typeIdentifier": "t_string_storage",
+                        "typeString": "string storage ref"
+                      }
+                    },
+                    "nodeType": "Assignment",
+                    "operator": "=",
+                    "rightHandSide": {
+                      "argumentTypes": null,
+                      "hexValue": "6d656454656368",
+                      "id": 16,
+                      "isConstant": false,
+                      "isLValue": false,
+                      "isPure": true,
+                      "kind": "string",
+                      "lValueRequested": false,
+                      "nodeType": "Literal",
+                      "src": "303:9:0",
+                      "subdenomination": null,
+                      "typeDescriptions": {
+                        "typeIdentifier": "t_stringliteral_315ff2fbc496ef2db4c7fe632483d3193656f0cbfb0e31a4558709d83d2bad1e",
+                        "typeString": "literal_string \"medTech\""
+                      },
+                      "value": "medTech"
+                    },
+                    "src": "296:16:0",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_string_storage",
+                      "typeString": "string storage ref"
+                    }
+                  },
+                  "id": 18,
+                  "nodeType": "ExpressionStatement",
+                  "src": "296:16:0"
+                }
+              ]
+            },
+            "documentation": null,
+            "id": 20,
+            "implemented": true,
+            "kind": "constructor",
+            "modifiers": [],
+            "name": "",
+            "nodeType": "FunctionDefinition",
+            "parameters": {
+              "id": 13,
+              "nodeType": "ParameterList",
+              "parameters": [],
+              "src": "276:2:0"
+            },
+            "returnParameters": {
+              "id": 14,
+              "nodeType": "ParameterList",
+              "parameters": [],
+              "src": "286:0:0"
+            },
+            "scope": 68,
+            "src": "265:54:0",
+            "stateMutability": "nonpayable",
+            "superFunction": null,
+            "visibility": "public"
+          },
+          {
+            "body": {
+              "id": 52,
+              "nodeType": "Block",
+              "src": "386:159:0",
+              "statements": [
+                {
+                  "expression": {
+                    "argumentTypes": null,
+                    "arguments": [
+                      {
+                        "argumentTypes": null,
+                        "commonType": {
+                          "typeIdentifier": "t_address_payable",
+                          "typeString": "address payable"
+                        },
+                        "id": 31,
+                        "isConstant": false,
+                        "isLValue": false,
+                        "isPure": false,
+                        "lValueRequested": false,
+                        "leftExpression": {
+                          "argumentTypes": null,
+                          "expression": {
+                            "argumentTypes": null,
+                            "id": 26,
+                            "name": "msg",
+                            "nodeType": "Identifier",
+                            "overloadedDeclarations": [],
+                            "referencedDeclaration": 83,
+                            "src": "404:3:0",
+                            "typeDescriptions": {
+                              "typeIdentifier": "t_magic_message",
+                              "typeString": "msg"
+                            }
+                          },
+                          "id": 27,
+                          "isConstant": false,
+                          "isLValue": false,
+                          "isPure": false,
+                          "lValueRequested": false,
+                          "memberName": "sender",
+                          "nodeType": "MemberAccess",
+                          "referencedDeclaration": null,
+                          "src": "404:10:0",
+                          "typeDescriptions": {
+                            "typeIdentifier": "t_address_payable",
+                            "typeString": "address payable"
+                          }
+                        },
+                        "nodeType": "BinaryOperation",
+                        "operator": "!=",
+                        "rightExpression": {
+                          "argumentTypes": null,
+                          "arguments": [
+                            {
+                              "argumentTypes": null,
+                              "hexValue": "30",
+                              "id": 29,
+                              "isConstant": false,
+                              "isLValue": false,
+                              "isPure": true,
+                              "kind": "number",
+                              "lValueRequested": false,
+                              "nodeType": "Literal",
+                              "src": "426:1:0",
+                              "subdenomination": null,
+                              "typeDescriptions": {
+                                "typeIdentifier": "t_rational_0_by_1",
+                                "typeString": "int_const 0"
+                              },
+                              "value": "0"
+                            }
+                          ],
+                          "expression": {
+                            "argumentTypes": [
+                              {
+                                "typeIdentifier": "t_rational_0_by_1",
+                                "typeString": "int_const 0"
+                              }
+                            ],
+                            "id": 28,
+                            "isConstant": false,
+                            "isLValue": false,
+                            "isPure": true,
+                            "lValueRequested": false,
+                            "nodeType": "ElementaryTypeNameExpression",
+                            "src": "418:7:0",
+                            "typeDescriptions": {
+                              "typeIdentifier": "t_type$_t_address_$",
+                              "typeString": "type(address)"
+                            },
+                            "typeName": "address"
+                          },
+                          "id": 30,
+                          "isConstant": false,
+                          "isLValue": false,
+                          "isPure": true,
+                          "kind": "typeConversion",
+                          "lValueRequested": false,
+                          "names": [],
+                          "nodeType": "FunctionCall",
+                          "src": "418:10:0",
+                          "typeDescriptions": {
+                            "typeIdentifier": "t_address_payable",
+                            "typeString": "address payable"
+                          }
+                        },
+                        "src": "404:24:0",
+                        "typeDescriptions": {
+                          "typeIdentifier": "t_bool",
+                          "typeString": "bool"
+                        }
+                      }
+                    ],
+                    "expression": {
+                      "argumentTypes": [
+                        {
+                          "typeIdentifier": "t_bool",
+                          "typeString": "bool"
+                        }
+                      ],
+                      "id": 25,
+                      "name": "require",
+                      "nodeType": "Identifier",
+                      "overloadedDeclarations": [
+                        86,
+                        87
+                      ],
+                      "referencedDeclaration": 86,
+                      "src": "396:7:0",
+                      "typeDescriptions": {
+                        "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
+                        "typeString": "function (bool) pure"
+                      }
+                    },
+                    "id": 32,
+                    "isConstant": false,
+                    "isLValue": false,
+                    "isPure": false,
+                    "kind": "functionCall",
+                    "lValueRequested": false,
+                    "names": [],
+                    "nodeType": "FunctionCall",
+                    "src": "396:33:0",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_tuple$__$",
+                      "typeString": "tuple()"
+                    }
+                  },
+                  "id": 33,
+                  "nodeType": "ExpressionStatement",
+                  "src": "396:33:0"
+                },
+                {
+                  "expression": {
+                    "argumentTypes": null,
+                    "arguments": [
+                      {
+                        "argumentTypes": null,
+                        "commonType": {
+                          "typeIdentifier": "t_uint256",
+                          "typeString": "uint256"
+                        },
+                        "id": 40,
+                        "isConstant": false,
+                        "isLValue": false,
+                        "isPure": false,
+                        "lValueRequested": false,
+                        "leftExpression": {
+                          "argumentTypes": null,
+                          "expression": {
+                            "argumentTypes": null,
+                            "arguments": [
+                              {
+                                "argumentTypes": null,
+                                "id": 36,
+                                "name": "_cid",
+                                "nodeType": "Identifier",
+                                "overloadedDeclarations": [],
+                                "referencedDeclaration": 22,
+                                "src": "453:4:0",
+                                "typeDescriptions": {
+                                  "typeIdentifier": "t_string_memory_ptr",
+                                  "typeString": "string memory"
+                                }
+                              }
+                            ],
+                            "expression": {
+                              "argumentTypes": [
+                                {
+                                  "typeIdentifier": "t_string_memory_ptr",
+                                  "typeString": "string memory"
+                                }
+                              ],
+                              "id": 35,
+                              "isConstant": false,
+                              "isLValue": false,
+                              "isPure": true,
+                              "lValueRequested": false,
+                              "nodeType": "ElementaryTypeNameExpression",
+                              "src": "447:5:0",
+                              "typeDescriptions": {
+                                "typeIdentifier": "t_type$_t_bytes_storage_ptr_$",
+                                "typeString": "type(bytes storage pointer)"
+                              },
+                              "typeName": "bytes"
+                            },
+                            "id": 37,
+                            "isConstant": false,
+                            "isLValue": false,
+                            "isPure": false,
+                            "kind": "typeConversion",
+                            "lValueRequested": false,
+                            "names": [],
+                            "nodeType": "FunctionCall",
+                            "src": "447:11:0",
+                            "typeDescriptions": {
+                              "typeIdentifier": "t_bytes_memory_ptr",
+                              "typeString": "bytes memory"
+                            }
+                          },
+                          "id": 38,
+                          "isConstant": false,
+                          "isLValue": false,
+                          "isPure": false,
+                          "lValueRequested": false,
+                          "memberName": "length",
+                          "nodeType": "MemberAccess",
+                          "referencedDeclaration": null,
+                          "src": "447:18:0",
+                          "typeDescriptions": {
+                            "typeIdentifier": "t_uint256",
+                            "typeString": "uint256"
+                          }
+                        },
+                        "nodeType": "BinaryOperation",
+                        "operator": ">",
+                        "rightExpression": {
+                          "argumentTypes": null,
+                          "hexValue": "30",
+                          "id": 39,
+                          "isConstant": false,
+                          "isLValue": false,
+                          "isPure": true,
+                          "kind": "number",
+                          "lValueRequested": false,
+                          "nodeType": "Literal",
+                          "src": "468:1:0",
+                          "subdenomination": null,
+                          "typeDescriptions": {
+                            "typeIdentifier": "t_rational_0_by_1",
+                            "typeString": "int_const 0"
+                          },
+                          "value": "0"
+                        },
+                        "src": "447:22:0",
+                        "typeDescriptions": {
+                          "typeIdentifier": "t_bool",
+                          "typeString": "bool"
+                        }
+                      }
+                    ],
+                    "expression": {
+                      "argumentTypes": [
+                        {
+                          "typeIdentifier": "t_bool",
+                          "typeString": "bool"
+                        }
+                      ],
+                      "id": 34,
+                      "name": "require",
+                      "nodeType": "Identifier",
+                      "overloadedDeclarations": [
+                        86,
+                        87
+                      ],
+                      "referencedDeclaration": 86,
+                      "src": "439:7:0",
+                      "typeDescriptions": {
+                        "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
+                        "typeString": "function (bool) pure"
+                      }
+                    },
+                    "id": 41,
+                    "isConstant": false,
+                    "isLValue": false,
+                    "isPure": false,
+                    "kind": "functionCall",
+                    "lValueRequested": false,
+                    "names": [],
+                    "nodeType": "FunctionCall",
+                    "src": "439:31:0",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_tuple$__$",
+                      "typeString": "tuple()"
+                    }
+                  },
+                  "id": 42,
+                  "nodeType": "ExpressionStatement",
+                  "src": "439:31:0"
+                },
+                {
+                  "expression": {
+                    "argumentTypes": null,
+                    "arguments": [
+                      {
+                        "argumentTypes": null,
+                        "id": 49,
+                        "name": "_cid",
+                        "nodeType": "Identifier",
+                        "overloadedDeclarations": [],
+                        "referencedDeclaration": 22,
+                        "src": "533:4:0",
+                        "typeDescriptions": {
+                          "typeIdentifier": "t_string_memory_ptr",
+                          "typeString": "string memory"
+                        }
+                      }
+                    ],
+                    "expression": {
+                      "argumentTypes": [
+                        {
+                          "typeIdentifier": "t_string_memory_ptr",
+                          "typeString": "string memory"
+                        }
+                      ],
+                      "expression": {
+                        "argumentTypes": null,
+                        "expression": {
+                          "argumentTypes": null,
+                          "baseExpression": {
+                            "argumentTypes": null,
+                            "id": 43,
+                            "name": "patients",
+                            "nodeType": "Identifier",
+                            "overloadedDeclarations": [],
+                            "referencedDeclaration": 12,
+                            "src": "489:8:0",
+                            "typeDescriptions": {
+                              "typeIdentifier": "t_mapping$_t_address_$_t_struct$_Patient_$8_storage_$",
+                              "typeString": "mapping(address => struct MedTech.Patient storage ref)"
+                            }
+                          },
+                          "id": 46,
+                          "indexExpression": {
+                            "argumentTypes": null,
+                            "expression": {
+                              "argumentTypes": null,
+                              "id": 44,
+                              "name": "msg",
+                              "nodeType": "Identifier",
+                              "overloadedDeclarations": [],
+                              "referencedDeclaration": 83,
+                              "src": "498:3:0",
+                              "typeDescriptions": {
+                                "typeIdentifier": "t_magic_message",
+                                "typeString": "msg"
+                              }
+                            },
+                            "id": 45,
+                            "isConstant": false,
+                            "isLValue": false,
+                            "isPure": false,
+                            "lValueRequested": false,
+                            "memberName": "sender",
+                            "nodeType": "MemberAccess",
+                            "referencedDeclaration": null,
+                            "src": "498:10:0",
+                            "typeDescriptions": {
+                              "typeIdentifier": "t_address_payable",
+                              "typeString": "address payable"
+                            }
+                          },
+                          "isConstant": false,
+                          "isLValue": true,
+                          "isPure": false,
+                          "lValueRequested": false,
+                          "nodeType": "IndexAccess",
+                          "src": "489:20:0",
+                          "typeDescriptions": {
+                            "typeIdentifier": "t_struct$_Patient_$8_storage",
+                            "typeString": "struct MedTech.Patient storage ref"
+                          }
+                        },
+                        "id": 47,
+                        "isConstant": false,
+                        "isLValue": true,
+                        "isPure": false,
+                        "lValueRequested": false,
+                        "memberName": "medicationRecords",
+                        "nodeType": "MemberAccess",
+                        "referencedDeclaration": 7,
+                        "src": "489:38:0",
+                        "typeDescriptions": {
+                          "typeIdentifier": "t_array$_t_string_storage_$dyn_storage",
+                          "typeString": "string storage ref[] storage ref"
+                        }
+                      },
+                      "id": 48,
+                      "isConstant": false,
+                      "isLValue": false,
+                      "isPure": false,
+                      "lValueRequested": false,
+                      "memberName": "push",
+                      "nodeType": "MemberAccess",
+                      "referencedDeclaration": null,
+                      "src": "489:43:0",
+                      "typeDescriptions": {
+                        "typeIdentifier": "t_function_arraypush_nonpayable$_t_string_storage_$returns$_t_uint256_$",
+                        "typeString": "function (string storage ref) returns (uint256)"
+                      }
+                    },
+                    "id": 50,
+                    "isConstant": false,
+                    "isLValue": false,
+                    "isPure": false,
+                    "kind": "functionCall",
+                    "lValueRequested": false,
+                    "names": [],
+                    "nodeType": "FunctionCall",
+                    "src": "489:49:0",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_uint256",
+                      "typeString": "uint256"
+                    }
+                  },
+                  "id": 51,
+                  "nodeType": "ExpressionStatement",
+                  "src": "489:49:0"
+                }
+              ]
+            },
+            "documentation": null,
+            "id": 53,
+            "implemented": true,
+            "kind": "function",
+            "modifiers": [],
+            "name": "registerMedicationRecord",
+            "nodeType": "FunctionDefinition",
+            "parameters": {
+              "id": 23,
+              "nodeType": "ParameterList",
+              "parameters": [
+                {
+                  "constant": false,
+                  "id": 22,
+                  "name": "_cid",
+                  "nodeType": "VariableDeclaration",
+                  "scope": 53,
+                  "src": "359:18:0",
+                  "stateVariable": false,
+                  "storageLocation": "memory",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_string_memory_ptr",
+                    "typeString": "string"
+                  },
+                  "typeName": {
+                    "id": 21,
+                    "name": "string",
+                    "nodeType": "ElementaryTypeName",
+                    "src": "359:6:0",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_string_storage_ptr",
+                      "typeString": "string"
+                    }
+                  },
+                  "value": null,
+                  "visibility": "internal"
+                }
+              ],
+              "src": "358:20:0"
+            },
+            "returnParameters": {
+              "id": 24,
+              "nodeType": "ParameterList",
+              "parameters": [],
+              "src": "386:0:0"
+            },
+            "scope": 68,
+            "src": "325:220:0",
+            "stateMutability": "nonpayable",
+            "superFunction": null,
+            "visibility": "public"
+          },
+          {
+            "body": {
+              "id": 66,
+              "nodeType": "Block",
+              "src": "648:64:0",
+              "statements": [
+                {
+                  "expression": {
+                    "argumentTypes": null,
+                    "expression": {
+                      "argumentTypes": null,
+                      "baseExpression": {
+                        "argumentTypes": null,
+                        "id": 61,
+                        "name": "patients",
+                        "nodeType": "Identifier",
+                        "overloadedDeclarations": [],
+                        "referencedDeclaration": 12,
+                        "src": "665:8:0",
+                        "typeDescriptions": {
+                          "typeIdentifier": "t_mapping$_t_address_$_t_struct$_Patient_$8_storage_$",
+                          "typeString": "mapping(address => struct MedTech.Patient storage ref)"
+                        }
+                      },
+                      "id": 63,
+                      "indexExpression": {
+                        "argumentTypes": null,
+                        "id": 62,
+                        "name": "_patientAddr",
+                        "nodeType": "Identifier",
+                        "overloadedDeclarations": [],
+                        "referencedDeclaration": 55,
+                        "src": "674:12:0",
+                        "typeDescriptions": {
+                          "typeIdentifier": "t_address",
+                          "typeString": "address"
+                        }
+                      },
+                      "isConstant": false,
+                      "isLValue": true,
+                      "isPure": false,
+                      "lValueRequested": false,
+                      "nodeType": "IndexAccess",
+                      "src": "665:22:0",
+                      "typeDescriptions": {
+                        "typeIdentifier": "t_struct$_Patient_$8_storage",
+                        "typeString": "struct MedTech.Patient storage ref"
+                      }
+                    },
+                    "id": 64,
+                    "isConstant": false,
+                    "isLValue": true,
+                    "isPure": false,
+                    "lValueRequested": false,
+                    "memberName": "medicationRecords",
+                    "nodeType": "MemberAccess",
+                    "referencedDeclaration": 7,
+                    "src": "665:40:0",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_array$_t_string_storage_$dyn_storage",
+                      "typeString": "string storage ref[] storage ref"
+                    }
+                  },
+                  "functionReturnParameters": 60,
+                  "id": 65,
+                  "nodeType": "Return",
+                  "src": "658:47:0"
+                }
+              ]
+            },
+            "documentation": null,
+            "id": 67,
+            "implemented": true,
+            "kind": "function",
+            "modifiers": [],
+            "name": "getPatientMedicationRecords",
+            "nodeType": "FunctionDefinition",
+            "parameters": {
+              "id": 56,
+              "nodeType": "ParameterList",
+              "parameters": [
+                {
+                  "constant": false,
+                  "id": 55,
+                  "name": "_patientAddr",
+                  "nodeType": "VariableDeclaration",
+                  "scope": 67,
+                  "src": "588:20:0",
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_address",
+                    "typeString": "address"
+                  },
+                  "typeName": {
+                    "id": 54,
+                    "name": "address",
+                    "nodeType": "ElementaryTypeName",
+                    "src": "588:7:0",
+                    "stateMutability": "nonpayable",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_address",
+                      "typeString": "address"
+                    }
+                  },
+                  "value": null,
+                  "visibility": "internal"
+                }
+              ],
+              "src": "587:22:0"
+            },
+            "returnParameters": {
+              "id": 60,
+              "nodeType": "ParameterList",
+              "parameters": [
+                {
+                  "constant": false,
+                  "id": 59,
+                  "name": "",
+                  "nodeType": "VariableDeclaration",
+                  "scope": 67,
+                  "src": "631:15:0",
+                  "stateVariable": false,
+                  "storageLocation": "memory",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_array$_t_string_memory_$dyn_memory_ptr",
+                    "typeString": "string[]"
+                  },
+                  "typeName": {
+                    "baseType": {
+                      "id": 57,
+                      "name": "string",
+                      "nodeType": "ElementaryTypeName",
+                      "src": "631:6:0",
+                      "typeDescriptions": {
+                        "typeIdentifier": "t_string_storage_ptr",
+                        "typeString": "string"
+                      }
+                    },
+                    "id": 58,
+                    "length": null,
+                    "nodeType": "ArrayTypeName",
+                    "src": "631:8:0",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_array$_t_string_storage_$dyn_storage_ptr",
+                      "typeString": "string[]"
+                    }
+                  },
+                  "value": null,
+                  "visibility": "internal"
+                }
+              ],
+              "src": "630:17:0"
+            },
+            "scope": 68,
+            "src": "551:161:0",
+            "stateMutability": "view",
+            "superFunction": null,
+            "visibility": "public"
+          }
+        ],
+        "scope": 69,
+        "src": "101:613:0"
+      }
+    ],
+    "src": "32:682:0"
+  },
+  "legacyAST": {
+    "attributes": {
+      "absolutePath": "project:/contracts/MedTech.sol",
+      "exportedSymbols": {
+        "MedTech": [
+          68
+        ]
+      }
+    },
+    "children": [
+      {
+        "attributes": {
+          "literals": [
+            "solidity",
+            ">=",
+            "0.4",
+            ".22",
+            "<",
+            "0.9",
+            ".0"
+          ]
+        },
+        "id": 1,
+        "name": "PragmaDirective",
+        "src": "32:32:0"
+      },
+      {
+        "attributes": {
+          "literals": [
+            "experimental",
+            "ABIEncoderV2"
+          ]
+        },
+        "id": 2,
+        "name": "PragmaDirective",
+        "src": "66:33:0"
+      },
+      {
+        "attributes": {
+          "baseContracts": [
+            null
+          ],
+          "contractDependencies": [
+            null
+          ],
+          "contractKind": "contract",
+          "documentation": null,
+          "fullyImplemented": true,
+          "linearizedBaseContracts": [
+            68
+          ],
+          "name": "MedTech",
+          "scope": 69
+        },
+        "children": [
+          {
+            "attributes": {
+              "constant": false,
+              "name": "name",
+              "scope": 68,
+              "stateVariable": true,
+              "storageLocation": "default",
+              "type": "string",
+              "value": null,
+              "visibility": "public"
+            },
+            "children": [
+              {
+                "attributes": {
+                  "name": "string",
+                  "type": "string"
+                },
+                "id": 3,
+                "name": "ElementaryTypeName",
+                "src": "124:6:0"
+              }
+            ],
+            "id": 4,
+            "name": "VariableDeclaration",
+            "src": "124:18:0"
+          },
+          {
+            "attributes": {
+              "canonicalName": "MedTech.Patient",
+              "name": "Patient",
+              "scope": 68,
+              "visibility": "public"
+            },
+            "children": [
+              {
+                "attributes": {
+                  "constant": false,
+                  "name": "medicationRecords",
+                  "scope": 8,
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "type": "string[]",
+                  "value": null,
+                  "visibility": "internal"
+                },
+                "children": [
+                  {
+                    "attributes": {
+                      "length": null,
+                      "type": "string[]"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "string",
+                          "type": "string"
+                        },
+                        "id": 5,
+                        "name": "ElementaryTypeName",
+                        "src": "174:6:0"
+                      }
+                    ],
+                    "id": 6,
+                    "name": "ArrayTypeName",
+                    "src": "174:8:0"
+                  }
+                ],
+                "id": 7,
+                "name": "VariableDeclaration",
+                "src": "174:26:0"
+              }
+            ],
+            "id": 8,
+            "name": "StructDefinition",
+            "src": "149:58:0"
+          },
+          {
+            "attributes": {
+              "constant": false,
+              "name": "patients",
+              "scope": 68,
+              "stateVariable": true,
+              "storageLocation": "default",
+              "type": "mapping(address => struct MedTech.Patient)",
+              "value": null,
+              "visibility": "private"
+            },
+            "children": [
+              {
+                "attributes": {
+                  "type": "mapping(address => struct MedTech.Patient)"
+                },
+                "children": [
+                  {
+                    "attributes": {
+                      "name": "address",
+                      "type": "address"
+                    },
+                    "id": 9,
+                    "name": "ElementaryTypeName",
+                    "src": "221:7:0"
+                  },
+                  {
+                    "attributes": {
+                      "contractScope": null,
+                      "name": "Patient",
+                      "referencedDeclaration": 8,
+                      "type": "struct MedTech.Patient"
+                    },
+                    "id": 10,
+                    "name": "UserDefinedTypeName",
+                    "src": "232:7:0"
+                  }
+                ],
+                "id": 11,
+                "name": "Mapping",
+                "src": "213:27:0"
+              }
+            ],
+            "id": 12,
+            "name": "VariableDeclaration",
+            "src": "213:44:0"
+          },
+          {
+            "attributes": {
+              "documentation": null,
+              "implemented": true,
+              "isConstructor": true,
+              "kind": "constructor",
+              "modifiers": [
+                null
+              ],
+              "name": "",
+              "scope": 68,
+              "stateMutability": "nonpayable",
+              "superFunction": null,
+              "visibility": "public"
+            },
+            "children": [
+              {
+                "attributes": {
+                  "parameters": [
+                    null
+                  ]
+                },
+                "children": [],
+                "id": 13,
+                "name": "ParameterList",
+                "src": "276:2:0"
+              },
+              {
+                "attributes": {
+                  "parameters": [
+                    null
+                  ]
+                },
+                "children": [],
+                "id": 14,
+                "name": "ParameterList",
+                "src": "286:0:0"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "attributes": {
+                          "argumentTypes": null,
+                          "isConstant": false,
+                          "isLValue": false,
+                          "isPure": false,
+                          "lValueRequested": false,
+                          "operator": "=",
+                          "type": "string storage ref"
+                        },
+                        "children": [
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+                              "overloadedDeclarations": [
+                                null
+                              ],
+                              "referencedDeclaration": 4,
+                              "type": "string storage ref",
+                              "value": "name"
+                            },
+                            "id": 15,
+                            "name": "Identifier",
+                            "src": "296:4:0"
+                          },
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+                              "hexvalue": "6d656454656368",
+                              "isConstant": false,
+                              "isLValue": false,
+                              "isPure": true,
+                              "lValueRequested": false,
+                              "subdenomination": null,
+                              "token": "string",
+                              "type": "literal_string \"medTech\"",
+                              "value": "medTech"
+                            },
+                            "id": 16,
+                            "name": "Literal",
+                            "src": "303:9:0"
+                          }
+                        ],
+                        "id": 17,
+                        "name": "Assignment",
+                        "src": "296:16:0"
+                      }
+                    ],
+                    "id": 18,
+                    "name": "ExpressionStatement",
+                    "src": "296:16:0"
+                  }
+                ],
+                "id": 19,
+                "name": "Block",
+                "src": "286:33:0"
+              }
+            ],
+            "id": 20,
+            "name": "FunctionDefinition",
+            "src": "265:54:0"
+          },
+          {
+            "attributes": {
+              "documentation": null,
+              "implemented": true,
+              "isConstructor": false,
+              "kind": "function",
+              "modifiers": [
+                null
+              ],
+              "name": "registerMedicationRecord",
+              "scope": 68,
+              "stateMutability": "nonpayable",
+              "superFunction": null,
+              "visibility": "public"
+            },
+            "children": [
+              {
+                "children": [
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "name": "_cid",
+                      "scope": 53,
+                      "stateVariable": false,
+                      "storageLocation": "memory",
+                      "type": "string",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "string",
+                          "type": "string"
+                        },
+                        "id": 21,
+                        "name": "ElementaryTypeName",
+                        "src": "359:6:0"
+                      }
+                    ],
+                    "id": 22,
+                    "name": "VariableDeclaration",
+                    "src": "359:18:0"
+                  }
+                ],
+                "id": 23,
+                "name": "ParameterList",
+                "src": "358:20:0"
+              },
+              {
+                "attributes": {
+                  "parameters": [
+                    null
+                  ]
+                },
+                "children": [],
+                "id": 24,
+                "name": "ParameterList",
+                "src": "386:0:0"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "attributes": {
+                          "argumentTypes": null,
+                          "isConstant": false,
+                          "isLValue": false,
+                          "isPure": false,
+                          "isStructConstructorCall": false,
+                          "lValueRequested": false,
+                          "names": [
+                            null
+                          ],
+                          "type": "tuple()",
+                          "type_conversion": false
+                        },
+                        "children": [
+                          {
+                            "attributes": {
+                              "argumentTypes": [
+                                {
+                                  "typeIdentifier": "t_bool",
+                                  "typeString": "bool"
+                                }
+                              ],
+                              "overloadedDeclarations": [
+                                86,
+                                87
+                              ],
+                              "referencedDeclaration": 86,
+                              "type": "function (bool) pure",
+                              "value": "require"
+                            },
+                            "id": 25,
+                            "name": "Identifier",
+                            "src": "396:7:0"
+                          },
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+                              "commonType": {
+                                "typeIdentifier": "t_address_payable",
+                                "typeString": "address payable"
+                              },
+                              "isConstant": false,
+                              "isLValue": false,
+                              "isPure": false,
+                              "lValueRequested": false,
+                              "operator": "!=",
+                              "type": "bool"
+                            },
+                            "children": [
+                              {
+                                "attributes": {
+                                  "argumentTypes": null,
+                                  "isConstant": false,
+                                  "isLValue": false,
+                                  "isPure": false,
+                                  "lValueRequested": false,
+                                  "member_name": "sender",
+                                  "referencedDeclaration": null,
+                                  "type": "address payable"
+                                },
+                                "children": [
+                                  {
+                                    "attributes": {
+                                      "argumentTypes": null,
+                                      "overloadedDeclarations": [
+                                        null
+                                      ],
+                                      "referencedDeclaration": 83,
+                                      "type": "msg",
+                                      "value": "msg"
+                                    },
+                                    "id": 26,
+                                    "name": "Identifier",
+                                    "src": "404:3:0"
+                                  }
+                                ],
+                                "id": 27,
+                                "name": "MemberAccess",
+                                "src": "404:10:0"
+                              },
+                              {
+                                "attributes": {
+                                  "argumentTypes": null,
+                                  "isConstant": false,
+                                  "isLValue": false,
+                                  "isPure": true,
+                                  "isStructConstructorCall": false,
+                                  "lValueRequested": false,
+                                  "names": [
+                                    null
+                                  ],
+                                  "type": "address payable",
+                                  "type_conversion": true
+                                },
+                                "children": [
+                                  {
+                                    "attributes": {
+                                      "argumentTypes": [
+                                        {
+                                          "typeIdentifier": "t_rational_0_by_1",
+                                          "typeString": "int_const 0"
+                                        }
+                                      ],
+                                      "isConstant": false,
+                                      "isLValue": false,
+                                      "isPure": true,
+                                      "lValueRequested": false,
+                                      "type": "type(address)",
+                                      "value": "address"
+                                    },
+                                    "id": 28,
+                                    "name": "ElementaryTypeNameExpression",
+                                    "src": "418:7:0"
+                                  },
+                                  {
+                                    "attributes": {
+                                      "argumentTypes": null,
+                                      "hexvalue": "30",
+                                      "isConstant": false,
+                                      "isLValue": false,
+                                      "isPure": true,
+                                      "lValueRequested": false,
+                                      "subdenomination": null,
+                                      "token": "number",
+                                      "type": "int_const 0",
+                                      "value": "0"
+                                    },
+                                    "id": 29,
+                                    "name": "Literal",
+                                    "src": "426:1:0"
+                                  }
+                                ],
+                                "id": 30,
+                                "name": "FunctionCall",
+                                "src": "418:10:0"
+                              }
+                            ],
+                            "id": 31,
+                            "name": "BinaryOperation",
+                            "src": "404:24:0"
+                          }
+                        ],
+                        "id": 32,
+                        "name": "FunctionCall",
+                        "src": "396:33:0"
+                      }
+                    ],
+                    "id": 33,
+                    "name": "ExpressionStatement",
+                    "src": "396:33:0"
+                  },
+                  {
+                    "children": [
+                      {
+                        "attributes": {
+                          "argumentTypes": null,
+                          "isConstant": false,
+                          "isLValue": false,
+                          "isPure": false,
+                          "isStructConstructorCall": false,
+                          "lValueRequested": false,
+                          "names": [
+                            null
+                          ],
+                          "type": "tuple()",
+                          "type_conversion": false
+                        },
+                        "children": [
+                          {
+                            "attributes": {
+                              "argumentTypes": [
+                                {
+                                  "typeIdentifier": "t_bool",
+                                  "typeString": "bool"
+                                }
+                              ],
+                              "overloadedDeclarations": [
+                                86,
+                                87
+                              ],
+                              "referencedDeclaration": 86,
+                              "type": "function (bool) pure",
+                              "value": "require"
+                            },
+                            "id": 34,
+                            "name": "Identifier",
+                            "src": "439:7:0"
+                          },
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+                              "commonType": {
+                                "typeIdentifier": "t_uint256",
+                                "typeString": "uint256"
+                              },
+                              "isConstant": false,
+                              "isLValue": false,
+                              "isPure": false,
+                              "lValueRequested": false,
+                              "operator": ">",
+                              "type": "bool"
+                            },
+                            "children": [
+                              {
+                                "attributes": {
+                                  "argumentTypes": null,
+                                  "isConstant": false,
+                                  "isLValue": false,
+                                  "isPure": false,
+                                  "lValueRequested": false,
+                                  "member_name": "length",
+                                  "referencedDeclaration": null,
+                                  "type": "uint256"
+                                },
+                                "children": [
+                                  {
+                                    "attributes": {
+                                      "argumentTypes": null,
+                                      "isConstant": false,
+                                      "isLValue": false,
+                                      "isPure": false,
+                                      "isStructConstructorCall": false,
+                                      "lValueRequested": false,
+                                      "names": [
+                                        null
+                                      ],
+                                      "type": "bytes memory",
+                                      "type_conversion": true
+                                    },
+                                    "children": [
+                                      {
+                                        "attributes": {
+                                          "argumentTypes": [
+                                            {
+                                              "typeIdentifier": "t_string_memory_ptr",
+                                              "typeString": "string memory"
+                                            }
+                                          ],
+                                          "isConstant": false,
+                                          "isLValue": false,
+                                          "isPure": true,
+                                          "lValueRequested": false,
+                                          "type": "type(bytes storage pointer)",
+                                          "value": "bytes"
+                                        },
+                                        "id": 35,
+                                        "name": "ElementaryTypeNameExpression",
+                                        "src": "447:5:0"
+                                      },
+                                      {
+                                        "attributes": {
+                                          "argumentTypes": null,
+                                          "overloadedDeclarations": [
+                                            null
+                                          ],
+                                          "referencedDeclaration": 22,
+                                          "type": "string memory",
+                                          "value": "_cid"
+                                        },
+                                        "id": 36,
+                                        "name": "Identifier",
+                                        "src": "453:4:0"
+                                      }
+                                    ],
+                                    "id": 37,
+                                    "name": "FunctionCall",
+                                    "src": "447:11:0"
+                                  }
+                                ],
+                                "id": 38,
+                                "name": "MemberAccess",
+                                "src": "447:18:0"
+                              },
+                              {
+                                "attributes": {
+                                  "argumentTypes": null,
+                                  "hexvalue": "30",
+                                  "isConstant": false,
+                                  "isLValue": false,
+                                  "isPure": true,
+                                  "lValueRequested": false,
+                                  "subdenomination": null,
+                                  "token": "number",
+                                  "type": "int_const 0",
+                                  "value": "0"
+                                },
+                                "id": 39,
+                                "name": "Literal",
+                                "src": "468:1:0"
+                              }
+                            ],
+                            "id": 40,
+                            "name": "BinaryOperation",
+                            "src": "447:22:0"
+                          }
+                        ],
+                        "id": 41,
+                        "name": "FunctionCall",
+                        "src": "439:31:0"
+                      }
+                    ],
+                    "id": 42,
+                    "name": "ExpressionStatement",
+                    "src": "439:31:0"
+                  },
+                  {
+                    "children": [
+                      {
+                        "attributes": {
+                          "argumentTypes": null,
+                          "isConstant": false,
+                          "isLValue": false,
+                          "isPure": false,
+                          "isStructConstructorCall": false,
+                          "lValueRequested": false,
+                          "names": [
+                            null
+                          ],
+                          "type": "uint256",
+                          "type_conversion": false
+                        },
+                        "children": [
+                          {
+                            "attributes": {
+                              "argumentTypes": [
+                                {
+                                  "typeIdentifier": "t_string_memory_ptr",
+                                  "typeString": "string memory"
+                                }
+                              ],
+                              "isConstant": false,
+                              "isLValue": false,
+                              "isPure": false,
+                              "lValueRequested": false,
+                              "member_name": "push",
+                              "referencedDeclaration": null,
+                              "type": "function (string storage ref) returns (uint256)"
+                            },
+                            "children": [
+                              {
+                                "attributes": {
+                                  "argumentTypes": null,
+                                  "isConstant": false,
+                                  "isLValue": true,
+                                  "isPure": false,
+                                  "lValueRequested": false,
+                                  "member_name": "medicationRecords",
+                                  "referencedDeclaration": 7,
+                                  "type": "string storage ref[] storage ref"
+                                },
+                                "children": [
+                                  {
+                                    "attributes": {
+                                      "argumentTypes": null,
+                                      "isConstant": false,
+                                      "isLValue": true,
+                                      "isPure": false,
+                                      "lValueRequested": false,
+                                      "type": "struct MedTech.Patient storage ref"
+                                    },
+                                    "children": [
+                                      {
+                                        "attributes": {
+                                          "argumentTypes": null,
+                                          "overloadedDeclarations": [
+                                            null
+                                          ],
+                                          "referencedDeclaration": 12,
+                                          "type": "mapping(address => struct MedTech.Patient storage ref)",
+                                          "value": "patients"
+                                        },
+                                        "id": 43,
+                                        "name": "Identifier",
+                                        "src": "489:8:0"
+                                      },
+                                      {
+                                        "attributes": {
+                                          "argumentTypes": null,
+                                          "isConstant": false,
+                                          "isLValue": false,
+                                          "isPure": false,
+                                          "lValueRequested": false,
+                                          "member_name": "sender",
+                                          "referencedDeclaration": null,
+                                          "type": "address payable"
+                                        },
+                                        "children": [
+                                          {
+                                            "attributes": {
+                                              "argumentTypes": null,
+                                              "overloadedDeclarations": [
+                                                null
+                                              ],
+                                              "referencedDeclaration": 83,
+                                              "type": "msg",
+                                              "value": "msg"
+                                            },
+                                            "id": 44,
+                                            "name": "Identifier",
+                                            "src": "498:3:0"
+                                          }
+                                        ],
+                                        "id": 45,
+                                        "name": "MemberAccess",
+                                        "src": "498:10:0"
+                                      }
+                                    ],
+                                    "id": 46,
+                                    "name": "IndexAccess",
+                                    "src": "489:20:0"
+                                  }
+                                ],
+                                "id": 47,
+                                "name": "MemberAccess",
+                                "src": "489:38:0"
+                              }
+                            ],
+                            "id": 48,
+                            "name": "MemberAccess",
+                            "src": "489:43:0"
+                          },
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+                              "overloadedDeclarations": [
+                                null
+                              ],
+                              "referencedDeclaration": 22,
+                              "type": "string memory",
+                              "value": "_cid"
+                            },
+                            "id": 49,
+                            "name": "Identifier",
+                            "src": "533:4:0"
+                          }
+                        ],
+                        "id": 50,
+                        "name": "FunctionCall",
+                        "src": "489:49:0"
+                      }
+                    ],
+                    "id": 51,
+                    "name": "ExpressionStatement",
+                    "src": "489:49:0"
+                  }
+                ],
+                "id": 52,
+                "name": "Block",
+                "src": "386:159:0"
+              }
+            ],
+            "id": 53,
+            "name": "FunctionDefinition",
+            "src": "325:220:0"
+          },
+          {
+            "attributes": {
+              "documentation": null,
+              "implemented": true,
+              "isConstructor": false,
+              "kind": "function",
+              "modifiers": [
+                null
+              ],
+              "name": "getPatientMedicationRecords",
+              "scope": 68,
+              "stateMutability": "view",
+              "superFunction": null,
+              "visibility": "public"
+            },
+            "children": [
+              {
+                "children": [
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "name": "_patientAddr",
+                      "scope": 67,
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "address",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "address",
+                          "stateMutability": "nonpayable",
+                          "type": "address"
+                        },
+                        "id": 54,
+                        "name": "ElementaryTypeName",
+                        "src": "588:7:0"
+                      }
+                    ],
+                    "id": 55,
+                    "name": "VariableDeclaration",
+                    "src": "588:20:0"
+                  }
+                ],
+                "id": 56,
+                "name": "ParameterList",
+                "src": "587:22:0"
+              },
+              {
+                "children": [
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "name": "",
+                      "scope": 67,
+                      "stateVariable": false,
+                      "storageLocation": "memory",
+                      "type": "string[]",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "length": null,
+                          "type": "string[]"
+                        },
+                        "children": [
+                          {
+                            "attributes": {
+                              "name": "string",
+                              "type": "string"
+                            },
+                            "id": 57,
+                            "name": "ElementaryTypeName",
+                            "src": "631:6:0"
+                          }
+                        ],
+                        "id": 58,
+                        "name": "ArrayTypeName",
+                        "src": "631:8:0"
+                      }
+                    ],
+                    "id": 59,
+                    "name": "VariableDeclaration",
+                    "src": "631:15:0"
+                  }
+                ],
+                "id": 60,
+                "name": "ParameterList",
+                "src": "630:17:0"
+              },
+              {
+                "children": [
+                  {
+                    "attributes": {
+                      "functionReturnParameters": 60
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "argumentTypes": null,
+                          "isConstant": false,
+                          "isLValue": true,
+                          "isPure": false,
+                          "lValueRequested": false,
+                          "member_name": "medicationRecords",
+                          "referencedDeclaration": 7,
+                          "type": "string storage ref[] storage ref"
+                        },
+                        "children": [
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+                              "isConstant": false,
+                              "isLValue": true,
+                              "isPure": false,
+                              "lValueRequested": false,
+                              "type": "struct MedTech.Patient storage ref"
+                            },
+                            "children": [
+                              {
+                                "attributes": {
+                                  "argumentTypes": null,
+                                  "overloadedDeclarations": [
+                                    null
+                                  ],
+                                  "referencedDeclaration": 12,
+                                  "type": "mapping(address => struct MedTech.Patient storage ref)",
+                                  "value": "patients"
+                                },
+                                "id": 61,
+                                "name": "Identifier",
+                                "src": "665:8:0"
+                              },
+                              {
+                                "attributes": {
+                                  "argumentTypes": null,
+                                  "overloadedDeclarations": [
+                                    null
+                                  ],
+                                  "referencedDeclaration": 55,
+                                  "type": "address",
+                                  "value": "_patientAddr"
+                                },
+                                "id": 62,
+                                "name": "Identifier",
+                                "src": "674:12:0"
+                              }
+                            ],
+                            "id": 63,
+                            "name": "IndexAccess",
+                            "src": "665:22:0"
+                          }
+                        ],
+                        "id": 64,
+                        "name": "MemberAccess",
+                        "src": "665:40:0"
+                      }
+                    ],
+                    "id": 65,
+                    "name": "Return",
+                    "src": "658:47:0"
+                  }
+                ],
+                "id": 66,
+                "name": "Block",
+                "src": "648:64:0"
+              }
+            ],
+            "id": 67,
+            "name": "FunctionDefinition",
+            "src": "551:161:0"
+          }
+        ],
+        "id": 68,
+        "name": "ContractDefinition",
+        "src": "101:613:0"
+      }
+    ],
+    "id": 69,
+    "name": "SourceUnit",
+    "src": "32:682:0"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.5.16+commit.9c3226ce.Emscripten.clang"
+  },
+  "networks": {
+    "5777": {
+      "events": {},
+      "links": {},
+      "address": "0x2A3BD9A67351B37e6Cc90D8ec742b240f375e87C",
+      "transactionHash": "0x1c488824cafb8650157fb37ef21bdc8a464b64e178c06dbcb997dc3019cccd75"
+    }
+  },
+  "schemaVersion": "3.4.16",
+  "updatedAt": "2024-02-28T13:36:43.422Z",
+  "networkType": "ethereum",
+  "devdoc": {
+    "methods": {}
+  },
+  "userdoc": {
+    "methods": {}
+  }
+}
